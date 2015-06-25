@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Of backing up and checking twice &#x2665; Wall Of Scribbles</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="This is me. I make digital things">
+        <meta name="author" content="Corey Dutson">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link type="text/plain" rel="author" href="../../theme/humans.txt" />
+
+        <script type='text/javascript' src='//code.jquery.com/jquery-1.11.3.min.js'></script>
+            <script type='text/javascript' src='../../theme/webassets-external/d46a27c8e6574780133950f74c560b24_modernizr-min.js'></script>
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
+    
+            <link rel="stylesheet" href="../../theme/webassets-external/67f3b7b5e7dee44893609921b80fd056_pygment.css">
+            <link rel="stylesheet" href="../../theme/webassets-external/57dfd49ee87653ab4f71fe36c06150d1_s.css">
+</head>
+
+<body id="index" class="">
+
+    <div id="pageWrap">
+
+        <header id="header">
+            <div class='site-title '><a class='pulse' href="../..">Wall Of Scribbles</a></div>
+            <div class='site-tagline'>This is me. I make digital things.</div>
+            <nav id="mainNavigation">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/archives.html">Writing</li>
+                    <li><a href="/pages/portfolio.html">Portfolio</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="sizeIcon">
+            <span class="fa fa-desktop"></span>
+            <span class="fa fa-laptop"></span>
+            <span class="fa fa-tablet"></span>
+            <span class="fa fa-mobile"></span>
+        </div>
+        <div id="contentWrapper">
+<section id="singlePost">
+<article id="post" class="content-article article ">
+    <header>
+        <h1 class="entry-title"><a href="../../2008/07/of-backing-up-and-checking-twice.html" rel="bookmark" title="Permalink to Of backing up and checking twice">Of backing up and checking twice</a></h1>
+        <div class="date-holder">Released <abbr class="published" title="2008-07-21T00:05:00-04:00"> July 21, 2008 </abbr>
+            <a href="../../2008/07/of-backing-up-and-checking-twice.html#disqus_thread" class="comment-count"><span class="disqus-comment-count" data-disqus-url="../../2008/07/of-backing-up-and-checking-twice.html"></span></a>
+        </div>
+    </header>
+    <section id="post-content">
+        <p>Being the smart man that I am, I thought "Hell, I'll just roll back a
+version to when it worked! It's probably some little bug with Wordpress,
+no big deal." I totally forgot my FTP information, so there was 40
+minutes of my life I can't bet back.</p>
+<p>In the end I rolled everything back and now the site worked again, but I
+was still getting an error that I couldn't figure out. I tried
+re-installing the latest version, and I was still getting an error which
+totally confused me.</p>
+<p>Now I'm getting angry. Something had changed between a couple days ago
+and now. Could I remember? Of course not. If I could remember what I had
+really done, I wouldn't of had a problem. As a result I ended up searing
+a bunch and scrambling to get my site working as it should again. I
+tried every combination I could think of that involved installing and
+uninstalling everything. In this process I told myself, "make sure you
+backup that theme you worked so hard on!"</p>
+<p>I didn't of course, but we'll get to that.</p>
+<p>Eventually I had the bright idea of "Why not just copy my development
+version over to of the live version? I mean it works fine there!" I
+forgot that when you're going to do a blind copy, it's generally good
+practice to back up any and all files you may have changed from one
+server to the other. This includes the files that make up my new theme.
+The result? I rolled back 2 days worth of changes to the websites theme
+and the problem was <strong><em>still there</em></strong>.</p>
+<p>get_leader</p>
+<p>Now I'm swearing up and down the walls. I'm saying things that I should
+probably seek forgiveness for having said. I'm angry because now not
+only have i rolled back my theme and lost so much work, but Isomehow
+still have this messed up error!</p>
+<p>Now it's time for me to bust out my debugging skills.</p>
+<ul>
+<li>I removed the entire installation including all theme files,
+    plugins, and extras.<br />
+<strong>Result:</strong> Site is dead. Good start.</li>
+<li>I reinstall Wordpress and get it pointing to the old database (which
+    was a fun time in and of itself, as i forgot my database server
+    location)<br />
+<strong>Result:</strong> site is up, back to the old blue but up.</li>
+<li>I re-install my theme and apply it<br />
+<strong>Result:</strong> Site is borked because I need certain things in my
+    theme to work. Old error isn't appearing</li>
+<li>Copy in my plugins<br />
+<strong>Result:</strong> no change</li>
+<li>Activate "Hello Dolly" plugin (I like it, shut up)<br />
+<strong>Result:</strong> Crazy error shows up. I'm now confused.</li>
+<li>Deactivate Hello Dolly, and activate Twitter.<br />
+<strong>Result:</strong> Everything's great. Still confused.</li>
+<li>Activate Hello Dolly again.<br />
+<strong>Result:</strong> The shit's fucked up again.</li>
+</ul>
+<p>Somehow throughout all of my backups and my restores, the Hello Dolly
+plugin got rather messed up. I cannot and refuse to explain or
+understand why. In the end I lost two days of work, and a day of
+progress because of a useless plugin. What have I learned from this?</p>
+<h3>Back your shit up before you start, and for the love of all that is sacred and pure, think about what you're doing before you do it.</h3>
+<p>I eventually got everything running again (as you can see) but believe
+me when I say I could have done without the self-loathing, swearing, and
+stress.</p>
+    </section>
+
+    <footer class="post-info">
+        <div class="meta">
+            <p>
+                <span title="tags" class="fa fa-tags"></span>
+                    <a href="../../tag/backup.html">backup</a>
+,                     <a href="../../tag/personal.html">Personal</a>
+,                     <a href="../../tag/stupid.html">stupid</a>
+,                     <a href="../../tag/theme.html">theme</a>
+,                     <a href="../../tag/wordpress.html">Wordpress</a>
+            </p>
+        </div>
+    </footer>
+        <section id="commentsHolder">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    var disqus_shortname = 'wallofscribbles';
+	    
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        </section>
+</article></section>
+        </div>
+    </div>
+<footer id="footer">
+    <div class="footer-stuff">
+        <nav id="externalLinks">
+            <h2>Where you can find me online</h2>
+            <ul>
+                <li><a href="http://www.twitter.com/cdutson"><i class="fa fa-twitter-square"></i><span>Twitter</span></a></li>
+                <li><a href="http://dutsoninlondon.tumblr.com"><i  class="fa fa-tumblr-square"></i><span>Tumblr</span></a></li>
+                <li><a href="http://www.flickr.com/photos/corey_dutson"><i class="fa fa-flickr"></i><span>Flickr</span></a></li>
+                <li><a href="http://www.linkedin.com/in/coreydutson"><i class="fa fa-linkedin-square"></i><span>LinkedIn</span></a></li>
+                <li><a href="https://github.com/cdutson"><i class="fa fa-github-square"></i><span>Github</span></a></li>
+                <li><a href="http://steamcommunity.com/id/cdutson"><i class="fa fa-steam-square"></i><span>Steam</span></a></li>
+                <li><a href="http://www.behance.net/coreydutson"><i class="fa fa-behance-square"></i><span>Behance</span></a></li>
+            </ul>
+        </nav>
+
+        <nav id="extraLinks">
+            <h2>I don't have icons for these links</h2>
+            <ul>
+                <li class="goodreads"><a href="http://www.goodreads.com/user/show/1198481">Goodreads</a></li>
+                <li class="prints"><a href="http://printsbydutson.com">Prints by Dutson</a></li>
+            </ul>
+        </nav>
+        
+        <p class="copy">© Corey Dutson, 2015.<br/>Built using <a href="http://getpelican.com/">Pelican</a></p>
+    </div>
+</footer>        <script type='text/javascript' src='../../theme/webassets-external/a05a980c28bd2e3b9a3625b2af67b711_plugins.js'></script>
+        <script type='text/javascript' src='../../theme/webassets-external/4ca0b55487c0d704be1c035e83f89932_general.js'></script>
+    <script>
+        $(document).ready(function() {
+            WOS.UI.init();
+    
+        });
+    </script>
+    <script type="text/javascript">
+        var disqus_shortname = 'wallofscribbles'; // required: replace example with your forum shortname
+
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+</body>
+</html>

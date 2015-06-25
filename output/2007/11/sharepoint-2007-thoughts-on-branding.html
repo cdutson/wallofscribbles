@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>SharePoint 2007: Thoughts on Branding &#x2665; Wall Of Scribbles</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="This is me. I make digital things">
+        <meta name="author" content="Corey Dutson">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link type="text/plain" rel="author" href="../../theme/humans.txt" />
+
+        <script type='text/javascript' src='//code.jquery.com/jquery-1.11.3.min.js'></script>
+            <script type='text/javascript' src='../../theme/webassets-external/d46a27c8e6574780133950f74c560b24_modernizr-min.js'></script>
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
+    
+            <link rel="stylesheet" href="../../theme/webassets-external/67f3b7b5e7dee44893609921b80fd056_pygment.css">
+            <link rel="stylesheet" href="../../theme/webassets-external/57dfd49ee87653ab4f71fe36c06150d1_s.css">
+</head>
+
+<body id="index" class="">
+
+    <div id="pageWrap">
+
+        <header id="header">
+            <div class='site-title '><a class='pulse' href="../..">Wall Of Scribbles</a></div>
+            <div class='site-tagline'>This is me. I make digital things.</div>
+            <nav id="mainNavigation">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/archives.html">Writing</li>
+                    <li><a href="/pages/portfolio.html">Portfolio</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="sizeIcon">
+            <span class="fa fa-desktop"></span>
+            <span class="fa fa-laptop"></span>
+            <span class="fa fa-tablet"></span>
+            <span class="fa fa-mobile"></span>
+        </div>
+        <div id="contentWrapper">
+<section id="singlePost">
+<article id="post" class="content-article article ">
+    <header>
+        <h1 class="entry-title"><a href="../../2007/11/sharepoint-2007-thoughts-on-branding.html" rel="bookmark" title="Permalink to SharePoint 2007: Thoughts on Branding">SharePoint 2007: Thoughts on Branding</a></h1>
+        <div class="date-holder">Released <abbr class="published" title="2007-11-09T01:29:00-05:00"> November 09, 2007 </abbr>
+            <a href="../../2007/11/sharepoint-2007-thoughts-on-branding.html#disqus_thread" class="comment-count"><span class="disqus-comment-count" data-disqus-url="../../2007/11/sharepoint-2007-thoughts-on-branding.html"></span></a>
+        </div>
+    </header>
+    <section id="post-content">
+        <p>In any case, my work specializes in <a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint
+2007</a>
+customization. Some of our stuff can currently be seen on the net,
+though for safety-sake I will not mention where. (I'm knew to this
+job-related posting thing, cut me some slack.)
+<a href="http://cameronmoll.com/archives/2007/10/sharepoint_2007_pointedly_unskinnable/" title="Cameron Moll">Cameron</a>states
+that SharePoint is good for CMS or collaboration, but using it for both
+is basically a masochistic task branding-wise. This is basically my job.
+I do other things too, but for the most part I turn our <a href="http://plantt.ca/" title="Richard Plantt">very talented
+designer's</a> visions into realities.
+As I stated previously, I manipulate the crap out of
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint</a>.
+It is my domain (or so I keep telling myself) and I turn the sad excuse
+for a vanilla theme into something worth looking at.</p>
+<p>To be honest: it's a pain. There is no way around that. I've had moments
+in my still-new career where I've wanted to put my fist through the
+screen in frustration from applying a brand to the system. Now all that
+aside - I'm getting worked up here - It doesn't have to be a nightmare.
+There are ways to cascade changes throughout a site without sacrificing
+a lamb. This is of course assuming you don't have to <em>also</em> brand the
+administrative side of the whole deal. The reason for this is fairly
+simple:
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint's</a>
+administrative templates are powered from the file system, and not
+through their ghosting system.</p>
+<p>I'm going to take a moment to clarify "Ghosting".
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint</a>
+operates on a template basis. That means that when you use what is given
+by
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint</a>,
+it all points to the same file. The second you go and customize that
+file, a new copy is created in the database, and so the original is left
+in tact. This is called ghosting. Whenever you customize a page, you are
+effectively "unghosting" the page. That is to say that you are no longer
+living from the predefined, but making your own file in the database.
+This is a great idea which can help save on server memory (Hard
+disk-wise) and I totally agree with it.</p>
+<p>So why the hell did Microsoft decide that all the administrative pages
+be fueled by a totally different system? They do indeed say it was
+purposely designed that way, but I call bull on that. What it sounds
+like to me is that they either ran out of time, or had the front-end
+team and the back-end team kept in different buildings, and told never
+to talk to one another under pain of death. As a result, when you decide
+you want to brand anything in the back end, you have three options:</p>
+<ol>
+<li>Stick to manipulating the CSS. I wont get into the agony of
+    explaining this in detail simply because it would take too long. The
+    short of it is that the CORE.CSS that SharePoint uses is over 4000
+    lines by itself. Never mind the other eight they have for
+    special instances. On top of that, you are limited to all the
+    elements that are on the page. This is severely limiting and at the
+    very least, painful. Finding what classes do what can be akin to
+    pulling teeth out with a 9 iron.</li>
+<li>Make a theme. I hate themes with a passion. They were obviously
+    tacked on as an afterthought and it shows. Who's the genius that
+    figured that resetting the server in order for any changes you made
+    to the core theme folder to appear in your applications. further
+    more, why in Gods name would you copy the files to the local site
+    instead of referencing them? That means that if there was a critical
+    error in your theme and you've already applied it to 60 sites, you
+    now have to go into each of those sites and apply the default again
+    and <em>then</em> apply the now-fixed theme. I hope whoever did that
+    was fired.</li>
+<li>Change the file-system items. The short of this: Don't. You <em>can</em> do
+    that, you really can but I will guarantee that this will eventually
+    end in heartbreak. What happens when the updates roll out - and you
+    know they will- and overwrite your hard work? Now you have to go
+    back and re-work everything on the page. God only knows
+    what's changed. This is the minor half of the problem though.</li>
+</ol>
+<p>The only viable option is the first one. It sucks on levels all unto
+itself, however since the second sucks when your site has more then one
+sub-site is even worse, and the third option generally leads to tears
+and wasted hours (been there, done that) it's still the best option in
+the end.<br />
+<!--adsense--><br />
+"<em>But Corey! Surely editing the system files allows for the most
+customization and look/feel!</em>" Absolutely right, and I won't argue that
+point. I will argue that I'll advocate against it whenever possible
+though. Here's why:</p>
+<p>The big problem is that since you are editing file-system items, they're
+shared. That's right. If you have two totally unique site hosted on the
+same box, you're going to notice that one of them is going to the
+administrative look of the other site. This could be manageable if only
+administrators saw it. The odds of this are that at some point you are
+going to go into a list. the master page for viewing <em>all</em> lists is one
+of those shared items. It's the same one used for branding
+administrative panels. See where I'm going with this? Heck, even if its
+just a collaboration site, that will still come up.</p>
+<p><a href="http://cameronmoll.com/archives/2007/10/sharepoint_2007_pointedly_unskinnable/" title="Cameron Moll">Cameron</a>
+shows off the website "<a href="http://www.hawaiianair.com/Pages/Index.aspx" title="Hawaiian Airlines">Hawaiian
+Airlines</a>"
+which is a pretty nice site. Simple, to the point, and gets the job
+done. It's also had every page customized (it appears to be that way to
+me, I could be wrong), and custom parts have obviously played a rather
+large part of the site. I'm not bashing it in any way here, so please
+don't misunderstand. What I'm saying is there was a <em>lot</em> of care put
+into making that site look the way it does, and I can only pray that
+they didn't brand the back-end with the same zeal as they did the front.
+If they did, i weep at their commitment.</p>
+<p>What I'm getting at here is that though there are many ways to brand
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint</a>,
+none of them are painless. The best route is trying to convince your
+client/boss/whoever is paying for the endeavor not to bother branding
+the back-end. This is a rare treat and you really shouldn't go expecting
+it. Failing that, I suggest going with option 1. It's a pain in the ass
+but it's the easiest in the long run. You can also ease the pain by
+using tools like <a href="http://www.getfirebug.com/" title="Firebug">Firebug</a> and the
+<a href="http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&amp;displaylang=en" title="Internet Explorer Developer Toolbar">IE Development
+Toolbar</a>.
+If you have to go beyond that (which I have had to do in the past, and I
+am certain I will be doing so in the future as well) then I wish you
+luck. You'll need it.</p>
+<p>The last point I'll touch on is something <a href="http://cameronmoll.com/archives/2007/10/sharepoint_2007_pointedly_unskinnable/" title="Cameron Moll">Mr.
+Moll</a>
+covers in the last paragraph. The user experience in Vanilla <a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">MOSS
+2007</a>
+is depressing sometimes. Limitations for no real reason, way too much
+user effort for minimal gain, and don't get me started on the many,
+<em>many</em> useless steps to achieve certain things. Welcome to the other
+half of my job. I won't get into this part too much, but despite my boss
+wanting us to stay away from customization wherever possible, I've
+noticed that to really take advantage of what
+<a href="http://office.microsoft.com/en-us/sharepointserver/FX100492001033.aspx" title="SharePoint 2007">SharePoint's</a>
+core ability <em>can</em> do... well you need to be there to customize a
+solution to access the power. Don't get me wrong, SharePoint can do a
+lot of things, but as I have experienced in the past it generally makes
+the development team work- and work hard- for it.</p>
+<p>And that's my two cents on it.I like my job, I really do. I've learned
+what I deem to be 'snoot loads' but it's been a hard way getting here.
+I'm glad for it, but seriously: fist through the screen frustrated
+sometimes. Good luck people.</p>
+    </section>
+
+    <footer class="post-info">
+        <div class="meta">
+            <p>
+                <span title="tags" class="fa fa-tags"></span>
+                    <a href="../../tag/branding.html">branding</a>
+,                     <a href="../../tag/cameron-molls.html">Cameron Molls</a>
+,                     <a href="../../tag/css.html">CSS</a>
+,                     <a href="../../tag/customization.html">customization</a>
+,                     <a href="../../tag/design.html">Design</a>
+,                     <a href="../../tag/designing.html">designing</a>
+,                     <a href="../../tag/job.html">job</a>
+,                     <a href="../../tag/moss-2007.html">MOSS 2007</a>
+,                     <a href="../../tag/sharepoint-2007.html">SharePoint 2007</a>
+,                     <a href="../../tag/technology.html">Technology</a>
+            </p>
+        </div>
+    </footer>
+        <section id="commentsHolder">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    var disqus_shortname = 'wallofscribbles';
+	    
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        </section>
+</article></section>
+        </div>
+    </div>
+<footer id="footer">
+    <div class="footer-stuff">
+        <nav id="externalLinks">
+            <h2>Where you can find me online</h2>
+            <ul>
+                <li><a href="http://www.twitter.com/cdutson"><i class="fa fa-twitter-square"></i><span>Twitter</span></a></li>
+                <li><a href="http://dutsoninlondon.tumblr.com"><i  class="fa fa-tumblr-square"></i><span>Tumblr</span></a></li>
+                <li><a href="http://www.flickr.com/photos/corey_dutson"><i class="fa fa-flickr"></i><span>Flickr</span></a></li>
+                <li><a href="http://www.linkedin.com/in/coreydutson"><i class="fa fa-linkedin-square"></i><span>LinkedIn</span></a></li>
+                <li><a href="https://github.com/cdutson"><i class="fa fa-github-square"></i><span>Github</span></a></li>
+                <li><a href="http://steamcommunity.com/id/cdutson"><i class="fa fa-steam-square"></i><span>Steam</span></a></li>
+                <li><a href="http://www.behance.net/coreydutson"><i class="fa fa-behance-square"></i><span>Behance</span></a></li>
+            </ul>
+        </nav>
+
+        <nav id="extraLinks">
+            <h2>I don't have icons for these links</h2>
+            <ul>
+                <li class="goodreads"><a href="http://www.goodreads.com/user/show/1198481">Goodreads</a></li>
+                <li class="prints"><a href="http://printsbydutson.com">Prints by Dutson</a></li>
+            </ul>
+        </nav>
+        
+        <p class="copy">© Corey Dutson, 2015.<br/>Built using <a href="http://getpelican.com/">Pelican</a></p>
+    </div>
+</footer>        <script type='text/javascript' src='../../theme/webassets-external/a05a980c28bd2e3b9a3625b2af67b711_plugins.js'></script>
+        <script type='text/javascript' src='../../theme/webassets-external/4ca0b55487c0d704be1c035e83f89932_general.js'></script>
+    <script>
+        $(document).ready(function() {
+            WOS.UI.init();
+    
+        });
+    </script>
+    <script type="text/javascript">
+        var disqus_shortname = 'wallofscribbles'; // required: replace example with your forum shortname
+
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+</body>
+</html>

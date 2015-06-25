@@ -1,0 +1,49 @@
+/* theme stuff */
+
+@import colours
+
+=style-stack($color, $name)
+    .theme_#{$name}
+        h1, h2, h3
+            color: $color
+        a
+            color: $color
+        aside
+            background: transparentize($color,0.92)
+
+        #banner
+            background-color: $color
+        #menu ul a:hover
+            color: $color
+            border-bottom-color: $color
+
+        .article-body a
+            border-color: $color
+        .content-article footer
+            border-bottom: 1px solid $color
+        .comments
+            border-top: 1px solid $color
+        .page-numbers li a.active
+            background: $color
+            border-color: $color
+
+            &:hover
+                color: $medium-grey
+                background: #dfdfdf
+                border-color: $medium-grey
+
+
+/* purple */
++style-stack($create-purple, "create")
+
+/* red */
++style-stack($love-red, "love")
+
+/* green */
++style-stack($lead-green, "lead")
+
+/* orange */
++style-stack($do-orange, "do")
+
+/* blue */
++style-stack($embrace-blue, "embrace")

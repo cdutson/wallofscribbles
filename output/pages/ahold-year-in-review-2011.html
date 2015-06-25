@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Ahold Year in Review, 2011 &#x2665; Wall Of Scribbles</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="This is me. I make digital things">
+        <meta name="author" content="Corey Dutson">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link type="text/plain" rel="author" href="../theme/humans.txt" />
+
+        <script type='text/javascript' src='//code.jquery.com/jquery-1.11.3.min.js'></script>
+            <script type='text/javascript' src='../theme/webassets-external/d46a27c8e6574780133950f74c560b24_modernizr-min.js'></script>
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
+    
+            <link rel="stylesheet" href="../theme/webassets-external/67f3b7b5e7dee44893609921b80fd056_pygment.css">
+            <link rel="stylesheet" href="../theme/webassets-external/57dfd49ee87653ab4f71fe36c06150d1_s.css">
+</head>
+
+<body id="index" class="">
+
+    <div id="pageWrap">
+
+        <header id="header">
+            <div class='site-title '><a class='pulse' href="..">Wall Of Scribbles</a></div>
+            <div class='site-tagline'>This is me. I make digital things.</div>
+            <nav id="mainNavigation">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/archives.html">Writing</li>
+                    <li><a href="/pages/portfolio.html">Portfolio</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="sizeIcon">
+            <span class="fa fa-desktop"></span>
+            <span class="fa fa-laptop"></span>
+            <span class="fa fa-tablet"></span>
+            <span class="fa fa-mobile"></span>
+        </div>
+        <div id="contentWrapper">
+
+<section id="singlePost">
+    <header>
+        <div class="archive-link"><a href="/pages/portfolio.html">Head on back to the portfolio&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    </header>
+    <article id="post" class="content-article page portfolio_item">
+        <header>
+            <h1 class="entry-title"><a href="../pages/ahold-year-in-review-2011.html" rel="bookmark" title="Permalink to Ahold Year in Review, 2011">Ahold Year in Review, 2011</a></h1>
+            <div class="date-holder">Released <abbr class="published" title="2011-05-12T21:56:00-04:00"> May 12, 2011 </abbr>
+            </div>
+        </header>
+        <section id="post-content">
+            <p><a href="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-mac-home.jpg"><img alt="Ahold CR 2011,
+Home" src="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-mac-home.jpg" /></a></p>
+<h2>Overview</h2>
+<p>Ahold wanted something new, something interesting, and something that
+could really delight their clients. After much back and forth with the
+team at Radley Yeldar and the client, we ended up with a great solution:
+a scrollable, panning grid system that covered specific areas and case
+studies that they wanted to highlight. The website had to be carry a lot
+of punch, so it also ended up using a lot high-quality photography that
+really brought the individual slides to life.</p>
+<p>My roll was to take the UX, and working with the designer, create the
+experience. From initial prototypes to the final shipped product, I
+produced all of the code that made this website come to life. This
+wasn't without its challenges, as once again the project had to be built
+and delivered in PHP and hosted on a client's server that we had no
+control over. Additional points of interest were the use of custom
+fonts, a dedicated mobile experience, and a not-quite-responsive setup
+that had to fully work in IE7.</p>
+<p><a href="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-mac-brands.jpg"><img alt="Ahold CR 2011,
+hlghlights" src="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-mac-brands.jpg" /></a></p>
+<h2>Front-end highlights</h2>
+<p>This was easily my most complex job up to this point in my career. It
+was the most front-end heavy website I had ever been given, but I was
+excited, because it was a real chance for me to flex my programming
+muscles.</p>
+<h3>Flexible layout</h3>
+<p>While not a truly responsive website, the whole website did flex from
+1024 up to 1400. This required a light touch with media queries, as well
+as also a lot of attention being paid to overall placement of elements,
+and heavy use of percentages. This was my first real foray into using
+media queries, and there were definite hiccups along the way.</p>
+<p><a href="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-ipad-home.jpg"><img alt="Ahold CR 2011, ipad
+home" src="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-ipad-home.jpg" /></a></p>
+<h3>AJAX-loaded content and Hashed URLS</h3>
+<p>Given the unique nature of the website, we had to make sure that the
+content was going to work from an SEO standpoint, a search results
+standpoint, and for any and all users that didn't have JavaScript
+enabled. I decided the best way to approach this was to have the start
+page to simply be a long page with first panels of each section loaded
+ as static HTML. These panels then had a section navigation that I
+picked up and used to load in the various other pages in an asynchronous
+manner. Once all of the pages were loaded in, I applied a URL hash
+navigation system that would allow you to link around to any part of the
+website without reloading the page or having any unexpected jumps.</p>
+<h3>Jump navigation</h3>
+<p>On the subject of navigation, I had to create a way of navigating the
+unique nature of the website. I created a system that could hook onto
+any link that had a specific class, and then given the URL of the link,
+I knew what section and panel the user was going to. By building this
+system, we allowed the whole experience to get knit together because we
+could now create user journeys throughout the various sections. This was
+especially useful near the launch date, when the client was changing
+around the stories they wanted to tell.</p>
+<p>Glad I thought ahead.</p>
+<p><a href="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-ipad-lightbox1.jpg"><img alt="Ahold CR 2011, ipad
+lightbox" src="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-ipad-lightbox1.jpg" /></a></p>
+<h3>Inline search results</h3>
+<p>The search was an interesting challenge. We were using Google Mini to
+crawl the static version of the website, but clicking on any of the
+search results would have yielded unexpected (and unwanted) results.
+Thankfully because of the work I had put into the jump navigation, I was
+able to re-use some of that code to make sure that when the user clicked
+on a search result it could actually navigate them to correct panel, and
+if needed it could expand lightbox-ed content or play videos.</p>
+<h3>Legacy browser support</h3>
+<p>We took a two-pronged approach to handling the older browsers. For those
+that had JavaScript available to them, we used a browser-enhancing
+script to give the browser some shimmed-in support for media queries as
+well as some advanced selectors. For those that had JavaScript
+disabled <em>and</em> weren't using a modern browser, we fell back to using the
+conditional HTML tag trick found in the HTML5 boilerplate. This allowed
+me to make sure the content didn't spill over into other areas or
+otherwise cause unwanted layout issues.</p>
+<h2>Back-end highlights</h2>
+<p>The whole project was once-again built in PHP, and had to be hosted on
+the clients server. I had to make sure that all of the search results
+worked, and that the site wasn't susceptible to cross-site scripting
+attacks or any other sort of vulnerabilities. We also had to introduce a
+mobile detection script to direct a user from the desktop experience to
+a stripped-back version made for mobile devices. This script had to be
+integrated and tested both locally and on the client server.</p>
+<h2>Going mobile</h2>
+<p><a href="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-iphone-home1.jpg"><img alt="Ahold CR 2011, mobile
+home" class="alignleft" src="http://wallofscribbles.com/wp-content/uploads/2013/05/ahold-iphone-home1.jpg" /></a></p>
+<p>Given the front-end intensity of the desktop site, it was decided that
+trying to force the desktop site down to a mobile experience was neither
+fair to the end-user, nor a productive use of my time. As a result, we
+decided that a dedicated mobile site was a far more efficient use of
+both time and bandwidth.</p>
+<p>Using the back-end script to detect for mobile browsers, we redirected
+the user to a .mobile domain that made sure to feature all of the
+required information.</p>
+<p>when doing the mobile website, we tried to make sure that progressive
+enhancement was at the forefront, even though it was a smaller site. We
+did detection to make sure that the menu system would work properly, and
+had a failover to a standard dropdown and go button if required. All of
+the videos were done using HTML5 video elements with a YouTube embed
+just in case.</p>
+<p>The client was exceptionally happy with the end result, and it was
+overall very well received.</p>
+<p>Website: <a href="http://2011yearreview.ahold.com" title="Ahold CR 2011: A Year in Review">View
+online</a></p>
+        </section>
+    </article>
+</section>
+        </div>
+    </div>
+<footer id="footer">
+    <div class="footer-stuff">
+        <nav id="externalLinks">
+            <h2>Where you can find me online</h2>
+            <ul>
+                <li><a href="http://www.twitter.com/cdutson"><i class="fa fa-twitter-square"></i><span>Twitter</span></a></li>
+                <li><a href="http://dutsoninlondon.tumblr.com"><i  class="fa fa-tumblr-square"></i><span>Tumblr</span></a></li>
+                <li><a href="http://www.flickr.com/photos/corey_dutson"><i class="fa fa-flickr"></i><span>Flickr</span></a></li>
+                <li><a href="http://www.linkedin.com/in/coreydutson"><i class="fa fa-linkedin-square"></i><span>LinkedIn</span></a></li>
+                <li><a href="https://github.com/cdutson"><i class="fa fa-github-square"></i><span>Github</span></a></li>
+                <li><a href="http://steamcommunity.com/id/cdutson"><i class="fa fa-steam-square"></i><span>Steam</span></a></li>
+                <li><a href="http://www.behance.net/coreydutson"><i class="fa fa-behance-square"></i><span>Behance</span></a></li>
+            </ul>
+        </nav>
+
+        <nav id="extraLinks">
+            <h2>I don't have icons for these links</h2>
+            <ul>
+                <li class="goodreads"><a href="http://www.goodreads.com/user/show/1198481">Goodreads</a></li>
+                <li class="prints"><a href="http://printsbydutson.com">Prints by Dutson</a></li>
+            </ul>
+        </nav>
+        
+        <p class="copy">© Corey Dutson, 2015.<br/>Built using <a href="http://getpelican.com/">Pelican</a></p>
+    </div>
+</footer>        <script type='text/javascript' src='../theme/webassets-external/a05a980c28bd2e3b9a3625b2af67b711_plugins.js'></script>
+        <script type='text/javascript' src='../theme/webassets-external/4ca0b55487c0d704be1c035e83f89932_general.js'></script>
+    <script>
+        $(document).ready(function() {
+            WOS.UI.init();
+    
+        });
+    </script>
+    
+</body>
+</html>
