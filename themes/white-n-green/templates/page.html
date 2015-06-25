@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title|striptags }} &#x2665; {{ super() }}{%endblock%}
+{% block theme %}{% if page.theme %}theme_{{ page.theme }}{% endif %}{% endblock %}
+{% block content %}
+
+{% if page.portfolio %}
+<section id="postList" class="portfolio-list">
+    <header class="page-header">
+        <h1>Look at all the thing's I've made</h1>
+        <a href="{{ SITEURL }}/downloads/CoreyDutson-CV.pdf">My CV&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a>
+    </header>
+
+    {% for page in pages|sort(attribute='date', reverse=True) if page.category==PORTFOLIO_CATEGORY %}
+        <article class="portfolio-preview first">
+            <div class="summary">
+                <a class="image-link" href="{{ SITEURL }}/{{ page.url }}"><img width="350" height="350" src="{{ SITEURL }}/{{page.slugpic}}" alt="{{page.title}}"></a>
+                <h1><a href="{{ SITEURL }}/{{ page.url }}">{{page.title}}</a></h1>
+            </div>
+        </article>
+    {% endfor %}
+</section>
+{% else %}
+<section id="singlePost">
+    {% if page.category==PORTFOLIO_CATEGORY %}
+    <header>
+        <div class="archive-link"><a href="{{ SUTEURL}}/pages/portfolio.html">Head on back to the portfolio&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    </header>
+    {% endif %}
+    <article id="post" class="content-article page {% if page.category==PORTFOLIO_CATEGORY %}portfolio_item{% endif %}">
+        <header>
+            <h1 class="entry-title"><a href="{{ SITEURL }}/{{ page.url }}" rel="bookmark" title="Permalink to {{ page.title|striptags }}">{{ page.title }}</a></h1>
+            <div class="date-holder">Released <abbr class="published" title="{{ page.date.isoformat() }}"> {{ page.date|strftime('%B %d, %Y') }} </abbr>
+            </div>
+        </header>
+        <section id="post-content">
+            {{page.content}}
+        </section>
+    </article>
+</section>
+{% endif %}
+{% endblock %}

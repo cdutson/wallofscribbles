@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title|striptags }} &#x2665; {{ super() }}{%endblock%}
+{% block theme %}{% if article.theme %}theme_{{ article.theme }}{% endif %}{% endblock %}
+{% block content %}
+<section id="singlePost">
+    {% if article.category==PORTFOLIO_CATEGORY %}
+    <header>
+        <div class="archive-link"><a href="{{ SUTEURL}}/category/portfolio.html">Head on back to the portfolio&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    </header>
+    {% endif %}
+    {% include "article-core.html" %}
+</section>
+{% endblock %}
+
+{% block extra_js %}
+    <script type="text/javascript">
+        var disqus_shortname = '{{ DISQUS_SITENAME }}'; // required: replace example with your forum shortname
+
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+{% endblock %}

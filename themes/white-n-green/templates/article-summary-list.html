@@ -1,0 +1,17 @@
+{% for article in articles_page.object_list %}
+    <article class="post-preview">
+       <header>
+            <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+            <div class="date-holder">Released <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.date|strftime('%B %d, %Y') }} </abbr>
+                <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" class="comment-count"><span class="disqus-comment-count" data-disqus-url="{{ SITEURL }}/{{ article.url }}"></span></a>
+            </div>
+        </header>
+        <section class="article-body">
+            {{article.summary}}
+            <p>
+            <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Continue reading <span class="fa fa-arrow-circle-o-right"></span></a>
+            </p>
+        </section>
+    </article>
+{% endfor %}
+{% include 'pagination-simple.html' %}

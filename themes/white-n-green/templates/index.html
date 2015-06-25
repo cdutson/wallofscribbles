@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="blogSection">
+    <header>
+        <h1>Words I have put together</h1>
+        <div class="archive-link"><a href="{{ SITEURL }}/archives.html">Read more&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    </header>
+    {% for article in dates %}
+        {% if loop.index <= 1 %}
+            {% include "article-core.html" %}
+        {% endif %}
+    {% endfor %}
+</section><!-- /#content -->
+{% endblock content %}
+
+{% block extra_js %}
+    <script type="text/javascript">
+        var disqus_shortname = '{{ DISQUS_SITENAME }}'; // required: replace example with your forum shortname
+
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+{% endblock %}

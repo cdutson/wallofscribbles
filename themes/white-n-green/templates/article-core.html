@@ -1,0 +1,28 @@
+<article id="post" class="content-article article {% if article.category==PORTFOLIO_CATEGORY %}portfolio_item{% endif %}">
+    <header>
+        <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+        <div class="date-holder">Released <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.date|strftime('%B %d, %Y') }} </abbr>
+            <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" class="comment-count"><span class="disqus-comment-count" data-disqus-url="{{ SITEURL }}/{{ article.url }}"></span></a>
+        </div>
+    </header>
+    <section id="post-content">
+        {{article.content}}
+    </section>
+
+    <footer class="post-info">
+        <div class="meta">
+            <p>
+                <span title="tags" class="fa fa-tags"></span>
+                {% for tag in article.tags %}
+                    <a href="{{SITEURL}}/{{tag.url}}">{{tag}}</a>
+                    {% if not loop.last %}, {% endif %}
+                {% endfor %}
+            </p>
+        </div>
+    </footer>
+    {% if not article.category==PORTFOLIO_CATEGORY and not output_file=="index.html" %}
+        <section id="commentsHolder">
+            {% include 'disqus.html' %}
+        </section>
+    {% endif %}
+</article>

@@ -57,11 +57,9 @@ docs/_build/
 target/
 
 #local stuff
-content/
 include/
-plugins/
-themes/
 lib/
 bin/
+output/
 
 wallofscribbles.wordpress.*
