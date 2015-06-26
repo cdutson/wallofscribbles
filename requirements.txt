@@ -1,0 +1,8 @@
+Fabric==1.10.2
+Markdown==2.6.2
+beautifulsoup4==4.3.2
+cssmin==0.2.0
+jsmin==2.1.1
+livereload==2.4.0
+pelican==3.6.0
+webassets==0.10.1
