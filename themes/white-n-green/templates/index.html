@@ -11,6 +11,24 @@
         {% endif %}
     {% endfor %}
 </section><!-- /#content -->
+
+<section id="postList" class="portfolio-list">
+    <header>
+        <h1>Things that I've made</h1>
+        <div class="archive-link"><a href="/pages/portfolio.html">View more&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    </header>
+        {% for page in pages|sort(attribute='date', reverse=True) if page.category==PORTFOLIO_CATEGORY %}
+            {% if loop.index <= 3 %}
+            <article class="portfolio-preview first">
+            <div class="summary">
+                <a class="image-link" href="{{ SITEURL }}/{{ page.url }}"><img width="350" height="350" src="{{ SITEURL }}/{{page.slugpic}}" alt="{{page.title}}"></a>
+                <h1><a href="{{ SITEURL }}/{{ page.url }}">{{page.title}}</a></h1>
+            </div>
+            </article>
+            {% endif %}
+        {% endfor %}
+</section>
+
 {% endblock content %}
 
 {% block extra_js %}
