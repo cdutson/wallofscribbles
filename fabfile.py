@@ -13,8 +13,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'root@localhost:22'
-dest_path = '/var/www'
+production = 'cdutson@wallofscribbles.com'
+dest_path = '/home/cdutson/domains/wallofscribbles.com'
 
 # Rackspace Cloud Files configuration settings
 #env.cloudfiles_username = 'my_rackspace_username'
@@ -35,7 +35,7 @@ def clean():
 
 def build():
     """Build local version of site"""
-    local('pelican -s pelicanconf.py')
+    local('pelican -s pelicanconf.py ./content')
 
 def rebuild():
     """`clean` then `build`"""
