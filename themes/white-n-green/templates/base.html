@@ -34,19 +34,20 @@
         {% if TAG_FEED_RSS and tag %}
             <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
         {% endif %}
+
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
+
         <script type='text/javascript' src='//code.jquery.com/jquery-1.11.3.min.js'></script>
         {% assets filters="jsmin", output="js/head.min.js", "js/modernizr-min.js" %}
             <script type='text/javascript' src='{{ SITEURL }}/{{ ASSET_URL }}'></script>
         {% endassets %}
-
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
     
         {% assets filters="cssmin", output="css/style.min.css", "css/pygment.css", "css/s.css" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
         {# comment
-        {% assets filters="sass, cssmin", output="css/themes.min.css", "css/styles.sass", "css/themes.sass" %}
+        {% assets filters="sass, cssmin", output="css/themes.min.css", "css/colorbox.sass", "css/styles.sass" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
         #}

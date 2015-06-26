@@ -1,0 +1,13 @@
+.clearfix:after, .module-contents:after
+    content: "."
+    display: block
+    clear: both
+    visibility: hidden
+    line-height: 0
+    height: 0
+.clearfix, .module-contents 
+    display: inline-block
+html .clearfix, html .module-contents 
+    display: block
+* html .clearfix, * html .module-contents 
+    height: 1%

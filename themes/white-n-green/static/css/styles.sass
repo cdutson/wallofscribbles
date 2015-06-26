@@ -1,520 +1,208 @@
 @import colours
+@import mixins
+@import normalize
+@import clearfix
 
-/* Reset */
-html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, dl,
-dt, dd, blockquote, address
-    margin: 0
-    padding: 0
+/** WIP **/
 
-/*  SECTIONS  ============================================================================= */
+body {font-weight: normal; font-size: 62.5%; background:white url('../images/grey.png'); color:#333; }
+a {color: #00B25C; text-decoration: none; -webkit-transition: color 300ms ease-in-out; -moz-transition: color 300ms ease-in-out; -ms-transition: color 300ms ease-in-out; -o-transition: color 300ms ease-in-out; transition: color 300ms ease-in-out;} 
+a:hover {color:#FF4100  ;}
+img {max-width: 100%; height:auto; -ms-interpolation-mode: bicubic;}
+h1 { margin-bottom:0.2em; border-bottom:1px solid #CCC; padding-bottom: 0.1em}
+code {font-size:80%;}
+article h1, article h2, article h3, article h4, article h5, article h6 {color: #00B25C; clear:both;}
+article h2, article h3, article h4, article h5, article h6 {border-bottom:1px solid #CCCCCC; margin-right:10%; margin-bottom:1em;}
+article h2 {margin:0.6em 0em 0.8em;}
+article h3, article h4, article h5, article h6 {margin-right: 0px;}
 
-.section
-    clear: both
-    padding: 0px
-    margin: 0px
+#pageWrap {font-size:180%; line-height: 1.5;}
 
-/*  GROUPING  ============================================================================= */
+.alignleft { max-width:40% !important; float:left; margin-right:2% !important; margin-left:none !important;}
+.alignright { max-width:40% !important; float:right; margin-left:2% !important; margin-right:none !important;}
+.aligncenter, .alignnone {max-width: 100%; float:none; text-align: center; display:block; margin:0px auto;}
+
+/* HEADER */
+#header { padding:1em 0px 1em; position: relative; }
+.site-title {margin:0px 20%; font-size: 350%; margin-bottom: 0px; line-height: 1;}
+.site-tagline {margin:0px 20%;}
+#sizeIcon {position:absolute; left:2%; top:0.5em; -webkit-transition: color 300ms ease-in-out; -moz-transition: color 300ms ease-in-out; -ms-transition: color 300ms ease-in-out; -o-transition: color 300ms ease-in-out; transition: color 300ms ease-in-out;}
+#sizeIcon:hover {color:#FF4100 ;}
+#mainNavigation {position: absolute; left:2%; right:83%; bottom:1em ; }
+#mainNavigation ul {margin:0px; padding:0px;}
+#sizeIcon .fa-laptop, #sizeIcon .fa-tablet, #sizeIcon .fa-mobile {display:none;}
+
+/* FOOTER */
+#footer {position:relative;}
+.footer-stuff {margin:0.4em 20%; border-top:1px solid #CCCCCC; padding-top:1.5em;}
+#footer form {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em; font-size:160%;}
+#footer form #s {position:absolute; left:0px; right:26px; top:50px; background:#DDDDDD; color:#333333; border:none;padding:0.1em; outline: none; display:inline-block;}
+#footer form #s:focus { -webkit-box-shadow: 0px 0px 3px 02px rgba(0, 178, 92, 0.4);
+box-shadow: 0px 0px 3px 02px rgba(0, 178, 92, 0.4);}
+#searchsubmit { width:23px; height:23px; outline:none; color:#00B25C; background:none; border:none; padding:0px; display:inline-block; position:absolute; right:0px; top:50px; font-size:135%;
+-webkit-transition: all 300ms ease-in-out; -moz-transition: all 300ms ease-in-out; -ms-transition: all 300ms ease-in-out; -o-transition: all 300ms ease-in-out; transition: all 300ms ease-in-out;}
+#searchsubmit span {width:23px; height:23px; }
+#searchsubmit:focus, #searchsubmit:hover {color:#FF4100; }
+.search-label {font-size:200%;}
+
+#externalLinks {position:relative; z-index: 1;}
+#externalLinks ul {text-align: center; font-size: 400%; position:relative; margin:0px auto; padding:0px 0px 0.8em;}
+#externalLinks li {display:inline-block; }
+#externalLinks li span { font-size:70%; width:400px; display: block; position:absolute; bottom:0px; left:50%; margin-left:-200px; text-align: center; opacity:0;
+-webkit-transition: opacity 300ms ease-in-out; -moz-transition: opacity 300ms ease-in-out; -ms-transition: opacity 300ms ease-in-out; -o-transition: opacity 300ms ease-in-out; transition: opacity 300ms ease-in-out;}
+#externalLinks li a:hover span { text-align: center; text-indent: 0px; opacity:1;}
+#footer h2 {text-align: center; font-size:200%; margin-bottom:0.4em;}
+
+#extraLinks {position:relative; z-index:2; padding-top: 5.5em; margin-top: -5em;}
+#extraLinks ul {text-align: center; margin:0px; padding:0px; font-size:140%;}
+#extraLinks li {display:inline-block; margin:0px 20px;}
+
+.copy {text-align: center; font-size:140%; margin-top:1em; line-height:1.4em;}
+
+/* HOMEPAGE */
+.date-holder {font-size:80%; color:#999999; margin-bottom:1em; padding-bottom:0.5em;border-bottom:1px solid #CCC;}
+.comment-count {display:block; float:right;}
+.comment-count span {font-size: 67%; margin-top: 0.1em; display: block; float: right;}
+.archive-link {line-height: 1.3;}
+.archive-link span {margin-left:-.2em;}
+
+#blogSection { margin-bottom:0em;}
+#blogSection > header,
+#portfolioSection > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
+#blogSection > header h1,
+#portfolioSection >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
+
+#portfolioSection {border-top:1px solid #CCCCCC; min-height:200px;}
+#blogSection > article h1 {font-size:220%;}
+.post-preview {border-top:1px solid #CCCCCC; padding:0.4em 0px 1em;}
+
+.portfolio-preview {display:inline-block; width:31.45%; vertical-align: top; padding: 1.8% 0% 0 1.8%;}
+#portfolioSection > header + .portfolio-preview  {padding-left:0%;}
+.portfolio-preview p {font-size:80%;}
+.portfolio-preview h1 {border:none; font-size:100%; text-align: center; margin-bottom:0.5em;}
+.portfolio-preview .image-link {-webkit-border-radius: 50%; border-radius: 50%; display:block; overflow:hidden; margin-bottom:1em; max-width:350px; margin-left:auto; margin-right:auto;
+  -webkit-box-shadow: 0px 10px 10px rgba(100,100,100,0.4);  box-shadow: 0px 1px 4px 0px rgba(100,100,100,0.4);
+-webkit-transition: all 300ms ease-in-out; -moz-transition: all 300ms ease-in-out; -ms-transition: all 300ms ease-in-out; -o-transition: all 300ms ease-in-out; transition: all 300ms ease-in-out;}
+.portfolio-preview .image-link:hover { -webkit-border-radius: 0%; border-radius: 0%;}
+.portfolio-preview .image-link img {display:block;}
+
+/* POST */
+#singlePost {}
+#singlePost > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
+#singlePost >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
+#singlePost >header h1 span {font-size:40%;}
+#singlePost article h1 { color: #00B25C;}
+#post { margin:0px 20%; padding-top:0.4em; border-top:1px solid #CCCCCC;}
+#post h1 {font-size: 220%; margin-bottom:0.22em;}
+#post header { color: #999999; }
+#intro {background:rgba(0, 178, 92,0.05); line-height: 1.5; padding:1em 3% 0.1em; margin-bottom:1.25em ;}
+.post-info {border-top:1px solid #CCCCCC; font-size:80%; color: #999999;}
+.post-info a {color:#FF4100;}
+.post-info a:hover {color:#00B25C;}
+.post-info p {margin:0.5em 0em 0.55em;}
+
+/* ARCHIVE */
+#postList {margin:0px 20%;}
+#postList header h1 {font-size: 220%;}
+#postList > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
+#postList >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
+#postList >header h1 span {font-size:40%;}
+#postList article h1 { color: #00B25C;}
+
+.page-nav ul {padding:0px; margin-top:0px;}
+.page-nav li {float:left; vertical-align: bottom;}
+.page-nav li a {display:block; position: relative;}
+.page-nav li span {margin-bottom:-0.2em;}
+.page-nav li.new {float:right;}
+
+/* PORTFOLIO */
+#postList > header + .portfolio-preview, 
+#postList article.portfolio-preview:nth-of-type(4n+4) {padding-left:0%;}
+#postList.portfolio-list  {border-top:1px solid #CCCCCC;}
+#postList.portfolio-list > header {margin-top:-1px;}
+.portfolio_item img {max-width: 100%; 
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(100,100,100,0.4);  
+  box-shadow: 0px 1px 4px 0px rgba(100,100,100,0.4); 
+  -webkit-transition:all 300ms ease-in-out;
+-moz-transition:all 300ms ease-in-out;
+-ms-transition:all 300ms ease-in-out;
+-o-transition:all 300ms ease-in-out;
+transition:all 300ms ease-in-out;}
+.portfolio_item a:hover img {-webkit-box-shadow: 0px 1px 4px 0px rgba(0, 178, 92, 0.4); box-shadow: 0px 1px 4px 0px rgba(0, 178, 92, 0.4);}
 
 
-.group
-    zoom: 1
 
-    &:before, &:after
-        content: ""
-        display: table
-    &:after
-        clear: both
+/* MOBILE STARTS HERE */
+@media only screen and (min-width: 1200px) {
+  #pageWrap {font-size: 200%}
 
-/*  GRID COLUMN SETUP   ==================================================================== */
+}
 
-.col
-    display: block
-    float: left
-    margin: 1% 0 1% 1.6%
+@media only screen and (max-width: 1024px) {
+  .portfolio-preview {display:inline-block; width:31.4%;}
 
-    &:first-child 
-        margin-left: 0 
+  #postList, .site-title, .site-tagline, #post { margin: 0px 10% 0 20%; }
+  .footer-stuff {margin: 0.4em 10% 0.4em 20%;}
 
-/*  REMOVE MARGINS AS ALL GO FULL WIDTH AT 480 PIXELS */
-
-
-
-/*  GRID OF SIX   ============================================================================= */
-
-
-.span_6_of_6 
-    width: 100%
-
-.span_5_of_6 
-    width: 83.06%
-
-.span_4_of_6
-    width: 66.13%
-
-.span_3_of_6
-    width: 49.2%
-
-.span_2_of_6
-    width: 32.26%
-
-.span_1_of_6
-    width: 15.33%
-
-/* font assignment */
-
-/* rokkitt */
-body
-    font-family: 'Merriweather', serif
-
-/* lato */
-h1,h2,h3,h4,h5,h6, blockquote, figure figcaption, aside, q, 
-#menu, #siteFooter, .paginator, .continue-reading
-    font-family: 'Lato', serif
-
-body
-    background: url('../images/square_bg.png') 
-    font-size: 16px
-    color: $dark-grey
-
-h1,h2,h3,h4,h5,h6
-    font-weight: 700
-    line-height: 1.25em
-    margin: 1em 0em 0.3em
-
-h1, h2, h3
-    color: $create-purple
-
-h1.entry-title 
-    margin: 0em 0em 0.1em
-
-h4,h5,h6
-    font-style: italic
-    margin-bottom: 0.5em
-
-h1 
-    font-size: 3.4em
-h2
-    font-size: 2.75em
-h3
-    font-size: 2.15em
-h4
-    font-size: 1.95em
-h5
-    font-size: 1.85em
-h6
-    font-size: 1.65em
-
-hr
-    border: 0
-    background-color: $light-grey
-    height: 1px
-    margin: 2em 3em
-
-ul, ol
-    padding-left: 1.5em
-    margin-bottom: 1.2em
-
-a
-    text-decoration: none
-    color: $create-purple
-    border-bottom: 1px solid transparent
-
-    -webkit-transition: all 0.3s ease-in-out
-    transition: all 0.3s ease-in-out
-
-    &:hover, &:active
-        text-decoration: none
-        color: $dark-grey
-        border-bottom: 1px solid $dark-grey
-
-p
-    line-height: 1.5em
-    margin-bottom: 1.2em
-
-tt, code, kbd, samp
-    font-size: 0.9em
-
-blockquote
-    font-weight: 300
-    font-size: 1.15em
-    background: rgba(0,0,0,0.05)
-    padding: 1em 2em
-    margin: 1em 2em 1.2em
-    position: relative
-    clear: both
-    word-wrap: break-word
-
-    blockquote
-        padding: 1em 1.5em
-        margin: 1em 0em 1.2em
-        font-size: 1em
-
-    &::before
-        content: open-quote
-        font-size: 3em
-        font-weight: bold
-        position: absolute
-        left: 0.15em
-        top: 0.09em
+}
+@media only screen and (max-width: 800px) {
+  #pageWrap {font-size: 160%}
     
-    p:last-of-type
-        margin-bottom: 0px
+    #postList, .site-title, .site-tagline, #post { margin: 0px 2% 0 30%; }
+    #postList > header, #singlePost > header,
+    #blogSection > header, #portfolioSection > header,
+    #footer form  { right:72%;}
+    .footer-stuff {margin: 0.4em 2% 0.4em 30%;}
 
-q
-    font-style: italic
-    font-size: 2.15em
-    color: $create-purple
-
-img
-    max-width: 100%
-    text-align: center
-    display: block
-    margin: 1em auto
-
-figure
-    padding: 1.5em 1.5em 1.1em
-    background: rgba(255,255,255,0.5)
-    border: 1px solid $light-grey
-    margin: 2em
-    clear: both
+    #portfolioSection .portfolio-preview {width:31%; }
+    .cboxElement {display:block; margin:0px auto;}
+    .alignleft, .alignright { max-width:100% !important; float:none; margin:0 auto; display:block;}
     
-    img
-        margin-top: 0px
+}
 
-    blockquote 
-        font-size: 1em
-        margin: 0em 0em 1em
+@media only screen and (max-width: 640px) {
+    article h2, article h3, article h4, article h5, article h6 {margin-right:0px; padding-bottom: 0.4em;}
 
-    figcaption
-        font-style: italic
-        margin-top: 0.5em
-        padding-top: 0.7em
-        border-top: 1px solid $light-grey
+    #header {text-align: center}
 
-aside
-    font-size: 0.9em
-    float: right
-    clear: right
-    width: 30%
-    padding: 1.25em 1.2em
-    background: rgba(0,0,0,0.05)
-    margin: 1em 0em 1em 1em
-    
-    p
-        line-height: 1.1em
-        margin-bottom: 0.8em
+    #postList, .site-title, .site-tagline, #contentWrapper, #singlePost, #footer {margin-left:20px; margin-right:20px;}
+    #post {margin:0;}
+    .footer-stuff {margin: 1em 0px}
+    #postList > header, #blogSection > header, #portfolioSection > header, #footer form, #footer form #s, #searchsubmit,
+    #singlePost > header, #mainNavigation  {position:static;}
+     
+     #mainNavigation {display: table; width: 100%; font-size: 120%; margin-top: 0.4em}
+     #mainNavigation ul {display: table-row;}
+    #mainNavigation ul li {display: table-cell;}
 
-        &:last-of-type
-            margin-bottom: 0px
+    #blogSection .archive-link, #portfolioSection .archive-link {display: none}
+    #blogSection > header {display: none}
+    .post-preview {padding-bottom:0em;}
+    .comment-count {display:none;}
 
-blockquote p:last-of-type
-    margin-bottom: 0px
+    #portfolioSection > header {margin-bottom:1em;}
+    #portfolioSection .portfolio-preview { width:30%;}
+    #portfolioSection .portfolio-preview  h1 {display:none;}
 
-/* convenience functions */
-.f-left 
-    float: left
-    display: inline-block
+    #externalLinks ul {margin-bottom:10px;}
+    #externalLinks li span {display:none;}
+    #externalLinks li a:hover span {display:none;}
 
-.f-right 
-    float: right
-    display: inline-block
+    #extraLinks {padding-top:10px;}
+    #extraLinks ul {font-size: 180%;}
+    #extraLinks ul li {display: list-item; line-height: 1.5}
+    .paged article .summary {display:none;}
 
-/* apply to divs/p tags that contain images that you want to go full width*/
-.full-bleed 
-    margin-left: -1.75em
-    margin-right: -1.75em
-    
-    img 
-        width: 100% 
-        max-width: none
+    #postList .portfolio-preview {width:auto; display: block; padding-left:0px; max-width: 200px; margin:0px auto 1em;}
+    #postList .portfolio-preview h1 {margin:0px; padding:0px; line-height: 0; font-size: 0px; height:0px;}
+    .portfolio-preview .image-link { max-width:300px; margin:0px auto 0.5em;}
 
-/* max width stuff */
-#menu, .content-wrap, .footer-contents
-    max-width: 900px
-    margin: 0px auto
+    #singlePost > header {margin-bottom:0.4em;}
+    #intro, #post-content {font-size:120%;}
 
-#banner
-    background: $medium-grey
-    background-size: cover
-    padding: 5.5em 0em 7em
 
-    h1
-        margin: 0px
-    img 
-        margin: 0px auto
-
-#siteFooter
-    color: #FFF
-    background: $dark-grey
-    padding: 1.5em 0em 2em
-    font-weight: 300
-    margin-top: 2em
-
-    h4
-        font-size: 1.2em
-
-    a
-        color: #FFF
-    
-        &:visited
-            color: #FFF
-    
-        &:active, &:hover
-            border-color: #FFFFFF
-
-    ul
-        padding: 0px
-        list-style-type: none
-        line-height: 1.4em
-
-    .cc
-        font-size: 0.75em
-
-    .pelican
-        font-size: 0.75em 
-        float: right
-
-.menu-wrapper
-    padding-top: 0.3em
-    margin-bottom: 2em
-
-#menu 
-    font-weight: 300
-    font-size: 1.375em
-    margin-bottom: 0.5em
-    
-    ul
-        list-style-type: none
-        margin: 0px
-        padding: 0px
-    
-        li
-            display: inline-block
-
-        a
-            text-decoration: none
-            display: inline-block
-            padding: 0.4em 0.6em
-            color: $medium-grey
-            border-bottom: 1px solid transparent
-
-            -webkit-font-smoothing: antialiased
-
-            &:hover
-                color: $dark-grey
-                border-bottom-color: $dark-grey
-
-#post_list
-    list-style-type: none
-    padding: 0em
-
-.page-numbers
-    display: block 
-    margin: 0px auto 
-    text-align: center
-    list-style-type: none
-    padding: 0px
-
-    li
-        display: inline-block
-        margin: 0em 0.2em
-        vertical-align: middle
-
-        a
-            display: block
-            padding: 0.2em 0.2em 0.25em
-            text-decoration: none
-            min-width: 1.2em
-            border: 1px solid #cfcfcf
-            -webkit-font-smoothing: antialiased
-            -webkit-transition: all 0.2s ease-in-out
-            transition: all 0.2s ease-in-out
-            
-            &.active
-                color: #FFF
-                background: $create-purple
-                border: 1px solid $create-purple
-
-            &:hover, &.active:hover
-                color: $medium-grey
-                background: #dfdfdf
-                border-color: $medium-grey
-
-/* article stuff */
-
-.page-header h1
-    margin: 1em 0.5em 0.3em
-
-.content-article
-    margin-bottom: 2em
-
-    header h1 a
-        &:hover, &:active
-            border-width: 2px
-
-
-.content-article, .content-page
-    background: rgba(0,0,0,0.02)
-    padding: 1.45em 1.75em
-    border-radius: 2px
-
-.content-article footer, .content-page footer
-    border-bottom: 1px solid $dark-grey
-    margin-bottom: 1.5em
-    padding: 0.4em 0em 1em 0em
-    font-size: 0.85em
-    line-height: 1.4em
-
-.meta
-    border-top: 1px solid $dark-grey
-    font-size: 0.85em
-    font-style: italic
-    padding-top: 1em
-
-    .fa-tags
-        margin-right: 0.1em
-
-.article-body 
-    a
-        border-color: $create-purple
-        &:hover, &:active
-            color: $create-purple
-            border-color: transparent
-            background: rgba(0,0,0,0.08)
-    ul
-        margin-top: 0.2em
-
-    li
-        padding-bottom: 0.2em
-
-#post_list.summary-list
-    padding: 0em 1.75em
-
-.summary-list 
-    h1
-        font-size: 1.3em
-
-    .post-info
-        font-size: 0.8em
-    
-    li
-        border-top: 1px solid $light-grey
-        padding: 1.2em 0em
-        margin-bottom: 0.5em
-        
-        &:first-child
-            border-top: none
-
-.continue-reading
-    text-decoration: none
-
-    &:active, &:hover
-        color: $dark-grey
-
-.article-summary
-    margin: 1em 0em 1em
-    font-style: italic
-    font-size: 0.9em
-    padding: 1em 1em
-    background: rgba(0,0,0,0.05)
-
-    p:last-of-type
-        margin-bottom: 0em
-
-.comments
-    margin-top: 1.5em
-    padding-top: 0.5em
-
-.site-footer
-    font-size: 0.8em
-    margin-top: 1.5em
-    margin-bottom: 2em
-
-    p
-        margin-bottom: 0.7em
-
-/* codeblock stuff */
-.highlight
-    padding: 0em 1em 
-    font-size: 0.8em
-    overflow: auto
-    margin-bottom: 1.5em
-    border: 1px solid $light-grey
-    background: rgba(0,0,0,0.05)
-
-
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
-
-/* lazy mobile for now */
-@media only screen and (max-width: 480px)
-    .col
-        margin: 1% 0 1% 0%
-    .span_6_of_6, .span_5_of_6, .span_4_of_6, .span_3_of_6, .span_2_of_6, .span_1_of_6
-        width: 100% 
-        float: none
-
-    h1,h2,h3,h4,h5,h6
-        font-weight: 700
-        line-height: 1.1em
-        margin: 0.8em 0em 0.6em
-    
-    h1 
-        font-size: 2.4em
-    h2 
-        font-size: 2em
-    h3 
-        font-size: 1.7em
-    h4 
-        font-size: 1.5em
-    h5 
-        font-size: 1.35em
-    h6 
-        font-size: 1.2em
-
-    p
-        line-height: 1.6em
-
-    aside
-        float: none
-        width: auto
-        margin: 0em
-        font-size: 1em
-
-    blockquote
-        margin: 1em 0em 1.2em
-        padding: 0.5em 1.2em
-    
-        &::before
-            font-size: 2.2em
-        
-        blockquote
-            margin: 1em 0em 1.2em
-            padding: 1em
-
-    figure
-        margin: 1em 0em 1.2em
-        padding: 0.5em 1.2em
-
-    #banner
-        padding: 1em 0em
-
-    .menu-wrapper
-        margin-bottom: 0em
-
-    #menu
-        text-align: center
-
-    .content-article, .content-page
-        padding: 1em 1.2em
-
-    #siteFooter
-        padding: 0em 1em 1.5em
-
-    .comments
-        padding: 0em 1.2em
-
-    .page-header
-        padding: 0em 1em
-
-    #post_list
-        padding: 0em 1em
+}
