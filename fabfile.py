@@ -13,7 +13,7 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'cdutson@wallofscribbles.com'
+production = 'cdutson@107.170.101.175'
 dest_path = '/home/cdutson/domains/wallofscribbles.com'
 
 # Rackspace Cloud Files configuration settings
