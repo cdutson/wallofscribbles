@@ -39,7 +39,7 @@ Either way, it hasn't stopped me from playing [Castle
 Crashers](http://www.castlecrashers.com/ "Castle Crashers") with extreme
 vigor.
 
-<!--more-->I am currently very in love with [The
+<!-- PELICAN_END_SUMMARY -->I am currently very in love with [The
 Behemoth](http://www.thebehemoth.com/ "The Behemoth")'s [Castle
 Crashers](http://www.castlecrashers.com/ "Castle Crashers"). It's a game
 that I can pick up and put down for an hour or so at any given time.

@@ -14,7 +14,7 @@ programs that I can use and not cost me money?
 Perfect.
 
 So without further delay, here is my giant list of (mostly) free mac
-apps.<!--more-->
+apps.<!-- PELICAN_END_SUMMARY -->
 
 Communication
 -------------

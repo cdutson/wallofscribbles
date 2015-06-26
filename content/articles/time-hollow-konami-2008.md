@@ -32,7 +32,7 @@ mystery finder.
 
 Yah, sometimes I'm just stupid like that.
 
-<!--more-->\[singlepic id=652 w=400 h=400 float=\]
+<!-- PELICAN_END_SUMMARY -->\[singlepic id=652 w=400 h=400 float=\]
 
 Synopsis
 --------

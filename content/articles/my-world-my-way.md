@@ -19,7 +19,7 @@ then the other. Then my face had no where to go, and so my eyebrows
 fluctuated back and forth. I eventually got my hands on it, and was
 actually surprised.
 
-Turns out it didn't suck!<!--more-->
+Turns out it didn't suck!<!-- PELICAN_END_SUMMARY -->
 
 \[singlepic id=624 w=425 h=425\]
 

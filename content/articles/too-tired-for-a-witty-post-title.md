@@ -14,7 +14,7 @@ you could say that I've been a touch on the busy side.
 
 Such is the life of a student.
 
-<!--more-->First off, I've become a Peer Tutor at my school. Not only
+<!-- PELICAN_END_SUMMARY -->First off, I've become a Peer Tutor at my school. Not only
 does it land me some extra cash (always a bonus, given the current
 financial psudo-crisis I am finding myself in), but it's additional work
 experience, and I get to help people. It could come to a shock to some,

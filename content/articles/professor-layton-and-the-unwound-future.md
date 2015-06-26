@@ -20,7 +20,7 @@ mini-games, new puzzles, and one of the best story-lines in a game I've
 played in the last while. As a result, the newest addition to the series
 ([Professor Layton and the Unwound
 Future](http://www.amazon.co.uk/gp/product/B003O6E7DI?ie=UTF8&tag=walofscr-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B003O6E7DI "Amazon.co.uk - Professor Layton and the Unwound Future"))
-ends up being the best of the series (thus far).<!--more-->
+ends up being the best of the series (thus far).<!-- PELICAN_END_SUMMARY -->
 
 Synopsis
 --------

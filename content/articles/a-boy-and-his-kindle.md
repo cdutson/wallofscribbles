@@ -16,7 +16,7 @@ guessed, as I've never exhibited that much outward desire for it. Now
 unless you're not paying attention or you're simple remedial, I am
 talking about the  
 [Amazon
-Kindle](http://www.amazon.co.uk/gp/product/B002LVUWFE?ie=UTF8&tag=walofscr-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002LVUWFE "Amazon.co.uk - The Kindle").<!--more-->
+Kindle](http://www.amazon.co.uk/gp/product/B002LVUWFE?ie=UTF8&tag=walofscr-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B002LVUWFE "Amazon.co.uk - The Kindle").<!-- PELICAN_END_SUMMARY -->
 
 ![](http://wallofscribbles.com/wp-content/uploads/2011/01/kindle-e1294879568427.jpg "kindle")
 

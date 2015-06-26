@@ -24,7 +24,7 @@ Also it should be mentioned that the span of all of the following events
 took place over a week and a bit, because I was only at my home for
 about two days over the entire time-line.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Alright so where to begin? I've always sort of wanted an XBox 360, which
 would come to a shock to a younger version of me. I was always a huge

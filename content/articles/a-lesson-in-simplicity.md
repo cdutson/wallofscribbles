@@ -23,7 +23,7 @@ This is not what I wanted to do with my weekend, but sadly when your
 girlfriend is Internet dependent and gets frustrated when things don't
 work (don't we all though?) it makes fixing said Internet.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Let me run down the possible causes for you really quickly so that you
 know where I'm going with this:

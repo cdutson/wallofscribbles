@@ -20,7 +20,7 @@ else my mouth decided to spout.
 This is pretty much how it played out until one day I woke up with a
 copy of Borderlands in my hand, and a dead horse in my bed. I'm still
 trying to figure out where that copy of Borderlands came
-from.<!--more-->
+from.<!-- PELICAN_END_SUMMARY -->
 
 Synopsis
 --------

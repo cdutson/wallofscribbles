@@ -35,7 +35,7 @@ me recently.
 
 I swear I'm not that self-involved. No, really I'm not. I am not a
 self-centered arrogant prat! Good god, you kiss your mother with that
-mouth? That's *sick* man. *Sick*.<!--more-->
+mouth? That's *sick* man. *Sick*.<!-- PELICAN_END_SUMMARY -->
 
 Personal Development
 --------------------

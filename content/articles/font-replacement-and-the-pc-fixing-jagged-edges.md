@@ -35,7 +35,7 @@ a major difference between a mac and a PC.
 
 Let me explain further.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 The problem
 -----------

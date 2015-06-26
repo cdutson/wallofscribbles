@@ -35,7 +35,7 @@ I've updated the post to display as code. Thanks
 github](https://github.com/Corey%20Dutson/wp-post-divider "Github - Corey Dutson - wp-post-divider")
 now.**
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 *For those wishing to skip the lengthy buildup, here is a little table
 of contents:*

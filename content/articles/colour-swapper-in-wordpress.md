@@ -27,7 +27,7 @@ the CSS files are named the same as the Title attribute of the Anchor,
 then you can drop the whole If statement. I've updated the tutorial
 accordingly
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 Table of contents
 -----------------

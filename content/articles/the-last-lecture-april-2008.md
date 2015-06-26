@@ -25,7 +25,7 @@ book](http://www.amazon.ca/Last-Lecture-Randy-Pausch/dp/1401323251/ref=pd_bbs_sr
 the only reason I didn't buy it was because my girlfriend wanted it. So
 I got it for her and borrowed it when she was finished.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 > It's not about how you achieve your dreams. It's about how you lead
 > your life. If you lead your life the right way, the karma will take

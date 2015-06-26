@@ -14,7 +14,7 @@ weeks that would ruin my blog ethic? School (assignments and tests
 alike), a side project that went public, homework, weddings and a desire
 to finally beat a game that I've owned for far, far too long.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 We'll start with school, because that's something I do 3 days a week.
 

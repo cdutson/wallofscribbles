@@ -30,7 +30,7 @@ talk about when they first met, when they had their first fight, all
 their silly promises, and when they went to the cottage that one time.
 Two girls are asked to the microphone, to talk about her.
 
-Her fathers heart breaks a little more.<!--more-->
+Her fathers heart breaks a little more.<!-- PELICAN_END_SUMMARY -->
 
 Her father steps down, slowly, shaking; hands and face ashen and
 shattered, smeared with tears and mucus. He finishes speaking and his

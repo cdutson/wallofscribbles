@@ -1,7 +1,6 @@
 Title: When does a video game become more than a video game?
 Date: 2013-07-04 13:11
 Author: Corey Dutson
-Category: Miscellaneous
 Slug: when-does-a-video-game-become-more
 Status: draft
 
@@ -26,7 +25,7 @@ why? what makes games so interesting to me? Why do I choose to invest so
 much time when I could be doing other things like sports or world
 domination scheming?
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 And it's not fair to say that I enjoy all games equally, as that most
 assuredly is not the case. I've picked up games and loathed them, many

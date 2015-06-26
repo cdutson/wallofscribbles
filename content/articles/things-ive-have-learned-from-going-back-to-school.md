@@ -47,7 +47,7 @@ Okay, technically this would be my seventh semester if you are counting
 the six from the last time I was in school. That is also part of this so
 read on!
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 ### 1. Being lazy sucks
 

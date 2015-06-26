@@ -22,7 +22,7 @@ under
 on the awesome scale. It's not as epically beautiful, nor is it quite as
 artistically stunning, but it's pretty damned close.
 
-<!--more-->\[singlepic id=630 w=400 h=400 float=left\]
+<!-- PELICAN_END_SUMMARY -->\[singlepic id=630 w=400 h=400 float=left\]
 [UP](http://www.pixar.com/featurefilms/up/ "Pixar.com: UP") is a story
 about multiple characters, some present, some painfully absent. Carl
 Frederickson has always wanted to be an adventurer. As a young,

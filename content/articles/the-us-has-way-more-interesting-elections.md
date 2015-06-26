@@ -26,7 +26,7 @@ and I'm a God-damned Canadian.
 
 This shit is *bananas*.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 This article has three goals. I'll try and stay on target.
 

@@ -23,7 +23,7 @@ say that it is probably the single most impressive piece of
 software/service that I have ever installed. I've commented on using
 Dropbox before, but now I'm going to get into it with more detail.
 
-<!--more-->So what is Dropbox?
+<!-- PELICAN_END_SUMMARY -->So what is Dropbox?
 ------------------------------
 
 Though their website explains it well enough, the jist is this: Anything

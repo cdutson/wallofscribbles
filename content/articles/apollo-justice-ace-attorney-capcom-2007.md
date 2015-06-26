@@ -27,7 +27,7 @@ all of my grammar street cred get's shot to hell.
 
 Anyways! Apollo Justice: Ace Attorney! Review! Commence!
 
-<!--more-->So what is it about [playing a lawyer on a
+<!-- PELICAN_END_SUMMARY -->So what is it about [playing a lawyer on a
 DS](http://www.ace-attorney.com/ "Ace Attorney") that makes it so much
 damn fun? Is it the intrigue? Is it the ripping apart of testimony? Is
 it the sharp suits and crisp air of determination? No. Though very good

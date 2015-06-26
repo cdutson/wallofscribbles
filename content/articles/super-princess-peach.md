@@ -19,7 +19,7 @@ really not a pretty sight. Give me turn-based games and experiences
 points, that's what I say!
 
 Of course to every rule there is an exception, and Super Princess Peach
-is, shockingly, one of those exceptions.<!--more-->
+is, shockingly, one of those exceptions.<!-- PELICAN_END_SUMMARY -->
 
 \[singlepic id=625 w=425 h=425\]
 

@@ -40,7 +40,7 @@
         {% endassets %}
 
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic|Varela+Round' rel='stylesheet' type='text/css'>
     
         {% assets filters="cssmin", output="css/style.min.css", "css/pygment.css", "css/s.css" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
@@ -68,12 +68,6 @@
                 </ul>
             </nav>
         </header>
-        <div id="sizeIcon">
-            <span class="fa fa-desktop"></span>
-            <span class="fa fa-laptop"></span>
-            <span class="fa fa-tablet"></span>
-            <span class="fa fa-mobile"></span>
-        </div>
         <div id="contentWrapper">
             {% block content %}
             {% endblock %}

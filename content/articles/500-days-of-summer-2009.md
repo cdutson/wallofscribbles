@@ -14,7 +14,7 @@ though it probably cost me a mint in gas (not to mention the 10 dollar
 movie ticket \[ damn you indie film support\]), I am glad to say that it
 was worth every penny
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 ![](http://www.wallofscribbles.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")\[singlepic
 id=658 w=400 h=400 float=right\] Writern Scott Neustadter and Michael

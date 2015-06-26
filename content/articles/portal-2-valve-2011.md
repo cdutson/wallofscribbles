@@ -29,7 +29,7 @@ So the question is: does it stand up?
 
 Yeup.
 
-<!--more-->[![Portal 2 - It's Portal 1, but with way more money invested
+<!-- PELICAN_END_SUMMARY -->[![Portal 2 - It's Portal 1, but with way more money invested
 in
 it](http://wallofscribbles.com/wp-content/uploads/2011/04/portal-title-410x256.png "Portal 2 - It's Portal 1, but with way more money invested in it")](http://wallofscribbles.com/wp-content/uploads/2011/04/portal-title.png)
 

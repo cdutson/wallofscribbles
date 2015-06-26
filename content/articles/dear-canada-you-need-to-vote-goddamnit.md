@@ -22,7 +22,7 @@ and the percentages have been slipping like my grades did throughout
 highschool.
 
 To be honest, it's a fucking disgrace, and we as a country should be
-utterly fucking ashamed.<!--more-->
+utterly fucking ashamed.<!-- PELICAN_END_SUMMARY -->
 
 Vote, goddamnit
 ---------------

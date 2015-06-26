@@ -17,7 +17,7 @@ release: [Sycamore
 Meadows](http://gomerch.com/interface/body.php?module=store&catid=15&id=34 "Butch Walker: Sycamore Meadows").
 After giving this album a couple of listens, it has quickly become one
 of my favorites for all time. It's both amazingly happy and startlingly
-deep, many times simultaneously. <!--more-->
+deep, many times simultaneously. <!-- PELICAN_END_SUMMARY -->
 
 <div class="albumCover">
 

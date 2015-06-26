@@ -13,7 +13,7 @@ roll.
 
 Anyways, I give to you, in no certain order (I can never actually sort
 these kinds of lists) my top ... lets say 10. My Top Ten favorite songs
-of all time.<!--more-->\[singlepic id=662 w=400 h=400 float=right\]
+of all time.<!-- PELICAN_END_SUMMARY -->\[singlepic id=662 w=400 h=400 float=right\]
 
 ### Iris - Goo Goo Dolls
 

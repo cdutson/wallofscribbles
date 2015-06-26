@@ -26,7 +26,7 @@ It had all the makings for a great film: a good premise, a fairly strong
 cast calling, some impressive cinematography, an excellent musical
 score, and a fair amount of detail. So what happened?
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 The Good
 --------

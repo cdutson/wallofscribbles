@@ -84,40 +84,14 @@ h1, h2, h3, h4, h5, h6, .site-title, .search-label,
 .comment-author,#intro, #externalLinks li span,
 #extraLinks a { font-family: 'Varela Round', sans-serif; font-weight: normal;  line-height:1.2; letter-spacing: -0.04em;}
 /* everything else*/
-body, input, textarea, button {font-family:'Merriweather', 'Georgia', 'Times new Roman', Times, serif; font-weight: normal;}
+body, input, textarea, button {font-family:'Crimson Text', 'Georgia', 'Times new Roman', Times, serif; font-weight: normal;}
 /* ICONS */
-em {font-family:'Georgia', 'Times new Roman', Times, serif;}
+em {font-family:'Crimson Text', 'Times new Roman', Times, serif;}
 blockquote:before,blockquote:after
 { font-family: 'FontAwesome'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; display: inline-block;}
 blockquote:before { content: "\f10d"; margin-bottom: -0.8em; margin-left:-1.3em;}
 blockquote:after { content: "\f10e"; text-align: right; margin-top:-2em; margin-right:-1.3em; padding-bottom: 1em}
 blockquote:before,blockquote:after { font-size:108%; line-height: 1; display: block; color:#FF4100;}
-
-
-/*
-   Animation example, for spinners
-*/
-.animate-spin { -moz-animation: spin 2s infinite linear;   -o-animation: spin 2s infinite linear;   -webkit-animation: spin 2s infinite linear;   animation: spin 2s infinite linear;  display: inline-block;}
-@-moz-keyframes spin { 
-  0% {    -moz-transform: rotate(0deg);    -o-transform: rotate(0deg);    -webkit-transform: rotate(0deg);    transform: rotate(0deg); }
-  100% {    -moz-transform: rotate(359deg);    -o-transform: rotate(359deg);    -webkit-transform: rotate(359deg);    transform: rotate(359deg);  }
-}
-@-webkit-keyframes spin {
-  0% {    -moz-transform: rotate(0deg);    -o-transform: rotate(0deg);    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }
-  100% {    -moz-transform: rotate(359deg);    -o-transform: rotate(359deg);    -webkit-transform: rotate(359deg);    transform: rotate(359deg);  }
-}
-@-o-keyframes spin {
-  0% {    -moz-transform: rotate(0deg);    -o-transform: rotate(0deg);    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }
-  100% {    -moz-transform: rotate(359deg);    -o-transform: rotate(359deg);    -webkit-transform: rotate(359deg);    transform: rotate(359deg);  }
-}
-@-ms-keyframes spin {
-  0% {    -moz-transform: rotate(0deg);    -o-transform: rotate(0deg);    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }
-  100% {    -moz-transform: rotate(359deg);    -o-transform: rotate(359deg);    -webkit-transform: rotate(359deg);    transform: rotate(359deg);  }
-}
-@keyframes spin {
-  0% {    -moz-transform: rotate(0deg);    -o-transform: rotate(0deg);    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }
-  100% {    -moz-transform: rotate(359deg);    -o-transform: rotate(359deg);    -webkit-transform: rotate(359deg);    transform: rotate(359deg);  }
-}
 
 .pulse {-moz-animation: pulse 30s infinite ease-in-out;   -o-animation: pulse 30s infinite ease-in-out;   -webkit-animation: pulse 30s infinite ease-in-out;   
     animation: pulse 30s infinite ease-in-out;}
@@ -170,7 +144,7 @@ article h3, article h4, article h5, article h6 {margin-right: 0px;}
 
 /* HEADER */
 #header { padding:1em 0px 1em; position: relative; }
-.site-title {margin:0px 20%; font-size: 400%; margin-bottom: 0px; line-height: 1;}
+.site-title {margin:0px 20%; font-size: 350%; margin-bottom: 0px; line-height: 1;}
 .site-tagline {margin:0px 20%;}
 #sizeIcon {position:absolute; left:2%; top:0.5em; -webkit-transition: color 300ms ease-in-out; -moz-transition: color 300ms ease-in-out; -ms-transition: color 300ms ease-in-out; -o-transition: color 300ms ease-in-out; transition: color 300ms ease-in-out;}
 #sizeIcon:hover {color:#FF4100 ;}
@@ -216,10 +190,10 @@ box-shadow: 0px 0px 3px 02px rgba(0, 178, 92, 0.4);}
 #blogSection > header,
 #portfolioSection > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
 #blogSection > header h1,
-#portfolioSection >header h1 {border:none; font-size:180%; padding-bottom:0px; margin-bottom:0.2em;}
+#portfolioSection >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
 
 #portfolioSection {border-top:1px solid #CCCCCC; min-height:200px;}
-#blogSection > article h1 {font-size:240%;}
+#blogSection > article h1 {font-size:220%;}
 .post-preview {border-top:1px solid #CCCCCC; padding:0.4em 0px 1em;}
 
 .portfolio-preview {display:inline-block; width:31.45%; vertical-align: top; padding: 1.8% 0% 0 1.8%;}
@@ -235,23 +209,23 @@ box-shadow: 0px 0px 3px 02px rgba(0, 178, 92, 0.4);}
 /* POST */
 #singlePost {}
 #singlePost > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
-#singlePost >header h1 {border:none; font-size:180%; padding-bottom:0px; margin-bottom:0.2em;}
+#singlePost >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
 #singlePost >header h1 span {font-size:40%;}
 #singlePost article h1 { color: #00B25C;}
 #post { margin:0px 20%; padding-top:0.4em; border-top:1px solid #CCCCCC;}
-#post h1 {font-size: 240%; margin-bottom:0.22em;}
+#post h1 {font-size: 220%; margin-bottom:0.22em;}
 #post header { color: #999999; }
 #intro {background:rgba(0, 178, 92,0.05); line-height: 1.5; padding:1em 3% 0.1em; margin-bottom:1.25em ;}
 .post-info {border-top:1px solid #CCCCCC; font-size:80%; color: #999999;}
 .post-info a {color:#FF4100;}
 .post-info a:hover {color:#00B25C;}
-.post-info p {margin:0.8em 0em 0.7em;}
+.post-info p {margin:0.5em 0em 0.55em;}
 
 /* ARCHIVE */
 #postList {margin:0px 20%;}
-#postList header h1 {font-size: 240%;}
+#postList header h1 {font-size: 220%;}
 #postList > header {position:absolute; left:2%;right:83%; border-top:1px solid #CCCCCC; padding-top:0.5em;}
-#postList >header h1 {border:none; font-size:180%; padding-bottom:0px; margin-bottom:0.2em;}
+#postList >header h1 {border:none; font-size:160%; padding-bottom:0px; margin-bottom:0.2em;}
 #postList >header h1 span {font-size:40%;}
 #postList article h1 { color: #00B25C;}
 
@@ -334,14 +308,11 @@ div.syntaxhighlighter {margin:0px 0px 10px 0px !important; -webkit-box-shadow: 0
 
 /* MOBILE STARTS HERE */
 @media only screen and (min-width: 1200px) {
-  #pageWrap {font-size: 175%}
+  #pageWrap {font-size: 200%}
 
 }
 
 @media only screen and (max-width: 1024px) {
-  #sizeIcon .fa-laptop {display:block;}
-  #sizeIcon .fa-desktop, #sizeIcon .icon-tablet, #sizeIcon .fa-mobile {display:none;}
-
   .portfolio-preview {display:inline-block; width:31.4%;}
 
   #postList, .site-title, .site-tagline, #post { margin: 0px 10% 0 20%; }
@@ -350,9 +321,6 @@ div.syntaxhighlighter {margin:0px 0px 10px 0px !important; -webkit-box-shadow: 0
 }
 @media only screen and (max-width: 800px) {
   #pageWrap {font-size: 160%}
-
-    #sizeIcon .fa-tablet {display:block;}
-    #sizeIcon .fa-desktop, #sizeIcon .fa-laptop, #sizeIcon .fa-mobile {display:none;}
     
     #postList, .site-title, .site-tagline, #post { margin: 0px 2% 0 30%; }
     #postList > header, #singlePost > header,
@@ -370,8 +338,6 @@ div.syntaxhighlighter {margin:0px 0px 10px 0px !important; -webkit-box-shadow: 0
     article h2, article h3, article h4, article h5, article h6 {margin-right:0px; padding-bottom: 0.4em;}
 
     #header {text-align: center}
-    #sizeIcon .fa-mobile , #sizeIcon .fa-desktop, 
-    #sizeIcon .fa-tablet, #sizeIcon .fa-laptop {display:none;}
 
     #postList, .site-title, .site-tagline, #contentWrapper, #singlePost, #footer {margin-left:20px; margin-right:20px;}
     #post {margin:0;}
@@ -391,12 +357,6 @@ div.syntaxhighlighter {margin:0px 0px 10px 0px !important; -webkit-box-shadow: 0
     #portfolioSection > header {margin-bottom:1em;}
     #portfolioSection .portfolio-preview { width:30%;}
     #portfolioSection .portfolio-preview  h1 {display:none;}
-
-    .search-label {display: none;}
-    #footer form {position:relative; overflow:hidden;}
-    #footer form #s {font-size:140%; width:86%; padding:1%;} 
-    #searchsubmit {font-size: 180%; position: absolute; right:1%; top:10px; width:auto; height: auto;}
-    #searchsubmit span {width:auto;height: auto;}
 
     #externalLinks ul {margin-bottom:10px;}
     #externalLinks li span {display:none;}

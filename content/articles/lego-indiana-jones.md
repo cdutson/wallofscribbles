@@ -30,7 +30,7 @@ assume that 180-ed is a term I can use.
 
 Anyways.
 
-<!--more-->First off, I'm an [Indiana
+<!-- PELICAN_END_SUMMARY -->First off, I'm an [Indiana
 Jones](http://www.imdb.com/find?s=all&q=indiana+jones&x=0&y=0 "IMDB.com: Indiana Jones")
 fan. I have the movies, the old computer game, the hat, and for most of
 my impressionable youth Harrison Ford's role was everything I wanted to

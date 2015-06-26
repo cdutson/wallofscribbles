@@ -35,7 +35,7 @@ reason many of the unfinished games on my shelf are there; mediocrity in
 tale-spinning.
 
 So why Mass Effect? What made me give not one, not two, but three (or
-more if you count DLC) shits about such a franchise? <!--more-->
+more if you count DLC) shits about such a franchise? <!-- PELICAN_END_SUMMARY -->
 
 [![And so it
 begins](http://wallofscribbles.com/wp-content/uploads/2012/11/mass-effect-410x307.jpg "Mass Effect")](http://wallofscribbles.com/wp-content/uploads/2012/11/mass-effect.jpg)

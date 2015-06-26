@@ -16,7 +16,7 @@ have to actually listen to the whole album through two more times to
 actually find songs that I like.
 
 Wait, those could be out of order. It doesn't matter, they'll both
-happen one way or the other.<!--more-->
+happen one way or the other.<!-- PELICAN_END_SUMMARY -->
 
 <div class="albumCover">
 

@@ -21,7 +21,7 @@ had even really finished it.
 
 That's always a good sign.
 
-<!--more-->First off, you may have noticed that the site has a bit
+<!-- PELICAN_END_SUMMARY -->First off, you may have noticed that the site has a bit
 more... *character* to it. I think this layout is a bit more me. At the
 very least, it gives viewers a brief glimpse into the borderline
 insanity that is my mind. I've removed my resume from the site, since no

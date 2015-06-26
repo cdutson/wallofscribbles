@@ -22,7 +22,7 @@ You've been warned.
 
 P.S. I invite any and everyone to participate in the comments!
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 
 ### First attempt:
 

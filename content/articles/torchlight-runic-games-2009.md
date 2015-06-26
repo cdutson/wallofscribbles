@@ -21,7 +21,7 @@ something like Diablo, but streamlined and graphically updated.
 Believe it or not, that's pretty much it. Well, except the compelling
 storyline.
 
-<!--more-->[![](http://wallofscribbles.com/wp-content/uploads/2011/06/Torchlight-410x245.jpg "Torchlight")](http://wallofscribbles.com/wp-content/uploads/2011/06/Torchlight.jpg)
+<!-- PELICAN_END_SUMMARY -->[![](http://wallofscribbles.com/wp-content/uploads/2011/06/Torchlight-410x245.jpg "Torchlight")](http://wallofscribbles.com/wp-content/uploads/2011/06/Torchlight.jpg)
 
 Synopsis
 --------

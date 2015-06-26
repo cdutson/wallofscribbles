@@ -52,7 +52,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['gzip_cache', 'neighbors', 'post_stats', 'sitemap', 'assets',]
+PLUGINS = ['gzip_cache', 'neighbors', 'post_stats', 'sitemap', 'assets', 'summary',]
 
 #EXCLUDE_CATEGORIES = ['portfolio',]
 

@@ -17,7 +17,7 @@ useful so that people will actually use them.
 So as a result of my tooling around with WordPress, I've created two
 plugins for people to use.
 
-<!--more-->
+<!-- PELICAN_END_SUMMARY -->
 -----------
 
 RandomQuotr

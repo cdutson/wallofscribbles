@@ -26,7 +26,7 @@ by.
 
 And so I've opted to take them from that forum and post the tips here,
 complete with screenshots. I apologize in advance as these screens are
-done on my mac. The concepts should still be the same though.<!--more-->
+done on my mac. The concepts should still be the same though.<!-- PELICAN_END_SUMMARY -->
 
 Preferences
 -----------

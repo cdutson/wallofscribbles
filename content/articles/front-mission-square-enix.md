@@ -29,7 +29,7 @@ things. Well okay, not none *per say*, but far less than my first
 experience. It did manage to be just as frustrating though, so that's
 something.
 
-<!--more-->  
+<!-- PELICAN_END_SUMMARY -->  
 So when I found out that Front Mission was coming out for the DS, I
 nearly wet myself in anticipation. As previously stated, I had good
 experiences with the series, so I was all hot and bothered over the idea
