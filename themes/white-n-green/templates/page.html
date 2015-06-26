@@ -1,6 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ page.title|striptags }} &#x2665; {{ super() }}{%endblock%}
-{% block theme %}{% if page.theme %}theme_{{ page.theme }}{% endif %}{% endblock %}
+{% block title %}{{ page.title|striptags }} - {{ super() }}{%endblock%}
 {% block content %}
 
 {% if page.portfolio %}

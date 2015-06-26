@@ -63,7 +63,6 @@ SITEMAP = {
     'format': 'xml',
     'priorities': {
         'articles': 0.8,
-        'portfolio)items':0.5,
         'indexes': 0.5,
         'pages': 0.5
     },
@@ -71,6 +70,5 @@ SITEMAP = {
         'articles': 'monthly',
         'indexes': 'daily',
         'pages': 'monthly',
-        'portfolio_items': 'monthly',
     }
 }
