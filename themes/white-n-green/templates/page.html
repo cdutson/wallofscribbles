@@ -4,7 +4,7 @@
 
 {% if page.portfolio %}
 <section id="postList" class="portfolio-list">
-    <header class="page-header">
+    <header class="side-header">
         <h1>Look at all the thing's I've made</h1>
         <a href="{{ SITEURL }}/downloads/CoreyDutson-CV.pdf">My CV&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a>
     </header>
@@ -21,7 +21,7 @@
 {% else %}
 <section id="singlePost">
     {% if page.category==PORTFOLIO_CATEGORY %}
-    <header>
+    <header class="side-header">
         <div class="archive-link"><a href="{{ SUTEURL}}/pages/portfolio.html">Head on back to the portfolio&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
     </header>
     {% endif %}

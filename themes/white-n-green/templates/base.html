@@ -43,14 +43,13 @@
             <script type='text/javascript' src='{{ SITEURL }}/{{ ASSET_URL }}'></script>
         {% endassets %}
     
-        {% assets filters="cssmin", output="css/style.min.css", "css/pygment.css", "css/s.css" %}
+        {% assets filters="cssmin", output="css/style.min.css", "css/pygment.css" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
-        {# comment
-        {% assets filters="sass, cssmin", output="css/themes.min.css", "css/colorbox.sass", "css/styles.sass" %}
+        
+        {% assets filters="sass, cssmin", output="css/themes.min.css", "css/styles.sass" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
-        #}
         {% endblock head %}
 </head>
 
