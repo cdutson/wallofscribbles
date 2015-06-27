@@ -1,18 +1,31 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="blogSection">
+<section class="postList">
     <header class="side-header">
         <h1>Words I have put together</h1>
         <div class="archive-link"><a href="{{ SITEURL }}/archives.html">Read more&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
     </header>
     {% for article in dates %}
-        {% if loop.index <= 1 %}
-            {% include "article-core.html" %}
+        {% if loop.index <= 2 %}
+            <article class="post-preview">
+               <header>
+                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                    <div class="date-holder">Released <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.date|strftime('%B %d, %Y') }} </abbr>
+                        <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread" class="comment-count"><span class="disqus-comment-count" data-disqus-url="{{ SITEURL }}/{{ article.url }}#disqus_thread"></span></a>
+                    </div>
+                </header>
+                <section class="article-body">
+                    {{article.summary}}
+                    <p>
+                    <a class="read-more" href="{{ SITEURL }}/{{ article.url }}">Continue reading <span class="fa fa-arrow-circle-o-right"></span></a>
+                    </p>
+                </section>
+            </article>
         {% endif %}
     {% endfor %}
 </section><!-- /#content -->
 
-<section id="postList" class="portfolio-list">
+<section class="postList portfolio-list">
     <header class="side-header">
         <h1>Things that I've made</h1>
         <div class="archive-link"><a href="/pages/portfolio.html">View more&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>

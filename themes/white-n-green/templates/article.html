@@ -2,11 +2,10 @@
 {% block title %}{{ article.title|striptags }} - {{ super() }}{%endblock%}
 {% block content %}
 <section id="singlePost">
-    {% if article.category==PORTFOLIO_CATEGORY %}
-    <header>
-        <div class="archive-link"><a href="{{ SUTEURL}}/category/portfolio.html">Head on back to the portfolio&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
+    <header class="side-header">
+        <h1>Words I have put together</h1>
+        <div class="archive-link"><a href="{{ SITEURL }}/archives.html">Read more&nbsp;&nbsp;<span class="fa fa-arrow-circle-o-right"></span></a></div>
     </header>
-    {% endif %}
     {% include "article-core.html" %}
 </section>
 {% endblock %}

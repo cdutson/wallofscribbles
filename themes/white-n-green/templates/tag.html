@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="postList">
+<section class="postList">
     <header class="side-header">
         <h1>&lsquo;{{tag}}&rsquo; posts{% if articles_page.has_previous() or articles_page.has_next() %}, page {{articles_page.number}}{% endif %}</h1>
     </header>
