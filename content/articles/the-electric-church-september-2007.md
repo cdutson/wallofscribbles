@@ -33,7 +33,7 @@ at times to actually get into specific scenes. I can understand having
 some, or even moderate amounts of swearing, but when you have at least
 one a sentence for an entire page, it gets a little old.
 
-get\_leader
+.postList
 
 Another problem I had was how shallow much of the book really was. There
 was a lot of depth put into how crummy the world has become, but very

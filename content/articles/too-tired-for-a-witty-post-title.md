@@ -70,7 +70,7 @@ running through the arena to make enough money to upgrade everyone.
 Ugh. I'm never going to play it again once I've defeated it. It's a game
 I can live with never picking up again.
 
-get\_leader
+.postList
 
 I can't remember if I mentioned it or not, But I've actually also picked
 up the new [Star
@@ -103,7 +103,7 @@ for the 360. Here are my brief rundowns of them:
     Intern Team (3 guys). I'll let that stand on it's own. It's free,
     at least.
 -   **Alien Hominids**: [I'm a big
-    fan](/2009/02/05/castle-crashers/ "WallOfScribbles.com: Castle Crashers")
+    fan]({filename}castle-crashers.md "WallOfScribbles.com: Castle Crashers")
     of [Castle
     Crashers](http://www.castlecrashers.com/ "Castle Crashers"), so I
     opted to pick up Beheamoths first game while it's on the cheap - 50%

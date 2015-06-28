@@ -6,9 +6,9 @@ Slug: torchlight-runic-games-2009
 Status: published
 
 Regardless, in my long-standing tradition of playing games well past
-[their](/2011/bioshock/ "Bioshock – 2K (2007)")
-[popularity](/2011/borderlands/ "Borderlands – Gearbox (2009)")
-[spike](/2009/time-hollow-konami-2008/ "Time Hollow – Konami (2008)") (I
+[their]({filename}bioshock.md "Bioshock – 2K (2007)")
+[popularity]({filename}borderlands.md "Borderlands – Gearbox (2009)")
+[spike]({filename}time-hollow-konami-2008.md "Time Hollow – Konami (2008)") (I
 haven't even reviewed [Mass
 Effect](http://www.amazon.co.uk/gp/product/B004TG5PA6/ref=as_li_ss_tl?ie=UTF8&tag=walofscr-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B004TG5PA6 "amazon.co.uk - Mass Effect (XBox 360)")
 or [Bioshock

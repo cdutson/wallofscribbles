@@ -25,7 +25,7 @@ saying that's bad by any means because it was a very sweet movie, and
 made me smile for a good while after watching it. It's just a nice movie
 to watch, especially when you're feeling a bit of a recluse yourself.
 
-get\_leader
+.postList
 
 It has a strong feeling of coming of age, but by throwing it through
 such a different light it allows you to appreciate it without having the
@@ -51,7 +51,7 @@ that I just have to quote here:
 > carry her. And she is not petite, Lars. Bianca is a big, big girl!
 > None of this is easy - for any of us - but we do it... Oh! We do it
 > for you! So don't you dare tell me how we don't care.  
->  \[*walks into house and slams door*\]
+>  
 
 Something about this scene just touched me. It's so strong and so honest
 that it endeared me to Karin for the rest of the movie.

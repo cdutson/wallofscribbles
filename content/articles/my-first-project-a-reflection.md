@@ -72,7 +72,7 @@ and make sure you're not being out-right offensive (unless that's your
 goal) and be concise. Taking the extra five seconds can make the
 resulting exchange that much easier.
 
-get\_leader
+.postList
 
 ### Write it down
 

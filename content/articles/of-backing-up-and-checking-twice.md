@@ -34,7 +34,7 @@ server to the other. This includes the files that make up my new theme.
 The result? I rolled back 2 days worth of changes to the websites theme
 and the problem was ***still there***.
 
-get\_leader
+.postList
 
 Now I'm swearing up and down the walls. I'm saying things that I should
 probably seek forgiveness for having said. I'm angry because now not

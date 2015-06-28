@@ -18,7 +18,7 @@ Then I tried to create a Custom List. I had event receivers attached to
 custom lists (ListTemplateID=100 for those who care) and i got this:
 
 *Cannot insert the value NULL into column 'Name', table
-'\[somesharepointcontentdatabase\].dbo.EventReceivers';  
+'.dbo.EventReceivers';  
 column does not allow nulls. INSERT fails.  
 The statement has been terminated.*
 
@@ -34,7 +34,7 @@ style="color: red">Receiver</span><span
 style="color: blue">&gt;</span>items inside. What the hell is going on?
 Read on!
 
-get\_leader
+.postList
 
 I'll give an example of what I'm talking about here - the following
 comes from

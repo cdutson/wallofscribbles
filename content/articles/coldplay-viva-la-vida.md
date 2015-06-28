@@ -32,8 +32,7 @@ you have (buying from iTunes seems to be the best bet... assuming you
 pre-ordered it). My version actually has an extra track which is an
 acoustic version of Lost! entitled "Lost?" which I find fantastic. Track
 five (Lovers in Japan/Reign of Love) is actually two tracks in one, and
-there are also two hidden tracks contained within "Yes" \[Chinese Sleep
-Chant\] and "Death and All His Friends" \[The Escapist\], making this a
+there are also two hidden tracks contained within "Yes" , making this a
 much fuller album than what one would initially presume.
 
 The best term I can use for this album is 'solid.' From start to finish,
@@ -51,7 +50,7 @@ and final touches. The album still carries that soothing Coldplay feel
 that we've all come to know (if not actually love) making every track
 sound very "Coldplayish."
 
-get\_leader
+.postList
 
 Interesting usage of instruments can be found throughout the album,
 proving that they aren't just a piano-driven alternative band.. at least

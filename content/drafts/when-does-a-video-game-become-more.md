@@ -45,8 +45,8 @@ So then we now come to my third category; the games I remember, cherish,
 discuss well after I've played them. What makes it into my personal
 third category? Like I said, I've played many, many games in my time,
 and I've reviewed a selection of them
-[on](http://wallofscribbles.com/2009/front-mission-square-enix/ "Wall of Scribbles - Front Mission Review")
-[this](http://wallofscribbles.com/2009/my-world-my-way/ "Wall of Scribbles - My World, My Way Review") [very](http://wallofscribbles.com/2011/borderlands/ "Wall of Scribbles - Borderlands Review") [website](http://wallofscribbles.com/2011/stacking-double-fine-2011/ "Wall of Scribbles - Stacking Review").
+[on]({filename}front-mission-square-enix.md "Wall of Scribbles - Front Mission Review")
+[this]({filename}my-world-my-way.md "Wall of Scribbles - My World, My Way Review") [very]({filename}borderlands.md "Wall of Scribbles - Borderlands Review") [website]({filename}stacking-double-fine-2011.md "Wall of Scribbles - Stacking Review").
 Very few games end up landing my personal third category, and it's a
 sliding scale therein. However one of the biggest over-arching themes
 with all of my favourites boils down to one thing: ***story***.

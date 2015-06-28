@@ -70,7 +70,7 @@ Butch seems to have a knack for being very hit or miss with his songs.
 He also has a knack for making sure that these songs hit and miss
 differently.
 
-get\_leader
+.postList
 
 One thing that has been constant throughout all of his work though, is
 that every track has a personal touch. There have been many a time where

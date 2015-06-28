@@ -55,7 +55,7 @@ Receiver attached to the Feature that Installs the custom content type
 that this is all based from. please note my use of the word 'should'
 because I'm still stuck there.
 
-<!--adsense-->
+
 
 Let's move onto the library for a moment. Now I have not been able to
 replicate the Wiki library properly, without making my list type use the

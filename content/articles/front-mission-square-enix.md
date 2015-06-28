@@ -90,7 +90,7 @@ fight twice as many. All. The. Time. One map I played had 4 of my men
 against no less that 16 or 17 enemy units. That requires some top-notch
 organization let me tell you.
 
-get\_leader
+.postList
 
 Mechanics
 ---------
@@ -171,7 +171,7 @@ play through again and again, until you hit x10 difficulty, but why
 anyone would do that to themselves I have no idea. The option is there
 though.
 
-get\_leader
+.postList
 
 Word from the Wise
 ------------------

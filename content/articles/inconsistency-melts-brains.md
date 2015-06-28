@@ -26,7 +26,7 @@ different, with no shared styles or markup whatsoever.
 
 This happens all over the place. Hell, there is markup all over the
 place that is either broken, non-standard ([don't get me
-started](/2008/01/31/sharepoint-2007-what-the-hell-man/ "SharePoint 2007: What the hell, man?")
+started]({filename}sharepoint-2007-what-the-hell-man.md "SharePoint 2007: What the hell, man?")
 on WSS/SharePoint and it's default markup) and over 6 thousand lines of
 styles if you add up all the sheets. 6 thousand! There is no need for
 that, and yet it exists because of - *say it with me now* - the lack of
@@ -36,7 +36,7 @@ between the differing groups, or the markup left to a third group so
 that they could all be structured the same way other peoples lives would
 then be made easier.
 
-<!--adsense-->
+
 
 Another example I can bring up is with code. My code, my co-workers
 code, random interweb code, it happens everywhere. It is far more

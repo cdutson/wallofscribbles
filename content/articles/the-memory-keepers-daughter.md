@@ -37,7 +37,7 @@ father who meant to only do good, cause so much sadness and separation.
 The time-line is easy to follow, for the most part. I had a bit of
 trouble picturing the characters at their correct age, though that is
 partially my own fault for not noting the dates in the book.  
-<!--adsense-->  
+  
 What really got me about this book is the silent controversy that it
 inspires. To give away ones child seems utterly barbaric, and yet he was
 honestly doing what he thought was best. Children with Downs Syndrome

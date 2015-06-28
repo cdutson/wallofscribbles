@@ -53,7 +53,7 @@ search for your books, add them, and then you can go back on your own
 time and add your reviews. A great way to increase user use and
 acceptance.
 
-get\_leader
+.postList
 
 ### The Bad
 

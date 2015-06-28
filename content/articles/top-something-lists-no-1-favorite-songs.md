@@ -13,7 +13,7 @@ roll.
 
 Anyways, I give to you, in no certain order (I can never actually sort
 these kinds of lists) my top ... lets say 10. My Top Ten favorite songs
-of all time.<!-- PELICAN_END_SUMMARY -->\[singlepic id=662 w=400 h=400 float=right\]
+of all time.<!-- PELICAN_END_SUMMARY -->
 
 ### Iris - Goo Goo Dolls
 
@@ -75,7 +75,7 @@ who's to say? The end result was this quick-paced, dark-esque song
 hitting a spot with me. It's got a solid beat, it's got good lyrics, and
 it lands itself a spot in my brains' appreciation centres.
 
-get\_leader
+.postList
 
 ### Somewhere Out There - Our Lady Peace
 
@@ -129,7 +129,7 @@ rocks my socks completely off. It's an amazing song that you don't even
 notice is playing until your 5 minutes in and your brain clicks in that
 this isn't just another background noise song.
 
-get\_leader
+.postList
 
 ### If (Jeannie's Song) - Butch Walker
 

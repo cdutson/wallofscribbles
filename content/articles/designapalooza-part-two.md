@@ -6,7 +6,7 @@ Tags: Art, Designapalooza, Graphic Designer, Learning, Part 2, School, Technolog
 Slug: designapalooza-part-two
 Status: published
 
-### Table of contents:
+### Table of contents: {#toc}
 
 1.  [Location, location, location](#location)
 2.  [The time of your life](#time)
@@ -133,7 +133,7 @@ your life goals.
 
 [Back to top](#toc)
 
-<!--adsense-->
+
 
 ### 5. Schools gots'ta represent, yo.. um,G. Slice... dawg {#represent}
 
@@ -247,16 +247,15 @@ becoming a graphic designer. Next up is how you can help yourself get
 educated at work before you get educated.
 
 -   [Part
-    One](/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One")
+    One]({filename}designapalooza-part-one.md "Designapalooza - Part One")
 -   Part Two (Currently reading)
 -   [Part
-    Three](/2007/11/26/designapalooza-part-three/ "Designapalooza - Part Three")
+    Three]({filename}designapalooza-part-three.md "Designapalooza - Part Three")
 -   [Part
-    Four](/2007/12/03/designapalooza-part-four/ "Designapalooza - Part Four")
+    Four]({filename}designapalooza-part-four.md "Designapalooza - Part Four")
 -   [Part
-    Five](2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
+-   Part Six]({filename}designapalooza-part-six.md "Designapalooza - Part Six")
 -   [Part
-    Six](/2008/01/16/designapalooza-part-six/ "Designapalooza - Part Six")
--   [Part
-    Seven](/2008/06/05/designapalooza-part-seven "Designapalooza - Part Seven")
+    Seven]({filename}designapalooza-part-seven.md "Designapalooza - Part Seven")
 

@@ -40,7 +40,7 @@ what I'm arguing. Firefox, along with the other browsers, took far more
 time to correct CSS bugs than IE ever did. Only now with the eventual
 release of IE 8 are we looking at IE possibly coming up par.
 
-<!--adsense-->
+
 
 I don't work on the team, and I'm truly glad I don't. These guys are
 basically the internet pariah group of the century. Everyone can hate IE

@@ -73,7 +73,7 @@ TV with a guy on it? Yup. Only person who can see finds scissors? Yup.
 The only person that can see finds a grocery store's back room? Yup. The
 list goes on.
 
-get\_leader
+.postList
 
 The plot devices were easily the second most annoying thing with the
 entire movie. They seem to be almost overly obvious sometimes, seemingly

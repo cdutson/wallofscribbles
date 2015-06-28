@@ -8,7 +8,7 @@ Status: published
 
 I am so very sorry that this is the first movie review I have written
 in... However long it's been... has to be for TRON Legacy. [Rudy
-2](/2010/12/09/rudy-2-this-time-its-personal/ "Corey Dutson - Rudy 2: This Time it's Personal")
+2]({filename}rudy-2-this-time-its-personal.md "Corey Dutson - Rudy 2: This Time it's Personal")
 doesn't really count. Hey it's my website and what I say goes, junior.
 
 I'll do my best to follow a format or at least some kind of general

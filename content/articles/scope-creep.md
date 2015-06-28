@@ -47,7 +47,7 @@ retarded, then you have a goal for the next release which will make
 everyone happy. If, however, it is bat-shit insane to add then try and
 talk them down from their idea.
 
-get\_leader
+.postList
 
 #### Make sure the request isn't documented anywhere, and other devious things
 
@@ -69,7 +69,7 @@ You could of course do the work. This is an option, and one that many
 people are stuck doing. Sometimes you can't get out of it, and it will
 hurt you inside every time. This is doubly so if it is legitimately your
 fault. If you missed something in your [analysis
-phase](/2008/02/14/respect-the-process-damnit/ "Respect the Process, Damnit"),
+phase]({filename}respect-the-process-damnit.md "Respect the Process, Damnit"),
 it makes you feel more like a moron when you're burning that midnight
 oil to meet your cliboss' (still using it) expectations. An easy way to
 help avoid this is to make sure you do a solid and thorough job on your

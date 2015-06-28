@@ -60,23 +60,7 @@ The fix
 After some playing around, I've come up with a fix, though it does come
 with some caveats that I will outline after.
 
-\[css\]
 
-/\*The following example assumes the selector already has the custom
-font applied to it.\*/
-
-.customFontSelector {  
-color:\#000000; /\* you can use rgb as well \*/  
-text-shadow: 0px 0px 1px rgba(0,0,0,0.1); /\* same color as the normal
-color item \*/  
-filter: dropshadow(color:\#000000, offx=0, offy=0); /\* color needs to
-be a hex, near as i can tell \*/  
-/\* sometimes the shadow actually needs to be the background color. It
-seems a bit variable\*/  
--webkit-font-smoothing: antialiased; /\*stops mac 'thick font' syndrome
-\*/
-
-\[/css\]
 
 How this works:
 ---------------

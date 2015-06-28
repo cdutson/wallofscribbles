@@ -145,7 +145,7 @@ experience will be that much better.
 
 Also, it's a total bitch to go back to a previous level.
 
-get\_leader
+.postList
 
 Graphics
 --------

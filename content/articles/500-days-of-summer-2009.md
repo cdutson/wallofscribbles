@@ -11,13 +11,7 @@ say, Theresa told me about it, then told me that she was seeing it with
 her friend at a time that allowed little error in me driving 1.5 hours
 to get to the theater. I arrived with about 6 minutes to spare, and
 though it probably cost me a mint in gas (not to mention the 10 dollar
-movie ticket \[ damn you indie film support\]), I am glad to say that it
-was worth every penny
-
-<!-- PELICAN_END_SUMMARY -->
-
-![](http://www.wallofscribbles.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")\[singlepic
-id=658 w=400 h=400 float=right\] Writern Scott Neustadter and Michael
+movie ticket  Writern Scott Neustadter and Michael
 Weber, [500 Days of
 Summer](http://www.foxsearchlight.com/500daysofsummer/ "Fox Searchlight: 500 Days of Summer")
 is shockingly not about global warming. No, the story revolves around
@@ -64,7 +58,7 @@ was used, but I know it's one I've seen, and it worked so very well for
 this movie. The transitioning between days was made that much better by
 the simple numeric counter that was featured (in said font, of course).
 
-get\_leader
+.postList
 
 And lets not forget the music. From the Smiths to Feist, this movie
 ranges all over the place. What really impressed me though was how well

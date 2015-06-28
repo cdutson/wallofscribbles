@@ -78,7 +78,7 @@ see The top have is the Excerpt, and the bottom half is the rest of the
 post. Just using the\_content wouldn't work, because I would be
 repeating all the pre-more content.
 
-get\_leader
+.postList
 
 I thought about maybe using an hr tag, or reworking my entire layout,
 but I dismissed those due to the complexity of the markup. My only
@@ -94,62 +94,7 @@ I am fixing that right now.
 
 Here is my solution, in full:
 
-\[code language="php"\]  
-function the\_formatted\_pre\_more\_from\_content (\$body)  
-{  
-\$returnVal = get\_the\_formatted\_pre\_more\_from\_content (\$body);  
-if (\$returnVal !== FALSE)  
-echo get\_the\_formatted\_pre\_more\_from\_content (\$body);  
-else  
-the\_excerpt();  
-}
 
-function get\_the\_formatted\_pre\_more\_from\_content (\$body)  
-{  
-\$moreTag = '&lt;!--more';  
-\$content = FALSE;
-
-\$morePos = stripos(\$body, \$moreTag);  
-if (\$morePos !== FALSE || \$morePos &gt; -1)  
-\$content = substr(\$body, 0, \$morePos);  
-else  
-return FALSE;
-
-\$content = apply\_filters('the\_content', \$content);  
-\$content = str\_replace('\]\]&gt;', '\]\]&gt;', \$content);
-
-return \$content;  
-}
-
-function the\_formatted\_post\_more\_from\_content (\$body)  
-{  
-echo get\_the\_formatted\_post\_more\_from\_content (\$body);  
-}
-
-function get\_the\_formatted\_post\_more\_from\_content (\$body)  
-{  
-\$moreTag = '&lt;!--more';  
-\$content = FALSE;
-
-\$morePos = stripos(\$body, \$moreTag);
-
-if (\$morePos !== FALSE || \$morePos &gt; -1)  
-{  
-\$content = substr(\$body, \$morePos + strlen(\$moreTag));  
-\$morePos = stripos(\$content, '--&gt;'); // reuse variable  
-if (\$morePos !== FALSE || \$morePos &gt; -1)  
-\$content = substr(\$content, \$morePos + 3); // strip off rest of more
-tag  
-}  
-else  
-\$content = \$body;
-
-\$content = apply\_filters('the\_content', \$content);  
-\$content = str\_replace('\]\]&gt;', '\]\]&amp;gt;', \$content);
-
-return \$content;  
-}  
-\[/code\]
 
 ### Explanation {#solution_explanation}
 
@@ -158,7 +103,7 @@ The two important functions here are
 'get\_the\_formatted\_post\_more\_from\_content'. Long names, I know,
 but at least their mission is clear.
 
-get\_leader
+.postList
 
 The other two functions 'the\_formatted\_pre\_more\_from\_content' and
 'the\_formatted\_post\_more\_from\_content' pretty much add a bit of

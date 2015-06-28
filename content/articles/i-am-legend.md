@@ -40,7 +40,7 @@ Though I am sure it was unintentional the Alpha Male in the movie
 reminded me very much of
 [Grendel](http://en.wikipedia.org/wiki/Grendel "Grendel") in the [CG'ed
 version](http://www.beowulfmovie.com/ "Beowulf") of
-[Beowulf](/2007/11/30/beowulf/ "Beowulf"). I'm not sure how that worked
+[Beowulf]({filename}beowulf.md "Beowulf"). I'm not sure how that worked
 out, but sadly it really hurt my perception of the character and made it
 hard to take that part of the movie seriously. I'm sorry, but the
 hilarity I found in Beowulf really hurt the team on this one, and I

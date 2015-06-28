@@ -38,7 +38,7 @@ the problem, even working at my best it was still a futile attempt. I'm
 not trying to lessen my blame or guilt here (I do feel it, believe me)
 I'm just explaining the situation.
 
-<!--adsense-->
+
 
 Lets move forward in time to now. More specifically to last night. I was
 curious to see how they were doing. I logged onto the site in Firefox,

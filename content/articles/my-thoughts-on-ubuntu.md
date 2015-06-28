@@ -6,7 +6,7 @@ Tags: Apache, D-link, Django, eBay, Linux, Microsoft, Operating systems, OS, Pyt
 Slug: my-thoughts-on-ubuntu
 Status: published
 
-\[singlepic=541\]
+
 
 I brought my old laptop out of commission ([Toshiba
 A10](http://www.toshiba.ca/web/product.grp?section=1&group=223&product=1911 "Toshiba Satellite A10"),
@@ -55,7 +55,7 @@ otherwise a fantastic little program is that you need a connection to
 the Internet in order to have up-to-date lists, as well as download said
 programs.
 
-<!--adsense-->
+
 
 Apparently in order to install
 [ndiswrapper](http://ndiswrapper.sourceforge.net/joomla/ "Linux: ndiswrapper")

@@ -21,7 +21,7 @@ points, that's what I say!
 Of course to every rule there is an exception, and Super Princess Peach
 is, shockingly, one of those exceptions.<!-- PELICAN_END_SUMMARY -->
 
-\[singlepic id=625 w=425 h=425\]
+
 
 Synopsis
 --------
@@ -45,7 +45,7 @@ menu), and spend your money in The Shop.
 
 That's right, there's only one shop. Dude much be loaded.
 
-get\_leader
+.postList
 
 Mechanics
 ---------
@@ -103,7 +103,7 @@ caste system.
 
 Bitch.
 
-get\_leader
+.postList
 
 Overall
 -------

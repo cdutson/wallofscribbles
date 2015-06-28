@@ -14,7 +14,7 @@ things like school and work are in the way. Pesky thing, responsibility.
 Having said that, with my school giving me far too much time off over
 the Christmas break, I managed to get my hands on a shiny new XBox 360.
 Granted that was a [bit of a
-fiasco](/2009/01/06/360-degrees-of-failure/ "Corey Dutson: 360 Degrees of Failure"),
+fiasco]({filename}360-degrees-of-failure.md "Corey Dutson: 360 Degrees of Failure"),
 in the end I landed me a couple of games. One of those games (obviously,
 I think, at this point) was [LEGO Indiana
 Jones](http://www.lucasarts.com/games/legoindianajones/ "LucasArts: LEGO Indiana Jones").
@@ -66,7 +66,7 @@ Now some things have to be taken into account here:
 5.  You can't actually die. When you do, you just respawn right where
     you were and continue on your merry way.
 
-get\_leader
+.postList
 
 Basically it's a kids game that has something for everyone. Most of the
 puzzles are straightforward (with a few exceptions that had me swinging
@@ -119,7 +119,7 @@ close enough to bad guys, your little LEGO
 hero will aim for you. Wish I had known about that at the start of the
 game.
 
-get\_leader
+.postList
 
 And one more paragraph that I am reserving for the games A.I.. Enemies
 were annoyingly accurate with rockets, but other than that they were

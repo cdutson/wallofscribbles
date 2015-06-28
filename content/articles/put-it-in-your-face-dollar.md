@@ -54,7 +54,7 @@ We made it back to the concert hall around 10 and walked in. We saw guys
 on stage setting things up, so we figured "great, we made it just in
 time. We're so cunning."
 
-<!--adsense-->
+
 
 The band came out on stage and played... and played... and played. Don't
 get me wrong: I love concerts and music, but an hour and a half set

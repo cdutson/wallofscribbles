@@ -56,7 +56,7 @@ files are also stored on the Dropbox server, so if both of my computers
 die, I've still got the ability to recover anything that was in my
 Dropbox.
 
-get\_leader
+.postList
 
 This as an added bonus. I have a niece, and she's recently started in
 ballet. My mother is gaga over the little'un, but as she is currently in
@@ -142,7 +142,7 @@ Well first off, you can specify where you want your Dropbox. By default
 it picks a location (Users/coreydutson/Dropbox on the ol' Mac) but if
 you want to store it somewhere else, you are more than welcome to.
 
-get\_leader
+.postList
 
 Using one set of credentials, you can attach multiple computers. This
 means that you only need to remember one user name and password for all

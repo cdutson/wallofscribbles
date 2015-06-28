@@ -34,7 +34,7 @@ really earned the messed up ankle I now live with. After watching the
 video I have realized that I bob my head when story telling. I bot it a
 *lot*. I wonder if it has any effect on the reception.
 
-<!--adsense-->
+
 
 I'm almost done [Phoenix Wright: Ace
 Attorney](http://www.capcom.com/phoenixwright/ "Phoenix Wright: Ace Attorney")

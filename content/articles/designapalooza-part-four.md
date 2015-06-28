@@ -6,7 +6,7 @@ Tags: Art, Design, Designapalooza, Fireworks, Graphic Designer, Learning, Part 4
 Slug: designapalooza-part-four
 Status: published
 
-### Table of contents:
+### Table of contents: {#toc}
 
 1.  [Get Your Swag On  
    ](#swag)
@@ -97,7 +97,7 @@ I don't know the learning curve but I can imagine them starting off easy
 and getting progressively more complex as you get into them.
 
 [Back to top](#toc)  
-<!--adsense-->
+
 
 ### Man the Helm {#man}
 
@@ -178,16 +178,17 @@ process to becoming a graphic designer. Coming up next: How to realize
 you know nothing, and not blowing your brains out as a result
 
 -   [Part
-    One](http://www.wallofscribbles.com/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One")
+    One]({filename}designapalooza-part-one.md "Designapalooza - Part One")
 -   [Part
-    Two](http://www.wallofscribbles.com/2007/11/23/designapalooza-part-two/ "Part Two")
+    Two]({filename}designapalooza-part-two.md "Designapalooza - Part Two")
 -   [Part
-    Three](/2007/11/26/designapalooza-part-three/ "Designapalooza - Part Three")
+    Three]({filename}designapalooza-part-three.md "Designapalooza - Part Three")
 -   Part Four (Currently reading)
 -   [Part
-    Five](2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
 -   [Part
-    Six](/2008/01/16/designapalooza-part-six/ "Designapalooza - Part Six")
+    Six]({filename}designapalooza-part-six.md "Designapalooza - Part Six")
 -   [Part
-    Seven](/2008/06/05/designapalooza-part-seven "Designapalooza - Part Seven")
+    Seven]({filename}designapalooza-part-seven.md "Designapalooza - Part Seven")
+
 

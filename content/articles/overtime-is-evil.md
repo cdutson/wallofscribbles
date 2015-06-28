@@ -22,7 +22,7 @@ about it that I have noticed is that I bust my ass off by working
 overtime just so we can hit the all-important, all-omnipresent deadline
 and then turn around to find another one looming overhead. It's painful,
 and to be honest it's aggravating, infuriating, and depressing all at
-once. Point 2 - "If the deadline set for your project \[...\] next
+once. Point 2 - "If the deadline set for your project  next
 deadline will be as tight as this one. If not tighter." - is so true it
 *hurts*. I have stated many times at my current reside that the time
 lines are made without actually talking to us (in some cases) and this

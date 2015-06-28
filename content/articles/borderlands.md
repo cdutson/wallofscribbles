@@ -70,7 +70,7 @@ for other people in order for you to reach your eventual goal: The
 Vault. I'm sure the different characters originally had more character
 behind them, but that ends up getting a bit lost throughout the game.
 
-get\_leader
+.postList
 
 Gameplay
 --------
@@ -175,7 +175,7 @@ the '*Legend of Legia*' approach to conversations, wherein you never
 actually say anything, but your actions apparently handle all the
 gabbing for you.
 
-get\_leader
+.postList
 
 Issues
 ------

@@ -129,7 +129,7 @@ allow this quite the way I want.
 -   Things can then connect to Router B, and it directs the traffic back
     to Router A.
 
-get\_leader
+.postList
 
 Since I cannot run a cable through my house, this effectively screwed
 me. Of course I only found this out after buying the router, trying,
@@ -195,7 +195,7 @@ stops their conversation, and they graciously ask me if there's
 something I am looking for. I scan the wall and do not see any wireless
 adapters. I figure they probably have some in the back, and so I ask.
 
-get\_leader
+.postList
 
 Both employees look at the wall, then above their heads at the
 additional storage area and mutter to one another like some sort of

@@ -61,7 +61,7 @@ is a list:
     like a hooker. If you do, you're not allowed to get mad when guys
     stare at your jiggly bits. Have some self-respect.
 6.  **People don't really start to drink until nearly 1 am**. Then it
-    gets fucking crazy.<!--adsense-->
+    gets fucking crazy.
 7.  **A lot of people can't dance**. I'm not saying they shouldn't,
     because dancing is fun and who cares what anyone else thinks. Though
     if you are trying to impress the opposite sex (or the same if thats

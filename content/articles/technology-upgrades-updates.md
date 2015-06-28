@@ -81,7 +81,7 @@ here is the list (thus far):
     every time I edit a post. And considering my spelling ability,
     that's a lot of pings.
 
-<!--adsense-->
+
 
 As you can see with the last item there, I have become a part of the
 [Twitter community](http://twitter.com/ "Twitter.com"). What this is is
