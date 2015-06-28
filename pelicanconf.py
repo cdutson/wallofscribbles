@@ -21,10 +21,12 @@ PORTFOLIO_CATEGORY = 'portfolio'
 TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = u'en'
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
 CURRENT_DATE = datetime.datetime.now()
 
 PATH_METADATA = '\A(?P<date>\d{4}/\d{2}/)-(?P<slug>.*)(.md|.rst)'
-#ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 STATIC_PATHS = ['images', 'wp-content', 'downloads']
