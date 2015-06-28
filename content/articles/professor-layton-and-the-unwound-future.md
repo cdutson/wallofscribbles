@@ -10,8 +10,8 @@ Oh look, another [Professor
 Layton](http://www.amazon.co.uk/gp/product/B003O6E7DI?ie=UTF8&tag=walofscr-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B003O6E7DI "Amazon.co.uk - Professor Layton and the Unwound Future").
 I don't think I need to outline once again how every Professor Layton
 game holds me firmly in its thrall. I've lost sleep with
-[each](/2008/professor-layton-and-the-curious-village-level-5-2008 "Wallofscribbles.com - Professor Layton and the Curious Village")
-[game](http://wallofscribbles.com/2009/professor-layton-and-the-diabolical-box-level-5-2009/ "wallofscribbles.com - Professor Layton and the Diabolical Box").
+[each]({filename}professor-layton-and-the-curious-village-level-5-2008.md "Wallofscribbles.com - Professor Layton and the Curious Village")
+[game]({filename}professor-layton-and-the-diabolical-box-level-5-2009.md "wallofscribbles.com - Professor Layton and the Diabolical Box").
 Basically as long as Level 5 keep coming out with these games, they will
 keep taking the money I throw at them.
 
@@ -91,7 +91,7 @@ noise, I have better things to do (*shutup I do so*) than to run the
 same parrot simulation over and over and over and over and over and
 motherfucking *over*.
 
-get\_leader
+.postList
 
 The Highs
 ---------

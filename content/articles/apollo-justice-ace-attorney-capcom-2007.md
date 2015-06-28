@@ -10,9 +10,9 @@ Anyone who has talked to me about DS games will inevitably find out that
 I am a complete fanboy when it comes to what I call "[The Lawyer
 Games](http://en.wikipedia.org/wiki/Ace_Attorney "Wikipedia: Ace Attorney")."
 This catchall title is used when talking about any of the Phoenix Wright
-or Apollo Justice games. I've talked about
-[previous](/2007/11/05/phoenix-wright-ace-attorney "WallOfScribbles.com: Phoenix Wright: Ace Attorney")
-[installments](/2008/01/14/phoenix-wright-justice-for-all-capcom-2007 "WallOfScribbles.com: Phoenix Wright: Justice For All")
+or Apollo Justice games. I've talked about 
+[previous]({filename}phoenix-wright-ace-attorney.md "WallOfScribbles.com: Phoenix Wright: Ace Attorney")
+[installments]({filename}phoenix-wright-justice-for-all-capcom-2007.md "WallOfScribbles.com: Phoenix Wright: Justice For All")
 of the series, and so now that I find myself with a little time
 (shockingly) I thought that I should probably get off my ass and get to
 writing! Self-deprecating aside, I've always enjoyed the Ace Attorney
@@ -103,7 +103,7 @@ little useless yet useful tidbits of information can be gleaned from
 such investigations. I'm sad that this sort of scientific analysis
 doesn't factor in more.
 
-get\_leader
+.postList
 
 Third, but no less a change of pace: 3d stuff. Like, a lot of 3d stuff.
 Like a lot of actually cool 3d stuff. They actually recreate murder

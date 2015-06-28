@@ -73,7 +73,7 @@ I'm going to be honest. When I have my own place and a nice TV setup,
 I'm pretty sure I'll own this. It really takes the pain out of movie
 rentals, watching TV, and it even broadcasts to wireless speakers.
 That's just awesome.  
-<!--adsense-->
+
 
 ### Item Number 3: Macbook Air
 

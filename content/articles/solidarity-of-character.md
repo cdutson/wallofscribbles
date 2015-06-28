@@ -75,42 +75,4 @@ You *can*, but that's not the point here.
 
 What sort of person are you?
 
-\[EDIT November 12, 2007\]
 
-I just came across [this
-article](http://ittybiz.com/getting-more-jobs-are-you-cocky-or-do-you-have-balls/ "Cocky or balls")
-at work (I read this [RSS
-feed](http://feeds.feedburner.com/Ittybiz "Ittybiz"), its both
-informative and entertaining.) Madam Naomi makes a rather good point
-that I wish to integrate with what I have already said here. Those who
-make things happen for them tend to be perceived as arrogent, cocky, or
-are otherwise jerks we don't like. She makes the point that some people
-are actually arrogent, and some simply have the balls to stand up and
-fight for what they want.
-
-The two get used somewhat interchangeably and I would like to point out
-that not everyone that fights for it is cocky. I call it 'solidarity of
-character' she calls it 'having balls' but both mean the type of person
-who stands up for what they want and fights for it. In retrospect, her
-way of saying it is way more ballsy. Damn it all!
-
-Just thought I would clarify that one. Cocky people do suck, though they
-still make it happen for themselves so give props where it's due.
-
-\[/EDIT November 12, 2007\]
-
-\[EDIT 2 November 12, 2007\]
-
-Jesus christ! Did [everyone have this same thought
-pattern](http://jarkkolaine.com/2007/11/09/people-in-movies-dont-play-for-keeps/ "People in Movies Don't Play for Keeps")
-around the same time or what? I mean wow, it's almost sort of creepy,
-given that I hadn't read either article when I had written mine. Crazy.
-I mean this one is a little different then what I'm talking about, but
-it all relates back to what I was saying. In this case Jarkko states
-that people in movies seem to live such fuller lives, and he states that
-it is because they never give up. They have a goal and they work
-unendingly towards it.
-
-It all comes full circle here people.
-
-\[/EDIT 2 November 12, 2007\]

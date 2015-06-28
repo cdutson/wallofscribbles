@@ -7,17 +7,17 @@ Slug: things-ive-have-learned-from-going-back-to-school
 Status: published
 
 So a while back I mentioned [going back to
-school](/2008/07/28/i-got-into-school/ "WallOfScribbles.com: I got into school for graphic design").
+school]({filename}i-got-into-school.md "WallOfScribbles.com: I got into school for graphic design").
 In fact, I even recall writing a
-[collection](/2007/11/21/designapalooza-part-one/ "WallOfScribbles.com: Designapalooza Part 1")
-[of](/2007/11/23/designapalooza-part-two/ "WallOfScribbles.com: Designapalooza Part 2")
-[articles](/2007/11/26/designapalooza-part-three/ "WallOfScribbles.com: Designapalooza Part 3")
-[all](/2007/12/03/designapalooza-part-four/ "WallOfScribbles.com: Designapalooza Part 4")
-[about](/2007/12/19/designapalooza-part-five/ "WallOfScribbles.com: Designapalooza Part 5")
-[the](/2008/01/16/designapalooza-part-six/ "WallOfScribbles.com: Designapalooza Part 6")
-[subject](/2008/06/05/designapalooza-part-seven/ "WallOfScribbles.com: Designapalooza Part 7").
+[collection]({filename}designapalooza-part-one.md "WallOfScribbles.com: Designapalooza Part 1")
+[of]({filename}designapalooza-part-twomd "WallOfScribbles.com: Designapalooza Part 2")
+[articles]({filename}designapalooza-part-three.md "WallOfScribbles.com: Designapalooza Part 3")
+[all]({filename}designapalooza-part-four.md "WallOfScribbles.com: Designapalooza Part 4")
+[about]({filename}designapalooza-part-five.md "WallOfScribbles.com: Designapalooza Part 5")
+[the]({filename}designapalooza-part-six.md "WallOfScribbles.com: Designapalooza Part 6")
+[subject]({filename}designapalooza-part-seven.md "WallOfScribbles.com: Designapalooza Part 7").
 I'm sure I've mentioned it in my
-[twitter](http://www.twitter.com/Corey%20Dutson "Twitter.com: Corey Dutson")
+[twitter](http://www.twitter.com/cdutson "Twitter.com: Corey Dutson")
 (or at the very least, bitched about it). Well unlike the real world,
 College gives you large, void-filled breaks between semesters. This
 allows people like me ample time to run out of excuses for things we
@@ -186,7 +186,7 @@ general](http://en.wikipedia.org/wiki/Luddite "Wikipedia: Luddite"), you
 can still work to get yourself organized. I can honestly say that once I
 introduced the organizer strategy,
 
-get\_leader
+.postList
 
 ### 4.Go that extra mile
 
@@ -325,7 +325,7 @@ told me that if I just handed something in, it would help my marks, but
 I scoffed at their wisdom, and ended up (in some cases) with a 58%. I
 have no defense for it, and now I understand what they were saying.
 
-get\_leader
+.postList
 
 ### 7. Figure out how to study
 

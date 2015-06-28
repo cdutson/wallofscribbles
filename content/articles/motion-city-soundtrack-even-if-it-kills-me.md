@@ -44,7 +44,7 @@ I also have to note that "Last Night" sounds eerily similar to [The
 Starting Line](http://www.startinglinerock.com/ "The Starting Line")s
 "Photography".
 
-get\_leader
+.postList
 
 My bitching aside, "Even If It Kills Me" is a solid album. I did notice
 that "Even If It Kills Me" seems to be a little slower, a little softer,

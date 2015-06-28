@@ -41,7 +41,7 @@ rules, and generally got along. I never had a complaint, though I did
 overhear one of a lady being upset that another lady was wearing a belly
 top of sorts (this was against the dress code.)
 
-get\_leader
+.postList
 
 Oh yeah, I forgot to mention that they had a respectable dress code. No
 scantily clad women or men. This was a place for working out, not

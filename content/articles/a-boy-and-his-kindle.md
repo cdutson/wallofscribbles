@@ -97,7 +97,7 @@ post quotes to mail,twitter and Facebook; and some other features that I
 will honestly never use. I am merely mentioning them for the sake of
 completeness.
 
-get\_leader
+.postList
 
 Issues
 ------
@@ -201,7 +201,7 @@ paging a lot to get to the books at the end. On that note, collection
 creation and management could be improved immensely. Took me a while to
 figure out how to add books to an *existing* collection.
 
-get\_leader
+.postList
 
 Despite it all...
 -----------------

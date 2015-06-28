@@ -8,7 +8,7 @@ Status: published
 
 I got my hands on a copy of Time Hollow because, lets be honest here,
 I'm a total sucker for
-[time](/2008/02/11/the-quantum-archangel-january-2001/ "Corey Dutson: Doctor Who - The Quantum Archangel")-[travel](/2007/12/12/the-last-dodo-july-2007/ "Corey Dutson: Doctor Who - The Last Dodo")
+[time]({filename}the-quantum-archangel-january-2001.md "Corey Dutson: Doctor Who - The Quantum Archangel")-[travel]({filename}the-last-dodo-july-2007.md "Corey Dutson: Doctor Who - The Last Dodo")
 [stuff](http://www.bbc.co.uk/doctorwho/ "Doctor Who"). I've been a fan
 of Doctor Who since it was introduced to me, I love movies like [The
 Butterfly
@@ -21,10 +21,10 @@ Hollow](http://en.wikipedia.org/wiki/Time_Hollow "Wikipedia: Time Hollow"),
 I thought I'd give it the old college try, because along with Time
 Travel, I'm also a fan adventure/mystery games. You can refer to my
 gushing over
-[Phoenix](/2007/11/05/phoenix-wright-ace-attorney/ "Corey Dutson: Phoenix Wright - Ace Attorney")
-[Wright](/2008/01/14/phoenix-wright-justice-for-all-capcom-2007/ "Corey Dutson: Phoenix Wright - Justice for All")
+[Phoenix]({filename}phoenix-wright-ace-attorney.md "Corey Dutson: Phoenix Wright - Ace Attorney")
+[Wright]({filename}phoenix-wright-justice-for-all-capcom-2007.md "Corey Dutson: Phoenix Wright - Justice for All")
 and [Apollo
-Justice](/2009/04/09/apollo-justice-ace-attorney-capcom-2007/ "Corey Dutson: Apollo Justice: Ace Attorney")
+Justice]({filename}apollo-justice-ace-attorney-capcom-2007.md "Corey Dutson: Apollo Justice: Ace Attorney")
 for examples therein.
 
 Now I thought Time Hollow was going to be a fairly straight-forward
@@ -32,7 +32,7 @@ mystery finder.
 
 Yah, sometimes I'm just stupid like that.
 
-<!-- PELICAN_END_SUMMARY -->\[singlepic id=652 w=400 h=400 float=\]
+<!-- PELICAN_END_SUMMARY -->
 
 Synopsis
 --------
@@ -53,7 +53,7 @@ the way they were before.
 
 This sounds just as confusing as you think it's going to be.
 
-get\_leader
+.postList
 
 Mechanics
 ---------

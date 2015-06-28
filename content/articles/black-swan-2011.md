@@ -8,7 +8,7 @@ Status: published
 
 It's actually been a while since I've been to the theaters. The last
 time I was there, I saw TRON. We all know how I [felt about
-that](/2010/tron-legacy-it-made-me-has-a-sad "Wallofscribbles.com - TRON Legacy. It made me has a sad").
+that]({filename}tron-legacy-it-made-me-has-a-sad.md "Wallofscribbles.com - TRON Legacy. It made me has a sad").
 Generally I'll watch movies at home rather than pay the anal-rending
 prices that the UK movie chains charge their unsuspecting victims.
 

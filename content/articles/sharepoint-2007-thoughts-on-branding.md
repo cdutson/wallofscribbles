@@ -84,7 +84,7 @@ itself, however since the second sucks when your site has more then one
 sub-site is even worse, and the third option generally leads to tears
 and wasted hours (been there, done that) it's still the best option in
 the end.  
-<!--adsense-->  
+  
 "*But Corey! Surely editing the system files allows for the most
 customization and look/feel!*" Absolutely right, and I won't argue that
 point. I will argue that I'll advocate against it whenever possible

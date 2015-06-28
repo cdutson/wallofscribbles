@@ -46,7 +46,7 @@ you. This is generally good practice in optimal driving conditions as
 well, if only to help avoid accidents by giving your dumb-ass time to
 react.
 
-<!--adsense-->
+
 
 Additionally, you can actually drive *on the snow* instead of the lanes
 that other cars have driven in. When you are facing the possibility of

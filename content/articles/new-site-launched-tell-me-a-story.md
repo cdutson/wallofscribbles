@@ -22,10 +22,10 @@ telling."
 I think it's save to say that ***I love stories***.
 
 Hell I've even tried my own hand at writing a
-[couple](/2008/09/11/breakdown/ "Corey Dutson - Breakdown")
-[of](/2008/09/22/kam/ "Corey Dutson - Kam")
-[my](/2009/07/02/one-more-day/ "Corey Dutson - One More Day")
-[own](/2008/09/01/vindicate/ "Corey Dutson - Vindicate"). I admit that
+[couple]({filename}breakdown.md "Corey Dutson - Breakdown")
+[of]({filename}kam.md "Corey Dutson - Kam")
+[my]({filename}one-more-day.md "Corey Dutson - One More Day")
+[own]({filename}vindicate.d "Corey Dutson - Vindicate"). I admit that
 they're not Pulitzer-level or anything, but I like to think that someone
 out there will enjoy them. Regardless, I've recently decided that I'd
 like to be told more stories. *Lots* more stories. What's more, I'd like

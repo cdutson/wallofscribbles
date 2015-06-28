@@ -76,7 +76,7 @@ probably be upgraded. So I started by upgrading the firmware (**fuck
 you** Linksys for making the worst navigation on a website *ever*) and
 though the router was happy, it didn't fix anything.
 
-get\_leader
+.postList
 
 I then opted to upgrade the router (90 dollars after tax for a new
 Linksys [Wireless-N Broadband

@@ -51,7 +51,7 @@ This is, of course, not my first time being here. I've been a couple
 times before, and this shouldn't come as a shock to the negative 15 of
 you that still have my blog on your RSS feeder slowly collecting dust. I
 have [mentioned this
-event](http://www.wallofscribbles.com/2010/02/15/five-months-lazy-pants/ "Wallofscribbles.com - Five Months Lazy Pants")
+event]({filename}five-months-lazy-pants.md "Wallofscribbles.com - Five Months Lazy Pants")
 before, so this isn't shocking news. If it is, you're probably a new
 reader, and I refuse to apologize to you for anything you may or have
 already read on this site.

@@ -50,7 +50,7 @@ Status: published
     simply because I'm to lazy to really start trying [Komodo
     Edit](http://www.activestate.com/Products/komodo_edit/ "Komodo Edit").
     If I make the switch, then Komodo can go on next years official
-    list.<!--adsense-->
+    list.
 -   [Firefox](http://www.mozilla.com/en-US/firefox/ "Firefox")- I don't
     even know why I put this on the list because in all honesty this
     should be pretty much standard. I know there are variations like

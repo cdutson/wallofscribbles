@@ -76,7 +76,7 @@ at a restaurant, and put yourself in a position where you're working
 with the cooks in some fashion. Start as a dish washer, and ask
 questions about dishes being made, etc.
 
-<!--adsense-->
+
 
 I'm talking to people and learning some tricks... now what?
 
@@ -150,15 +150,15 @@ for when trying to find a school.
 
 -   Part One (Currently reading)
 -   [Part
-    Two](/2007/11/23/designapalooza-part-two/ "Designapalooza - Part Two")
+    Two]({filename}designapalooza-part-two.md "Designapalooza - Part Two")
 -   [Part
-    Three](/2007/11/26/designapalooza-part-three/ "Designapalooza - Part Three")
+    Three]({filename}designapalooza-part-three.md "Designapalooza - Part Three")
 -   [Part
-    Four](/2007/12/03/designapalooza-part-four/ "Designapalooza - Part Four")
+    Four]({filename}designapalooza-part-four.md "Designapalooza - Part Four")
 -   [Part
-    Five](2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
 -   [Part
-    Six](/2008/01/16/designapalooza-part-six/ "Designapalooza - Part Six")
+    Six]({filename}designapalooza-part-six.md "Designapalooza - Part Six")
 -   [Part
-    Seven](/2008/06/05/designapalooza-part-seven "Designapalooza - Part Seven")
+    Seven]({filename}designapalooza-part-seven.md "Designapalooza - Part Seven")
 

@@ -41,7 +41,7 @@ solid note.
 
 The music comes through exceptionally layered, and gone are the 1950
 public-service voices from the [first
-album](http://www.wallofscribbles.com/2007/11/07/abandoned-pools-humanistic/ "Humanistic").
+album](http://www.wallofscribbles.com/2007/11/abandoned-pools-humanistic.html "Humanistic").
 A new (or at the very least more noticeable) usage if the cello is a
 welcome addition to the music, and used well. All the songs have
 powerful emotion that can be felt throughout the obvious care given to

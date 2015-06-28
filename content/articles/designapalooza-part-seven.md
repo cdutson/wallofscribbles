@@ -6,93 +6,12 @@ Tags: Design, Feeds, RSS, Self-Improvement, Social networking, Technology
 Slug: designapalooza-part-seven
 Status: published
 
-### Table of contents: {#toc}
+### Table of contents: {#toc} {#toc}
 
 -   [Read Everything](#read)
 -   [Grains of Salt are Heavy. And Salty.](#salty)
 -   [Hear Typeface, and Read Audiocasts](#mismatch)
--   [Keeping an Open Mind is the Key to \[insert something prophetic
-    here\]](#open)
--   [My personal Stash](#stash)
-
-### Read Everything {#read}
-
-This has been my life for the last several months. I've read more design
-articles then I can honestly count at this point, and I've only just
-begun. I've started subscribing to Podcasts so that while I'm at work I
-can listen to them. Yes, I can listen to Podcasts *and* work because I'm
-just that good (not actually that good). My Google Reader is growing, my
-participation in social networks is slowly expanding, I'm starting to
-look beyond what's cool to try and understand the *why* behind it. This
-is progress, and this is what I want to share today.
-
-[Back to top](#toc)
-
-### Grains of Salt are Heavy. And Salty. {#salty}
-
-In [part
-one](/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One") I
-talked about reading everything with an open mind and with an
-understanding that the authors of the articles you'll read probably know
-more than you. After five months I still feel that way, and I'm glad for
-it. It proves that I know nothing in comparison to those living and
-breathing the field. Does that mean I'm stupid? No, at least I don't
-think so. What it means is that there are people out there better than
-me, simple as that. It's only a bad thing if you turn your nose up at
-them and decide not to learn from them.
-
-A trend I have noticed amongst the Web, which is one I've noticed
-starting to bleed into real life, is the idea of collaboration; sharing
-information, tips, helpful tidbits, resources, etc. Instead of clinging
-to intellectual property and waving a searing iron of distrust at
-others, people are actually sharing their ideas. Though many business
-people will cringe at the idea, that's the way things are headed and
-there's nothing to be done about it. What does that mean for those
-deciding to learn? You are now being presented with a plethora of free
-information that is actually *useful*. To ignore this information
-(willingly or unwittingly) is an outright sin.
-
-The problem with this flood of information is the fact that anyone and
-everyone (myself included) is writing it! All information is suspect at
-this point. Unless what you're reading is coming from a known expert,
-you can never be sure if the article you are reading is legit. This is
-where the grain(s) of salt comes in. I implore you to read as much as
-you can about as many facets of design as possible, because information
-is power. I also implore you to take everything with a grain of salt. If
-you find something suspect or interesting: look it up, and find more on
-the subject. You can clear things up pretty quickly with one or two
-Google searches.
-
-[Back to top](#toc)
-
-### Hear Typeface, and Read Audiocasts {#mismatch}
-
-Expand your media. I started off reading RSS feeds from random
-locations. Since then I have actively tried to find affiliates to those
-blogs to read new aspects on different subjects. I've started listening
-to Podcasts to expand my learning even further. Hell I've even watched a
-video or three about design topics. What I'm saying is that the Internet
-is full of different mediums, and I'd suggest checking out more then the
-three design sites you may be subscribed to.
-
-get\_leader
-
-When you do find yourself overwhelmed with your intake of information
-(everyone suffers from information overload) start to prioritize your
-inputs. If you know 5 sites, and a podcast always bring you the most
-consistent, well-formed ideas and articles, make the effort to read and
-hear and see those first. Don't forget about the others, but when you
-only have so many hours in a day, It's beneficial to yourself to keep
-your eyes on the prize.
-
-So what happens to those neglected feeds? Read them when you have the
-time. Don't let them interfere with your day to day life (some of us
-have jobs that consume their free time) and you can't let yourself get
-side-tracked with a 40 minute podcast that ends up being rambling.
-
-[Back to top](#toc)
-
-### Keeping an Open Mind is the Key to \[insert something prophetic here\] {#open}
+-   [Keeping an Open Mind is the Key to  {#open}
 
 I couldn't think of a cool way to end the header, but the first part is
 golden. Keep an open mind about what you read. You will, in your
@@ -189,16 +108,16 @@ Have fun, and keep learning.
 [Back to top](#toc)
 
 -   [Part
-    One](http://www.wallofscribbles.com/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One")
+    One]({filename}designapalooza-part-one.md "Designapalooza - Part One")
 -   [Part
-    Two](http://www.wallofscribbles.com/2007/11/23/designapalooza-part-two/ "Part Two")
+    Two]({filename}designapalooza-part-two.md "Designapalooza - Part Two")
 -   [Part
-    Three](/2007/11/26/designapalooza-part-three/ "Designapalooza - Part Three")
+    Three]({filename}designapalooza-part-three.md "Designapalooza - Part Three")
 -   [Part
-    Four](/2007/12/03/designapalooza-part-four/ "Designapalooza - Part Four")
+    Four]({filename}designapalooza-part-four.md "Designapalooza - Part Four")
 -   [Part
-    Five](/2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
 -   [Part
-    Six](/2008/01/16/designapalooza-part-six/ "Designapalooza - Part Six")
--   Part Seven (Currently Reading)
+    Six]({filename}designapalooza-part-six.md "Designapalooza - Part Six")
+-   Part Seven (Currently reading)
 

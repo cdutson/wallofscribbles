@@ -24,7 +24,7 @@ See the problems with my playing these sorts of games are:
 -   I lacked a console.
 
 Well I [now have a
-console](/2009/01/06/360-degrees-of-failure/ "Corey Dutson: 360 Degrees of Failure"),
+console]({filename}360-degrees-of-failure.md "Corey Dutson: 360 Degrees of Failure"),
 so I have no excuse as to whether I could try to play them or not. Turns
 out I still suck at them, but that doesn't stop me from trying. The
 forearm muscle is a slow process, and I've already given myself muscle
@@ -96,7 +96,7 @@ fresh. It actually tooke me a moment to realize that there are a bunch
 of auto-scrolling levels, because they don't really *feel* like them.
 That's impressive
 
-get\_leader
+.postList
 
 Humour
 ------
@@ -147,7 +147,7 @@ plays within the Ark.
 Throw in some solid action sounds (raising undead baddies never sounded
 so good!), and you've got yourself some really solid audio to enjoy.
 
-get\_leader
+.postList
 
 Replay Value
 ------------

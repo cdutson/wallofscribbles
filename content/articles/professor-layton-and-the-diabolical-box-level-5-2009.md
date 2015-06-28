@@ -7,7 +7,7 @@ Slug: professor-layton-and-the-diabolical-box-level-5-2009
 Status: published
 
 I've [strung words together
-before](/2008/04/21/professor-layton-and-the-curious-village-level-5-2008/ "Corey Dutson: Professor Layton and the Curious Village")
+before]({filename}professor-layton-and-the-curious-village-level-5-2008.md "Corey Dutson: Professor Layton and the Curious Village")
 about my issue with brain-teasers. I'm sad to say that things have not
 improved *at all*. I still get hung up on them, I still lose sleep over
 them, and I still allow them to consume me far too much. It's a
@@ -17,7 +17,7 @@ out?
 
 Yeah, I didn't really stand a chance.
 
-\[singlepic id=661 w=400 h=400 float=\]
+
 
 Synopsis
 --------
@@ -41,7 +41,7 @@ to. The story gets decidedly more messed up from that point on.
 
 Oh and of course you are solving puzzles pretty much from the get go.
 
-get\_leader
+.postList
 
 Mechanics
 ---------
@@ -125,7 +125,7 @@ to make your life a little easier.
     figure something out? *Go fuck yourself*. I signed up for riddles,
     not math.
 
-get\_leader
+.postList
 
 Overall
 -------

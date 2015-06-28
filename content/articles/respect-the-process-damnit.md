@@ -38,7 +38,7 @@ was never initiated. The result was everything blowing up in our face.
 As it turns out, if you do not learn from this mistake, it will happen
 again and again. I could pull from more examples, but I'll refrain...
 sort of.  
-<!--adsense-->  
+  
 I am on a new project, in fact I am the lead developer of said project.
 It's my first time doing this and I'll admit that it is a daunting task,
 but I set about doing my best. I was given a functional specification,

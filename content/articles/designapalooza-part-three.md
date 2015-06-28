@@ -6,7 +6,7 @@ Tags: Art, Designapalooza, Graphic Designer, Learning, Part 3, School, Technolog
 Slug: designapalooza-part-three
 Status: published
 
-### Table of contents:
+### Table of contents: {#toc}
 
 1.  [Get a job](#job)
 2.  [Chat up your co-workers](#chat)
@@ -96,7 +96,7 @@ have adverse effects to your career growth.
 
 [Back to top](#toc)
 
-<!--adsense-->
+
 
 ### Don't screw anyone {#screw}
 
@@ -161,15 +161,16 @@ becoming a graphic designer. The next article will cover tools and how
 to use them. Not people in this case.
 
 -   [Part
-    One](/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One")
--   [Part Two](/2007/11/23/designapalooza-part-two/ "Part Two")
+    One]({filename}designapalooza-part-one.md "Designapalooza - Part One")
+-   [Part
+    Two]({filename}designapalooza-part-two.md "Designapalooza - Part Two")
 -   Part Three (Currently reading)
 -   [Part
-    Four](/2007/12/03/designapalooza-part-four/ "Designapalooza - Part Four")
+    Four]({filename}designapalooza-part-four.md "Designapalooza - Part Four")
 -   [Part
-    Five](2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
 -   [Part
-    Six](/2008/01/16/designapalooza-part-six/ "Designapalooza - Part Six")
+    Six]({filename}designapalooza-part-six.md "Designapalooza - Part Six")
 -   [Part
-    Seven](/2008/06/05/designapalooza-part-seven "Designapalooza - Part Seven")
+    Seven]({filename}designapalooza-part-seven.md "Designapalooza - Part Seven")
 

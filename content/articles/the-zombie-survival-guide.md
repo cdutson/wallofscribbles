@@ -24,7 +24,7 @@ much of it is simply common sense. Mr Brooks does an admirable job of
 depicting how people generally would react, and how you the reader,
 should react in a whole slew of situations.
 
-get\_leader
+.postList
 
 The second half of the book provides a bit more entertainment as it is a
 compounded list of tales, sightings and first hand reports from people

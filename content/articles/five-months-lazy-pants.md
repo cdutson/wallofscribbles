@@ -145,7 +145,7 @@ With Theresa off in England and not in England, I find myself with a lot
 more time on my hands. Though I have filled much of that time trying to
 grow my portfolio to that of "reasonable" - as if there is such a thing
 - as well as reading, I've actually found myself playing my [XBox
-360](http://www.wallofscribbles.com/2009/01/06/360-degrees-of-failure/ "Wallofscribbles.com - 360 Degrees of Failure")
+360]({filename}360-degrees-of-failure.md "Wallofscribbles.com - 360 Degrees of Failure")
 a lot more. Most of my time recently has been split between
 [Borderlands](http://www.xbox.com/en-US/games/b/borderlands/ "XBox.com - Borderlands")
 and [Ticket to

@@ -22,7 +22,7 @@ Did I mention that Aphrodite is a phone-sex operator, and Artemis walks
 dogs? I'll admit that these were the selling points for me. That and the
 cover art which is pretty much fantastic in every way.
 
-get\_leader
+.postList
 
 As I stated earlier, the book is somewhat of a light look at the crisis
 facing the Greek Gods. This can be annoying if what you were looking for

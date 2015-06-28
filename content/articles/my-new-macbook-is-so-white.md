@@ -10,7 +10,7 @@ Not at all.
 
 For those who bother keeping up with my site, you will have noticed that
 I've recently been [accepted to school for graphic
-design](/2008/07/28/i-got-into-school/ "I Got Into School"). Now I never
+design]({filename}i-got-into-school.md "I Got Into School"). Now I never
 actually saw any requirement for purchasing a laptop, and I prayed that
 I had dodged that financial bullet. Turns out that I did no such thing,
 as I was alerted via letter that I would have to purchase a
@@ -49,7 +49,7 @@ figured that Apple was working extra hard to try and convert me.
 
 So what do I think of my new computer-turned-art?
 
-get\_leader
+.postList
 
 ### It's pretty.
 

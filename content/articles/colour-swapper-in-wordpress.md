@@ -113,7 +113,7 @@ CSS that is swapped around.
 
 The rest of this example will assume that you have that setup.
 
-get\_leader
+.postList
 
 Setting up the CSS files {#article_css}
 ------------------------
@@ -235,7 +235,7 @@ functions.php code we put in also compensates for a lack of cookie. I'm
 one for having backup plans, and this was mine. If you don't like it,
 you can simply remove the entire else section.
 
-get\_leader
+.postList
 
 Next up is the actual swapper markup. I'm going to paste a simplified
 version of mine, because as I stated before, your swapper will look

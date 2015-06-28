@@ -6,7 +6,7 @@ Tags: Art, Design, Designapalooza, Graphic Designer, Learning, Part 6, School, T
 Slug: designapalooza-part-six
 Status: published
 
-### Table of contents:
+### Table of contents: {#toc}
 
 -   [Leading vision](#lead)
 -   [Colours and moods](#colour)
@@ -104,7 +104,7 @@ good idea to keep that in mind when designing.
     section](http://psychology.about.com/od/sensationandperception/a/colorpsych.htm "About.com")
     on colour psychology.
 
-<!--adsense-->  
+  
 [Back to top](#toc)
 
 ### "Do you understand focal points," {#focal}
@@ -253,16 +253,16 @@ process to becoming a graphic designer. Coming up next: Part seven where
 I basically link a snot-load of resources.
 
 -   [Part
-    One](http://www.wallofscribbles.com/2007/11/21/designapalooza-part-one/ "Designapalooza - Part One")
+    One]({filename}designapalooza-part-one.md "Designapalooza - Part One")
 -   [Part
-    Two](http://www.wallofscribbles.com/2007/11/23/designapalooza-part-two/ "Part Two")
+    Two]({filename}designapalooza-part-two.md "Designapalooza - Part Two")
 -   [Part
-    Three](/2007/11/26/designapalooza-part-three/ "Designapalooza - Part Three")
+    Three]({filename}designapalooza-part-three.md "Designapalooza - Part Three")
 -   [Part
-    Four](/2007/12/03/designapalooza-part-four/ "Designapalooza - Part Four")
+    Four]({filename}designapalooza-part-four.md "Designapalooza - Part Four")
 -   [Part
-    Five](/2007/12/19/designapalooza-part-five/ "Designapalooza - Part Five")
+    Five]({filename}designapalooza-part-four.md "Designapalooza - Part Five")
 -   Part Six (Currently reading)
 -   [Part
-    Seven](/2008/06/05/designapalooza-part-seven "Designapalooza - Part Seven")
+    Seven]({filename}designapalooza-part-seven.md "Designapalooza - Part Seven")
 

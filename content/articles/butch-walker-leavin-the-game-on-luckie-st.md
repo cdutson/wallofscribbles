@@ -70,7 +70,7 @@ The album is actually split up between two discs (two discs for free,
 dear Lord) and have drastically different feels. I've decided to talk
 about them separately because of this.
 
-<!--adsense-->
+
 
 Disc one is jumpy. I don't mean in a spazzy sort of way, but in the "get
 the fuck up and dance" sort of jumpy. You listen to that first disc and

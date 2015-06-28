@@ -50,12 +50,12 @@ single from The Midway States newest album
 "[Holes](http://www.amazon.ca/Holes-Midway-State/dp/B001BKKBGQ/ref=pd_bbs_sr_1?ie=UTF8&s=music&qid=1234924777&sr=8-1 "Amazon.ca: The Midway State - Holes")."
 I liked the pop-y bounce beat, and I have a weakness for guys that sing
 in a higher range (I think
-[past](/2008/01/09/abandoned-pools-armed-to-the-teeth/ "Corey Dutson: Review: Abandoned Pools - Armed to the Teeth")
-[reviews](/2008/12/08/butch-walker-sycamore-meadows/ "Corey Dutson: Review: Butch Walker - Sycamore Meadows")
-[can](/2008/08/28/roark-break-of-day/ "Corey Dutson: Review: Roark - Break of Day")
-[speak](/2008/08/07/coldplay-viva-la-vida/ "Corey Dutson: Review: Coldplay - Viva la Vida")
-[for](/2008/05/19/motion-city-soundtrack-even-if-it-kills-me/ "Corey Dutson: Review: Motion City Soundtrack - Even if it Kills Me")
-[themselves](/2008/03/31/bens-brother-beta-male-fairytales/ "Corey Dutson: Review: Ben's Brother - Beta Male Fairytales")).
+[past]({filename}abandoned-pools-armed-to-the-teeth.md "Corey Dutson: Review: Abandoned Pools - Armed to the Teeth")
+[reviews]({filename}butch-walker-sycamore-meadows.md "Corey Dutson: Review: Butch Walker - Sycamore Meadows")
+[can]({filename}roark-break-of-day.md "Corey Dutson: Review: Roark - Break of Day")
+[speak]({filename}coldplay-viva-la-vida.md "Corey Dutson: Review: Coldplay - Viva la Vida")
+[for]({filename}motion-city-soundtrack-even-if-it-kills-me.md "Corey Dutson: Review: Motion City Soundtrack - Even if it Kills Me")
+[themselves]({filename}bens-brother-beta-male-fairytales.md "Corey Dutson: Review: Ben's Brother - Beta Male Fairytales")).
 At the same time, Theresa had a request that I get my hands on the album
 for her, because she's too busy with school at the moment. "Two birds
 with one stone!" I thought to myself.
@@ -74,7 +74,7 @@ with just one word or phrase.
 
 Turns out I managed to do that for Holes; that word is "Listless."
 
-get\_leader
+.postList
 
 Other than the first track, none of the band members really seem to want
 to be there. The singing seems half-hearted, and the music itself is
