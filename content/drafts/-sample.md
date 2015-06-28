@@ -9,3 +9,8 @@ intro
 <!-- PELICAN_END_SUMMARY -->
 
 content
+<!-- align image right -->
+[![alt-text](url/to/image.jpg){: class=alignright }](url/to/image.jpg)
+
+<!-- align image left -->
+[![alt-text](url/to/image.jpg){: class=alignleft }](url/to/image.jpg)
