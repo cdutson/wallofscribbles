@@ -61,5 +61,6 @@ include/
 lib/
 bin/
 output/
+.DS_Store
 
 wallofscribbles.wordpress.*
