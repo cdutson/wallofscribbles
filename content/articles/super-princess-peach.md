@@ -19,7 +19,9 @@ really not a pretty sight. Give me turn-based games and experiences
 points, that's what I say!
 
 Of course to every rule there is an exception, and Super Princess Peach
-is, shockingly, one of those exceptions.<!-- PELICAN_END_SUMMARY -->
+is, shockingly, one of those exceptions.
+<!-- PELICAN_END_SUMMARY -->
+
 
 
 
@@ -45,7 +47,7 @@ menu), and spend your money in The Shop.
 
 That's right, there's only one shop. Dude much be loaded.
 
-.postList
+
 
 Mechanics
 ---------
@@ -103,7 +105,7 @@ caste system.
 
 Bitch.
 
-.postList
+
 
 Overall
 -------

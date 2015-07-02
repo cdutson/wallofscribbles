@@ -47,7 +47,7 @@ retarded, then you have a goal for the next release which will make
 everyone happy. If, however, it is bat-shit insane to add then try and
 talk them down from their idea.
 
-.postList
+
 
 #### Make sure the request isn't documented anywhere, and other devious things
 

@@ -47,7 +47,7 @@ All of the user-submitted content, voting, friending, point-usage, and
 anything else that they used to offer has been moved off site, leaving
 only approved posters rolling up to 9rules.
 
-.postList
+
 
 ### So where's the rule-breaking?
 

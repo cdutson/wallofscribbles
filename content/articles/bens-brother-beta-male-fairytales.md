@@ -42,7 +42,7 @@ well-written and executed, and anyone can find meaning in them. The
 singing reminds me a lot of Coldplay or Snow Patrol, as they are a
 little grainy, and full of emotion.
 
-.postList
+
 
 The whole album has a near-sad feel to it, mainly due to contributions
 from certain tracks (Bad Dream and I Am Who I Am come to mind). As a

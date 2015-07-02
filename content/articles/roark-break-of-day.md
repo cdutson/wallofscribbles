@@ -6,10 +6,6 @@ Tags: alternative, Break Of Day, music, Music Reviews, Roark
 Slug: roark-break-of-day
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <span class="trackListing">Track Listing:</span>
 
 1.  Never Felt So Lucky \*\*

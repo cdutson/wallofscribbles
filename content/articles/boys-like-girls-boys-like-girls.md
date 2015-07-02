@@ -27,7 +27,7 @@ Status: published
 
 \*\*Clear Favorites
 
-.postList
+
 
 The whole CD has a slightly surreal feel to it, but that's probably
 because of the slight Emo (yes I'm aware that current Emo is not real

@@ -26,7 +26,9 @@ It had all the makings for a great film: a good premise, a fairly strong
 cast calling, some impressive cinematography, an excellent musical
 score, and a fair amount of detail. So what happened?
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 The Good
 --------
@@ -73,7 +75,7 @@ TV with a guy on it? Yup. Only person who can see finds scissors? Yup.
 The only person that can see finds a grocery store's back room? Yup. The
 list goes on.
 
-.postList
+
 
 The plot devices were easily the second most annoying thing with the
 entire movie. They seem to be almost overly obvious sometimes, seemingly

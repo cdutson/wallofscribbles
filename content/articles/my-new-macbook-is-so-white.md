@@ -49,7 +49,7 @@ figured that Apple was working extra hard to try and convert me.
 
 So what do I think of my new computer-turned-art?
 
-.postList
+
 
 ### It's pretty.
 

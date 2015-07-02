@@ -30,7 +30,9 @@ assume that 180-ed is a term I can use.
 
 Anyways.
 
-<!-- PELICAN_END_SUMMARY -->First off, I'm an [Indiana
+
+<!-- PELICAN_END_SUMMARY -->
+First off, I'm an [Indiana
 Jones](http://www.imdb.com/find?s=all&q=indiana+jones&x=0&y=0 "IMDB.com: Indiana Jones")
 fan. I have the movies, the old computer game, the hat, and for most of
 my impressionable youth Harrison Ford's role was everything I wanted to
@@ -66,7 +68,7 @@ Now some things have to be taken into account here:
 5.  You can't actually die. When you do, you just respawn right where
     you were and continue on your merry way.
 
-.postList
+
 
 Basically it's a kids game that has something for everyone. Most of the
 puzzles are straightforward (with a few exceptions that had me swinging
@@ -119,7 +121,7 @@ close enough to bad guys, your little LEGO
 hero will aim for you. Wish I had known about that at the start of the
 game.
 
-.postList
+
 
 And one more paragraph that I am reserving for the games A.I.. Enemies
 were annoyingly accurate with rockets, but other than that they were

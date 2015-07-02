@@ -6,10 +6,6 @@ Tags: 8.5/10, A Fine Frenzy, Alison Sudol, alternative, Chantal Kreviazuk, melan
 Slug: one-cell-in-the-sea
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <div class="trackListing">
 
 Track Listing:

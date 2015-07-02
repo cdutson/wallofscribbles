@@ -41,7 +41,7 @@ to. The story gets decidedly more messed up from that point on.
 
 Oh and of course you are solving puzzles pretty much from the get go.
 
-.postList
+
 
 Mechanics
 ---------
@@ -125,7 +125,7 @@ to make your life a little easier.
     figure something out? *Go fuck yourself*. I signed up for riddles,
     not math.
 
-.postList
+
 
 Overall
 -------

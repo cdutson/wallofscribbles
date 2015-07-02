@@ -47,7 +47,9 @@ Okay, technically this would be my seventh semester if you are counting
 the six from the last time I was in school. That is also part of this so
 read on!
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 ### 1. Being lazy sucks
 
@@ -186,7 +188,7 @@ general](http://en.wikipedia.org/wiki/Luddite "Wikipedia: Luddite"), you
 can still work to get yourself organized. I can honestly say that once I
 introduced the organizer strategy,
 
-.postList
+
 
 ### 4.Go that extra mile
 
@@ -325,7 +327,7 @@ told me that if I just handed something in, it would help my marks, but
 I scoffed at their wisdom, and ended up (in some cases) with a 58%. I
 have no defense for it, and now I understand what they were saying.
 
-.postList
+
 
 ### 7. Figure out how to study
 

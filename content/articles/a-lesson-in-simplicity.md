@@ -23,7 +23,9 @@ This is not what I wanted to do with my weekend, but sadly when your
 girlfriend is Internet dependent and gets frustrated when things don't
 work (don't we all though?) it makes fixing said Internet.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Let me run down the possible causes for you really quickly so that you
 know where I'm going with this:
@@ -76,7 +78,7 @@ probably be upgraded. So I started by upgrading the firmware (**fuck
 you** Linksys for making the worst navigation on a website *ever*) and
 though the router was happy, it didn't fix anything.
 
-.postList
+
 
 I then opted to upgrade the router (90 dollars after tax for a new
 Linksys [Wireless-N Broadband

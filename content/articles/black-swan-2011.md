@@ -28,7 +28,9 @@ with the words I uttered when the credits began to roll:
 
 "Holy shit… **Holy.** ***Shit.***
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 [![Black Swan Poster - Look at this thing! It's
 stunning!](http://wallofscribbles.com/wp-content/uploads/2011/02/Black-Swan-Poster-410x601.jpg "Black Swan Poster - Look at this thing! It's stunning!")](http://wallofscribbles.com/wp-content/uploads/2011/02/Black-Swan-Poster.jpg)

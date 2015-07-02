@@ -8,8 +8,7 @@ Status: published
 
 ### Table of contents: {#toc}
 
-1.  [Get Your Swag On  
-   ](#swag)
+1.  [Get Your Swag On](#swag)
 2.  [Man the Helm](#man)
 3.  [Learn How Not to Suck](#suck)
 

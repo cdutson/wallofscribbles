@@ -27,7 +27,9 @@ all of my grammar street cred get's shot to hell.
 
 Anyways! Apollo Justice: Ace Attorney! Review! Commence!
 
-<!-- PELICAN_END_SUMMARY -->So what is it about [playing a lawyer on a
+
+<!-- PELICAN_END_SUMMARY -->
+So what is it about [playing a lawyer on a
 DS](http://www.ace-attorney.com/ "Ace Attorney") that makes it so much
 damn fun? Is it the intrigue? Is it the ripping apart of testimony? Is
 it the sharp suits and crisp air of determination? No. Though very good
@@ -103,7 +105,7 @@ little useless yet useful tidbits of information can be gleaned from
 such investigations. I'm sad that this sort of scientific analysis
 doesn't factor in more.
 
-.postList
+
 
 Third, but no less a change of pace: 3d stuff. Like, a lot of 3d stuff.
 Like a lot of actually cool 3d stuff. They actually recreate murder

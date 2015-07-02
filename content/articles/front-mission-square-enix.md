@@ -29,7 +29,9 @@ things. Well okay, not none *per say*, but far less than my first
 experience. It did manage to be just as frustrating though, so that's
 something.
 
-<!-- PELICAN_END_SUMMARY -->  
+
+<!-- PELICAN_END_SUMMARY -->
+  
 So when I found out that Front Mission was coming out for the DS, I
 nearly wet myself in anticipation. As previously stated, I had good
 experiences with the series, so I was all hot and bothered over the idea
@@ -90,7 +92,7 @@ fight twice as many. All. The. Time. One map I played had 4 of my men
 against no less that 16 or 17 enemy units. That requires some top-notch
 organization let me tell you.
 
-.postList
+
 
 Mechanics
 ---------
@@ -171,7 +173,7 @@ play through again and again, until you hit x10 difficulty, but why
 anyone would do that to themselves I have no idea. The option is there
 though.
 
-.postList
+
 
 Word from the Wise
 ------------------

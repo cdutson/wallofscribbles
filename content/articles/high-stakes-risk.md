@@ -22,7 +22,9 @@ devolves into
 and utter recklessness. As this is usually the end result, why not
 expedite the whole thing? And why not add alcohol into the mix?
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 I've come up with what I like to feel should be a 30ish minute variant
 of

@@ -19,7 +19,9 @@ and this shit's important. This is probably one of the issues closest to
 my heart on this planet and I'll be damned to give up an opportunity to
 help.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 I am against Poverty.
 ---------------------

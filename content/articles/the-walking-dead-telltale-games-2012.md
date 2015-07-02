@@ -26,7 +26,9 @@ like ~~playing games~~ engaging stories, you absolutely need to
 experience this game. If you want to read 2500 or so more words why I
 think you should, read on.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 [![The walking dead - a
 story](http://wallofscribbles.com/wp-content/uploads/2013/06/TWD-field1.jpg)](http://wallofscribbles.com/wp-content/uploads/2013/06/TWD-field1.jpg)

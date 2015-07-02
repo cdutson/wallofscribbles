@@ -31,11 +31,12 @@ get teased by RSS summaries.
 I've updated the post to display as code. Thanks
 [Pim](#div-comment-1654 "Pim in the comments").**
 
-**UPDATE 3: This is [up on
-github](https://github.com/Corey%20Dutson/wp-post-divider "Github - Corey Dutson - wp-post-divider")
+**UPDATE 3: This is [up on github](https://github.com/Corey%20Dutson/wp-post-divider "Github - Corey Dutson - wp-post-divider")
 now.**
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 *For those wishing to skip the lengthy buildup, here is a little table
 of contents:*
@@ -78,7 +79,7 @@ see The top have is the Excerpt, and the bottom half is the rest of the
 post. Just using the\_content wouldn't work, because I would be
 repeating all the pre-more content.
 
-.postList
+
 
 I thought about maybe using an hr tag, or reworking my entire layout,
 but I dismissed those due to the complexity of the markup. My only
@@ -103,7 +104,7 @@ The two important functions here are
 'get\_the\_formatted\_post\_more\_from\_content'. Long names, I know,
 but at least their mission is clear.
 
-.postList
+
 
 The other two functions 'the\_formatted\_pre\_more\_from\_content' and
 'the\_formatted\_post\_more\_from\_content' pretty much add a bit of

@@ -17,7 +17,9 @@ accordions, tabs, faders, sliders, lightboxes, filters, etc. Many of
 these items can bleed over into non-report sites, such as intranets or
 even public-facing sites.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Now some of those are fairly straight forward: an accordion is just a
 simple animate of a content section, repeat per title; tabs? Same deal.

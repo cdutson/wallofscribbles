@@ -27,7 +27,9 @@ That's where this review comes in. For those that don't want to play
 along, yes this is a review for a game that I only just got around to
 playing about 3 years later. I was a busy man, probably.
 
-To the review-mobile!<!-- PELICAN_END_SUMMARY -->
+To the review-mobile!
+<!-- PELICAN_END_SUMMARY -->
+
 
 Overview
 --------
@@ -145,7 +147,7 @@ experience will be that much better.
 
 Also, it's a total bitch to go back to a previous level.
 
-.postList
+
 
 Graphics
 --------

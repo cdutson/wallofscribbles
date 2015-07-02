@@ -34,7 +34,7 @@ forgot that he was even doing it. So I guess you could say that if Q was
 addicted to Real Life - Or Jesus being addicted to World of Warcraft -,
 it would be something like this.
 
-.postList
+
 
 I liked what they were trying to do by putting the stories in a loose
 sort of connected mesh. They didn't pull it off all that well though,

@@ -58,7 +58,7 @@ was used, but I know it's one I've seen, and it worked so very well for
 this movie. The transitioning between days was made that much better by
 the simple numeric counter that was featured (in said font, of course).
 
-.postList
+
 
 And lets not forget the music. From the Smiths to Feist, this movie
 ranges all over the place. What really impressed me though was how well

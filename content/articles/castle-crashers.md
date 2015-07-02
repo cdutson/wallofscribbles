@@ -39,7 +39,9 @@ Either way, it hasn't stopped me from playing [Castle
 Crashers](http://www.castlecrashers.com/ "Castle Crashers") with extreme
 vigor.
 
-<!-- PELICAN_END_SUMMARY -->I am currently very in love with [The
+
+<!-- PELICAN_END_SUMMARY -->
+I am currently very in love with [The
 Behemoth](http://www.thebehemoth.com/ "The Behemoth")'s [Castle
 Crashers](http://www.castlecrashers.com/ "Castle Crashers"). It's a game
 that I can pick up and put down for an hour or so at any given time.
@@ -96,7 +98,7 @@ fresh. It actually tooke me a moment to realize that there are a bunch
 of auto-scrolling levels, because they don't really *feel* like them.
 That's impressive
 
-.postList
+
 
 Humour
 ------
@@ -147,7 +149,7 @@ plays within the Ark.
 Throw in some solid action sounds (raising undead baddies never sounded
 so good!), and you've got yourself some really solid audio to enjoy.
 
-.postList
+
 
 Replay Value
 ------------

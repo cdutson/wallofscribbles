@@ -20,7 +20,9 @@ else my mouth decided to spout.
 This is pretty much how it played out until one day I woke up with a
 copy of Borderlands in my hand, and a dead horse in my bed. I'm still
 trying to figure out where that copy of Borderlands came
-from.<!-- PELICAN_END_SUMMARY -->
+from.
+<!-- PELICAN_END_SUMMARY -->
+
 
 Synopsis
 --------
@@ -70,7 +72,7 @@ for other people in order for you to reach your eventual goal: The
 Vault. I'm sure the different characters originally had more character
 behind them, but that ends up getting a bit lost throughout the game.
 
-.postList
+
 
 Gameplay
 --------
@@ -175,7 +177,7 @@ the '*Legend of Legia*' approach to conversations, wherein you never
 actually say anything, but your actions apparently handle all the
 gabbing for you.
 
-.postList
+
 
 Issues
 ------

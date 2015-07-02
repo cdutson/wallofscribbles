@@ -32,7 +32,9 @@ mystery finder.
 
 Yah, sometimes I'm just stupid like that.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Synopsis
 --------
@@ -53,7 +55,7 @@ the way they were before.
 
 This sounds just as confusing as you think it's going to be.
 
-.postList
+
 
 Mechanics
 ---------

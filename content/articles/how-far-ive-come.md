@@ -6,8 +6,7 @@ Tags: CMS, Design, ethics, HTML, markup, Personal, Self-Improvement, work
 Slug: how-far-ive-come
 Status: published
 
-[Scope
-creep](http://en.wikipedia.org/wiki/Scope_creep "Wikipedia: Scope Creep")
+[Scope creep](http://en.wikipedia.org/wiki/Scope_creep "Wikipedia: Scope Creep")
 was rampant to a scale that I have not experienced since, and that's
 saying something. I've had projects where I've been up for over 40 hours
 straight working because of scope creep, and I can assure that none of

@@ -33,7 +33,7 @@ voice acting that doesn't suffer from [Shatner
 syndrome](http://www.urbandictionary.com/define.php?term=Shatner+syndrome&defid=2483582 "Urban Dictionary: Shatner Syndrome")
 or make me want to claw my ears off with rusty serving forks.
 
-.postList
+
 
 The story goes thusly: Professor Layton and his sidekick receive a
 letter in the mail from a duchess requesting his puzzle-solving

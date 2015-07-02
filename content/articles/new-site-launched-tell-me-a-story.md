@@ -31,7 +31,9 @@ out there will enjoy them. Regardless, I've recently decided that I'd
 like to be told more stories. *Lots* more stories. What's more, I'd like
 others to have the same opportunity. There are other sites out there
 that do what I've decided to do, but I've opted to do something a little
-different…<!-- PELICAN_END_SUMMARY -->![tellmeastory](http://www.wallofscribbles.com/gallery/Misc.%20Images/tellmeastory.png)
+different…
+<!-- PELICAN_END_SUMMARY -->
+![tellmeastory](http://www.wallofscribbles.com/gallery/Misc.%20Images/tellmeastory.png)
 
 My focus is on the story.
 -------------------------

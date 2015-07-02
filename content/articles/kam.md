@@ -15,7 +15,9 @@ had a girlfriend. Hell, I barely had friends, and they weren't exactly
 the socialites of the century either. Like minds stick together and all
 that I guess.
 
-<!-- PELICAN_END_SUMMARY -->  
+
+<!-- PELICAN_END_SUMMARY -->
+  
 Once I got into the real world I drove a crappy car, because I couldn't
 afford a nice one with the crappy pay from my crappy job. I barely even
 got the job I had, and only because the shear mass of my pathetic life

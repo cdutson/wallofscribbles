@@ -6,12 +6,12 @@ Tags: Design, Feeds, RSS, Self-Improvement, Social networking, Technology
 Slug: designapalooza-part-seven
 Status: published
 
-### Table of contents: {#toc} {#toc}
+### Table of contents: {#toc}
 
--   [Read Everything](#read)
--   [Grains of Salt are Heavy. And Salty.](#salty)
--   [Hear Typeface, and Read Audiocasts](#mismatch)
--   [Keeping an Open Mind is the Key to  {#open}
+1.  [Read Everything](#read)
+2.  [Grains of Salt are Heavy. And Salty.](#salty)
+3.  [Hear Typeface, and Read Audiocasts](#mismatch)
+4.  [Keeping an Open Mind is the Key to  {#open}
 
 I couldn't think of a cool way to end the header, but the first part is
 golden. Keep an open mind about what you read. You will, in your

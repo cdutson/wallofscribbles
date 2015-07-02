@@ -25,7 +25,9 @@ why? what makes games so interesting to me? Why do I choose to invest so
 much time when I could be doing other things like sports or world
 domination scheming?
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 And it's not fair to say that I enjoy all games equally, as that most
 assuredly is not the case. I've picked up games and loathed them, many

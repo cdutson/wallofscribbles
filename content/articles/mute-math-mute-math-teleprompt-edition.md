@@ -6,10 +6,6 @@ Tags: 6/10, music, Music Reviews, Mute Math, Reviews
 Slug: mute-math-mute-math-teleprompt-edition
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <div class="trackListing">
 
 Track Listing:

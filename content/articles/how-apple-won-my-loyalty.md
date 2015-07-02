@@ -30,7 +30,9 @@ But as of Thursday, July 7th, 2011, I can say that I am now a loyal
 customer of Apple. Still not a fanboy, but they've secured my loyalty.
 And all it took was an email.
 
-<!-- PELICAN_END_SUMMARY -->[![apple](http://wallofscribbles.com/wp-content/uploads/2011/07/apple-410x256.jpg "apple")](http://wallofscribbles.com/wp-content/uploads/2011/07/apple.jpeg)
+
+<!-- PELICAN_END_SUMMARY -->
+[![apple](http://wallofscribbles.com/wp-content/uploads/2011/07/apple-410x256.jpg "apple")](http://wallofscribbles.com/wp-content/uploads/2011/07/apple.jpeg)
 
 The Story
 ---------

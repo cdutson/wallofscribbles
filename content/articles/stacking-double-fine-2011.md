@@ -21,7 +21,9 @@ advertised their new game (and subject of this review),
 
 With some interesting mechanics, and the Double Fine sense of humour,
 Stacking makes for an interesting addition to the Xbox Arcade.  
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Synopsis
 --------

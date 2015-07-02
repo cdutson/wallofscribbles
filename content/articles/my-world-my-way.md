@@ -19,7 +19,9 @@ then the other. Then my face had no where to go, and so my eyebrows
 fluctuated back and forth. I eventually got my hands on it, and was
 actually surprised.
 
-Turns out it didn't suck!<!-- PELICAN_END_SUMMARY -->
+Turns out it didn't suck!
+<!-- PELICAN_END_SUMMARY -->
+
 
 
 
@@ -104,7 +106,7 @@ the stat increases from your levels are minimal at best. You get most of
 your upgrades by eating foods at the local Inn. You will end up spending
 a good amount of coin on food. You won't get far without it.
 
-.postList
+
 
 Words from the Wise
 -------------------

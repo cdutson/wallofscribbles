@@ -6,10 +6,6 @@ Tags: 7/10, Even If It Kills Me, Motion City Soundtrack, music, Music Reviews, r
 Slug: motion-city-soundtrack-even-if-it-kills-me
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <span class="trackListing">Track Listing:</span>
 
 1.  Fell In Love Without You
@@ -44,7 +40,7 @@ I also have to note that "Last Night" sounds eerily similar to [The
 Starting Line](http://www.startinglinerock.com/ "The Starting Line")s
 "Photography".
 
-.postList
+
 
 My bitching aside, "Even If It Kills Me" is a solid album. I did notice
 that "Even If It Kills Me" seems to be a little slower, a little softer,

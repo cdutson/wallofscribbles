@@ -27,7 +27,9 @@ the CSS files are named the same as the Title attribute of the Anchor,
 then you can drop the whole If statement. I've updated the tutorial
 accordingly
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Table of contents
 -----------------
@@ -113,7 +115,7 @@ CSS that is swapped around.
 
 The rest of this example will assume that you have that setup.
 
-.postList
+
 
 Setting up the CSS files {#article_css}
 ------------------------
@@ -235,7 +237,7 @@ functions.php code we put in also compensates for a lack of cookie. I'm
 one for having backup plans, and this was mine. If you don't like it,
 you can simply remove the entire else section.
 
-.postList
+
 
 Next up is the actual swapper markup. I'm going to paste a simplified
 version of mine, because as I stated before, your swapper will look

@@ -6,10 +6,6 @@ Tags: 8/10, Hospital Music, Matthew Good, Music Reviews
 Slug: matthew-good-hospital-music
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <span class="trackListing">Track Listing:</span>
 
 1.  Champions Of Nothing

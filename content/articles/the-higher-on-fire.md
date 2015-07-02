@@ -6,10 +6,6 @@ Tags: 8/10, Backstreet Boys, Fall Out Boy, music, Music Reviews, On fire, Review
 Slug: the-higher-on-fire
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <div class="trackListing">
 
 Track Listing:

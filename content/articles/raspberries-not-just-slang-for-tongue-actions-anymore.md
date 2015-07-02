@@ -34,7 +34,7 @@ was blown. Suffice it to say I bought both and consumed them, nearly
 vibrating with joy that the flavour had found it into the proper
 channels.
 
-.postList
+
 
 A little later I noticed other raspberry-flavoured foods showing up.
 Suddenly every drink that wanted to be trendy was including raspberries

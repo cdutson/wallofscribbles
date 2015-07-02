@@ -6,10 +6,6 @@ Tags: 8/10, A Fever You Can't Sweat Out, Music Reviews, panic! at the disco, Pre
 Slug: panic-at-the-disco-pretty-odd
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <div class="trackListing">
 
 Track Listing:
@@ -53,7 +49,7 @@ slowed down, and though the language is still as intelligent as it
 always was, it's slow enough that you can actually tell what they're
 saying this time.
 
-.postList
+
 
 Throughout the whole album is a very strong folk-feel. All of the songs
 sound like they could be sung around a campfire (if you had enough

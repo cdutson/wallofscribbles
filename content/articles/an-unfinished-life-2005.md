@@ -6,7 +6,7 @@ Tags: 2005, An Unfinished Life, Becca Gardner, Jennifer Lopez, Josh Lucas, Morga
 Slug: an-unfinished-life-2005
 Status: published
 
-<span style="padding: 4px; float: right"></span> I had the chance to
+I had the chance to
 watch this movie at about 3 in the morning after Theresa suffered a
 horrible coughing fit (she developed a cough while at school). She
 decided to put a movie on since she has this amazing habit to fall

@@ -6,10 +6,6 @@ Tags: 8.5/10, Coldplay, music, Music Reviews, Viva la Vida
 Slug: coldplay-viva-la-vida
 Status: published
 
-<div class="albumCover">
-
-</div>
-
 <span class="trackListing">Track Listing:</span>
 
 1.  Life in Technicolor
@@ -50,7 +46,7 @@ and final touches. The album still carries that soothing Coldplay feel
 that we've all come to know (if not actually love) making every track
 sound very "Coldplayish."
 
-.postList
+
 
 Interesting usage of instruments can be found throughout the album,
 proving that they aren't just a piano-driven alternative band.. at least

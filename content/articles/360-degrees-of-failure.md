@@ -24,7 +24,9 @@ Also it should be mentioned that the span of all of the following events
 took place over a week and a bit, because I was only at my home for
 about two days over the entire time-line.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Alright so where to begin? I've always sort of wanted an XBox 360, which
 would come to a shock to a younger version of me. I was always a huge
@@ -129,7 +131,7 @@ allow this quite the way I want.
 -   Things can then connect to Router B, and it directs the traffic back
     to Router A.
 
-.postList
+
 
 Since I cannot run a cable through my house, this effectively screwed
 me. Of course I only found this out after buying the router, trying,
@@ -195,7 +197,7 @@ stops their conversation, and they graciously ask me if there's
 something I am looking for. I scan the wall and do not see any wireless
 adapters. I figure they probably have some in the back, and so I ask.
 
-.postList
+
 
 Both employees look at the wall, then above their heads at the
 additional storage area and mutter to one another like some sort of

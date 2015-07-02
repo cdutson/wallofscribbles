@@ -32,7 +32,7 @@ usernames tend to have numbers in them now, and I'm sure even less know
 that because of your half-assed attempt at regex the postal code *needs*
 to be in capitals.
 
-.postList
+
 
 What does this mean? Well depending on how you set up the form **users
 may be forced to fill it all out again**. This is a pain in the ass to

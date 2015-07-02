@@ -28,7 +28,9 @@ but with chases, shakedowns, shooting, and moral implications.
 
 Then I got excited.
 
-<!-- PELICAN_END_SUMMARY -->[![](http://wallofscribbles.com/wp-content/uploads/2011/05/la-noire-logo-410x228.jpg "L.A. Noire")](http://wallofscribbles.com/wp-content/uploads/2011/05/la-noire-logo.jpg)
+
+<!-- PELICAN_END_SUMMARY -->
+[![](http://wallofscribbles.com/wp-content/uploads/2011/05/la-noire-logo-410x228.jpg "L.A. Noire")](http://wallofscribbles.com/wp-content/uploads/2011/05/la-noire-logo.jpg)
 
 I've read many a thing about [L.A.
 Noire](http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=walofscr-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B004MPR5NE "Amazon.co.uk - L.A. Noire for the XBox 360")

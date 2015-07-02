@@ -23,7 +23,9 @@ his family home, and ending his life rather abruptly - and lets' be
 honest here, dramatically - right? Of course it would! So how did I get
 that close to the edge, figuratively and literally?
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 Before we begin
 ---------------

@@ -17,7 +17,9 @@ release: [Sycamore
 Meadows](http://gomerch.com/interface/body.php?module=store&catid=15&id=34 "Butch Walker: Sycamore Meadows").
 After giving this album a couple of listens, it has quickly become one
 of my favorites for all time. It's both amazingly happy and startlingly
-deep, many times simultaneously. <!-- PELICAN_END_SUMMARY -->
+deep, many times simultaneously. 
+<!-- PELICAN_END_SUMMARY -->
+
 
 <div class="albumCover">
 
@@ -70,7 +72,7 @@ Butch seems to have a knack for being very hit or miss with his songs.
 He also has a knack for making sure that these songs hit and miss
 differently.
 
-.postList
+
 
 One thing that has been constant throughout all of his work though, is
 that every track has a personal touch. There have been many a time where

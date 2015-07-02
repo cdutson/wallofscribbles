@@ -35,7 +35,9 @@ you can [jump to the end of the post](#photoGal "Photo Gallery"), where
 I have a lovely flash dohickey that will rotate through all of my
 photos.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 For those of you taking breaks between reads for this massive monster
 post, here's a quick table of contents for you:

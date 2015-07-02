@@ -19,7 +19,9 @@ out (mystery htaccess file issues, CSS tweaks, ) but I'm sure I can get
 these figured out in the next little while. Anyways, on to things that
 are important to people other than me.
 
-<!-- PELICAN_END_SUMMARY -->So I've finished my first year at Mohawk College, something I
+
+<!-- PELICAN_END_SUMMARY -->
+So I've finished my first year at Mohawk College, something I
 mentioned before that I had gotten into. Overall it's been a good
 experience, with a couple colourful exceptions. I'm learning a lot, but
 I maitain that doing additional reading on the subject of graphic design

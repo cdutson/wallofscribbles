@@ -16,11 +16,9 @@ have to actually listen to the whole album through two more times to
 actually find songs that I like.
 
 Wait, those could be out of order. It doesn't matter, they'll both
-happen one way or the other.<!-- PELICAN_END_SUMMARY -->
+happen one way or the other.
 
-<div class="albumCover">
-
-</div>
+<!-- PELICAN_END_SUMMARY -->
 
 <span class="trackListing">Track Listing:</span>
 
@@ -74,7 +72,7 @@ with just one word or phrase.
 
 Turns out I managed to do that for Holes; that word is "Listless."
 
-.postList
+
 
 Other than the first track, none of the band members really seem to want
 to be there. The singing seems half-hearted, and the music itself is

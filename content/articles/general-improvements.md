@@ -50,7 +50,7 @@ from the list. Saves me repeating effort, and ups my 2.0 web
 [ePenis](http://www.urbandictionary.com/define.php?term=ePenis "Urban Dictionary: ePenis")
 a notch.
 
-.postList
+
 
 I've also made the colour switcher a bit more obvious. The for squares
 in the top left corner of the layout actually do more than just look

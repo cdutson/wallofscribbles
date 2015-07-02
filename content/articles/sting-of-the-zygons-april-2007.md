@@ -33,7 +33,7 @@ memorable, and only serve to be a means to an end. As a result, much of
 the dialog is very stereo-typical (why do french characters always end
 statements with ", no?") and lacks the personality to make it engaging.
 
-.postList
+
 
 I will give credit where it's due, as Stephen Cole did manage to through
 a couple unexpected quirks into the story that caught me off guard,

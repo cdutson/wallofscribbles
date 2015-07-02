@@ -14,7 +14,9 @@ you could say that I've been a touch on the busy side.
 
 Such is the life of a student.
 
-<!-- PELICAN_END_SUMMARY -->First off, I've become a Peer Tutor at my school. Not only
+
+<!-- PELICAN_END_SUMMARY -->
+First off, I've become a Peer Tutor at my school. Not only
 does it land me some extra cash (always a bonus, given the current
 financial psudo-crisis I am finding myself in), but it's additional work
 experience, and I get to help people. It could come to a shock to some,
@@ -70,7 +72,7 @@ running through the arena to make enough money to upgrade everyone.
 Ugh. I'm never going to play it again once I've defeated it. It's a game
 I can live with never picking up again.
 
-.postList
+
 
 I can't remember if I mentioned it or not, But I've actually also picked
 up the new [Star

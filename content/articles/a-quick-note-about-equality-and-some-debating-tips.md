@@ -20,7 +20,9 @@ I'm going to give a quick warning: this is probably way heavier than
 anything else you'll read on my site. It's rare I post stuff like this.
 Ye be warned, etc. etc.
 
+
 <!-- PELICAN_END_SUMMARY -->
+
 
 First, if you're ever going to get into an argument, make sure you don't
 do any of the following: [Ad

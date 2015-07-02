@@ -8,12 +8,12 @@ Status: published
 
 ### Table of contents: {#toc}
 
--   [Leading vision](#lead)
--   [Colours and moods](#colour)
--   [Focal Points](#focal)
--   [Golden rule](#gold)
--   [Dynamic Photos](#buzzword)
--   [When Does it All End?](#end)
+1.  [Leading vision](#lead)
+2.  [Colours and moods](#colour)
+3.  [Focal Points](#focal)
+4.  [Golden rule](#gold)
+5.  [Dynamic Photos](#buzzword)
+6.  [When Does it All End?](#end)
 
 ### "What about leading the viewers vision?" {#lead}
 

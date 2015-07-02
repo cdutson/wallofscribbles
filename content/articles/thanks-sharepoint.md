@@ -34,7 +34,7 @@ style="color: red">Receiver</span><span
 style="color: blue">&gt;</span>items inside. What the hell is going on?
 Read on!
 
-.postList
+
 
 I'll give an example of what I'm talking about here - the following
 comes from
