@@ -30,6 +30,7 @@ PATH_METADATA = '\A(?P<date>\d{4}/\d{2}/)-(?P<slug>.*)(.md|.rst)'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 STATIC_PATHS = ['images', 'wp-content', 'downloads', 'gallery']
+USE_FOLDER_AS_CATEGORY = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

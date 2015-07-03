@@ -61,5 +61,7 @@ include/
 lib/
 bin/
 output/
+.DS_Store
+.sass-cache/
 
 wallofscribbles.wordpress.*
