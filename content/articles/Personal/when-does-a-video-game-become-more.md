@@ -1,9 +1,9 @@
 Title: When does a video game become more than a video game?
-Date: 2013-07-04 13:11
+Date: 2015-07-09 12:00
 Author: Corey Dutson
 Slug: when-does-a-video-game-become-more
 Tags: video games, Sega, 386 master race, Story-telling, 
-Status: draft
+Status: published
 
 You know, I've played many games in my time here on Earth. In my youth, my household had a [Sega Master System](https://en.wikipedia.org/wiki/Master_System) and a beast of a [386 computer](http://en.wikipedia.org/wiki/Intel_80386 "Wikipedia - 386 processors") that came with eight whole MB of RAM. I have been playing video games literally since before I could tie my shoes, see over counter tops, or stay up past 7 PM. When I got older, I purchased my first console — an original PlayStation — which I played until the day it stopped spinning discs. I invested my own time and money into getting more games into my grubby little hands. I got my first job as a direct result of this _hunger_.
 
