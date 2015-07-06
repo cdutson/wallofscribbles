@@ -1,7 +1,8 @@
 Title: Blank
 Date: 2015-01-01 00:01
 Author: Corey Dutson
-Slug: i-am-a-slug
+Tags: tags, go, here
+Slug: if-different-from-filename
 Status: draft
 
 intro
@@ -16,3 +17,12 @@ content
 
 <!-- align image left -->
 [![alt-text](url/to/image.jpg){: class=alignleft }](url/to/image.jpg)
+
+<!-- align image left -->
+[![alt-text](url/to/image.jpg){: class=alignleft }](url/to/image.jpg)
+
+<!-- align image center -->
+[![alt-text](url/to/image.jpg){: class=aligncenter }](url/to/image.jpg)
+
+<!-- align image none -->
+[![alt-text](url/to/image.jpg){: class=alignnone }](url/to/image.jpg)
