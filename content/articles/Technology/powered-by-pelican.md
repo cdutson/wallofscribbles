@@ -14,7 +14,7 @@ So anyways I've changed the website to use Pelican instead of Wordpress.
 
 My current place of work, [G Adventures](http://www.gadventures.com), is working on getting a tech blog up and running. When we were looking for a platform to write on, we wanted something easy to set up, easy to write for, and easy to publish.
 
-Wordpress is usually the go-to for blogs, but the less PHP code we have running, the better, and to be honest? Wordpress is a resource-hogging beast. Tumblr could have worked as it's a solid platform, but we wanted to self-host, so that makes tumblr a no-go.
+Wordpress is usually the go-to for blogs, but we're not big fans of PHP. What's more, Wordpress is a resource-hogging beast. Tumblr could have worked as it's a solid platform, but we wanted to self-host, so that makes tumblr a no-go.
 
 Pelican stood out because it generates a static site using a fabric script, so we can hook it into our current deployment systems. On top of that it uses Jinja2 templates, which we're all familiar with since we're a python/django house. So when it came time for me to try and get this blog up and running again, I didn't have to do the research: I already knew what I wanted to use.
 
@@ -51,7 +51,7 @@ To be honest, I'm not sure anyone used the search in the first place, so until I
 
 ### Updating the layout, gettin sassy
 
-Switching to Pelican also allowed me (or somewhat forced my hand, depending on your view of things) to update my layout somewhat and gave me the opportunity to switch over to [SASS](http://sass-lang.com/). 
+Switching to Pelican also allowed me (or somewhat forced my hand, depending on your view of things) to update my layout somewhat and gave me the opportunity to switch over to [SASS](http://sass-lang.com/).
 
 The layout changes came because I had to rebuild the entire thing using pelican's theme system, and so I also took the opportunity to update the font selection (Valera Round and Crimson Text from [Google Fonts](https://www.google.com/fonts) and [Font Awesome](http://fortawesome.github.io/Font-Awesome/) for the icons), clean up some rough edges, and update my footer links some. I'm sure no one but me actually cares about these changes, but I'm happy I finally got around to doing it.
 
@@ -59,7 +59,7 @@ One of the things I _am_ excited about was the chance to start using SASS in my 
 
 ### Smaller footprint
 
-It's not all bad news of course. Pelican is used by many people, and for a good reason: It's light-weight. The things I'm complaining about above are because in most cases, you don't need to worry about them. Pelican is wonderful if all you want to do is write articles and get them published without a lot of struggle. 
+It's not all bad news of course. Pelican is used by many people, and for a good reason: It's light-weight. The things I'm complaining about above are because in most cases, you don't need to worry about them. Pelican is wonderful if all you want to do is write articles and get them published without a lot of struggle.
 
 There's something refreshing about having only static content to deploy. I got so used to having a million moving parts with Wordpress that when I swapped to Pelican, I kept on assuming there was more I had to do. There isn't! I run my deploy command, and it just moves the changed files onto the server. It's simple, and it works.
 
@@ -78,6 +78,12 @@ Another change to my workflow is the fact that my website is now hosted on Githu
 What is special is that I can use this repo to give myself tasks in the form of issues, and I can create branches for my posts. That way I'm not cluttering my build up unnecessarily. It feels clean, and I like it.
 
 And as a somewhat side bonus, if and when I post code examples, or someone finds a typo in an article, they can create pull-requests for corrections. I'm not sure how often that will happen, but the opportunity is there.
+
+## So long, comments
+
+One of the things with having a static site (and arguably the main reason I stuck with Wordpress for so long), is that you cannot really have a dynamic comment system. That used to be true, anyways. I've swapped the site over to use [Disqus](https://disqus.com), because it's quick, simple, and seems to be the de facto for website comments now. I've no idea what sort of info they may be collecting, but I'm okay with being the product in this instance.
+
+I could have archived all the old comments and worked them in for historical purposes. I could have. I didn't bother. There wasn't really that much stimulating discourse, so I didn't see the need. As such they're _alllllll gone._
 
 ## So overall...
 
