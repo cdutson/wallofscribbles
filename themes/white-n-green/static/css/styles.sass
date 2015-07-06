@@ -54,9 +54,12 @@ h6
   font-size: 0.8em
   margin: 0
 
+<<<<<<< HEAD
 code
   font-size: 80%
 
+=======
+>>>>>>> master
 article
   & h1, & h2, & h3, & h4, & h5, & h6
     color: $green
@@ -73,13 +76,25 @@ article
   & h3, & h4, & h5, & h6
     margin-right: 0px
 
+.highlight
+  margin: 1em 0px
+  background: $transparent-grey
+  padding: 1em 40px
+  font-size: 80%
+  border: 1px solid $light-grey
+
+  & pre
+    margin-bottom: 0px
+
 blockquote
   margin: 1em 0px
   background: $transparent-grey
   padding: 1em 40px 0px
+  border: 1px solid $light-grey
 
   &:before, &:after
     color: $orange
+
 p, pre
   margin: 0px 0px 1em 0
 
@@ -88,8 +103,13 @@ pre, code, kbd, samp
   _font-family: 'courier new', monospace
   font-size: 1em
 
+code
+  font-size: 80%
+  background: $transparent-grey
+  padding: 0.1em 0.4em
+  border: 1px solid $light-grey
+
 pre
-  white-space: pre
   white-space: pre-wrap
   word-wrap: break-word
 
