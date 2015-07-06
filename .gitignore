@@ -63,5 +63,7 @@ bin/
 output/
 .DS_Store
 .sass-cache/
+pelican.pid
+srv.pid
 
 wallofscribbles.wordpress.*
