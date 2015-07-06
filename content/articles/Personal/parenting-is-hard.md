@@ -3,7 +3,7 @@ Date: 2015-07-13
 Author: Corey Dutson
 Slug: we-made-a-baby-what-have-we-done
 Tags: parenting, babies, frustration, sleep-deprivation
-Status: draft
+Status: published
 
 On June 11th, 2015, my wife powered through the delivery of our daughter, Scarlett. I'm not going to go into detail as to the birth itself, other than to say that my wife did an absolutely amazing job. Truly an amazing experience to be a part of, and I could not be more proud of her.
 
