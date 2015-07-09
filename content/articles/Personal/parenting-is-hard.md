@@ -101,3 +101,7 @@ After three weeks, I'm already way better at handling her evening scream. I've l
 If I can power through it, you can as well. Trust me.
 
 Raising a kid is fucking difficult, and I've only just begun.
+
+Do you know what's funny, though? I've my wife recently went away with our child for a couple days, and I found myself missing them. Like, not missing them a little; but counting-the-hours-until-they-were-home-again levels of missing. It's kind of crazy that this same sleep-ruining, stress-inducing, frustration machine is what was generating such a desire to hold her again.
+
+That's probably parenting in a nutshell, if you think about it. Your kid gives you nothing but grief, and you love them anyways.
