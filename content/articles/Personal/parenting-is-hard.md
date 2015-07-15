@@ -1,5 +1,5 @@
 Title: Parenting is hard
-Date: 2015-07-13 
+Date: 2015-07-13
 Author: Corey Dutson
 Slug: we-made-a-baby-what-have-we-done
 Tags: parenting, babies, frustration, sleep-deprivation
@@ -7,7 +7,7 @@ Status: published
 
 On June 11th, 2015, my wife powered through the delivery of our daughter, Scarlett. I'm not going to go into detail as to the birth itself, other than to say that my wife did an absolutely amazing job. Truly an amazing experience to be a part of, and I could not be more proud of her.
 
-I knew raising a brand new person was going to be hard. I really did know that before we started. However knowing something _in theory_ and then knowing it _in practice_ are very, very different things. You think I would have learned that the difference between theoretical knowledge and practical application from my time before ever having sex with anyone. 
+I knew raising a brand new person was going to be hard. I really did know that before we started. However knowing something _in theory_ and then knowing it _in practice_ are very, very different things. You think I would have learned that the difference between theoretical knowledge and practical application from my time before ever having sex with anyone.
 
 Eh, I'm a slow learner, apparently.
 
@@ -29,11 +29,11 @@ Seriously, it's nuts how quick you stop caring.
 
 ## Sleep deprivation
 
-Everyone jokes about how tired you'll be when you have a new-born. _Everyone._ They're right, of course. Lack of sleep isn't anything new in regard to child rearing. What I didn't know was just how much that dedicated lack of sleep was going to suck. I've done lack of sleep before. At my time at Concept, I had pulled a 50 hour work day. I generally handle sleep deprivation pretty well... in small, isolated doses. For the last month or so, I've been whittled down to at best 6 hours of interrupted sleep. It's generally closer to 5. Every day, this is what I get.
+Everyone jokes about how tired you'll be when you have a new-born. _Everyone._ They're right, of course. Lack of sleep isn't anything new in regard to child rearing. What I didn't know was just how much that dedicated lack of sleep was going to suck. I've done lack of sleep before. At my time at Concept, I had pulled a 50 hour work day. To clarify, I went to work Monday, and left some time on Wednesday. I slept for a couple hours in the middle using my shoes as a pillow. What I'm saying is that I generally handle sleep deprivation pretty well... in small, isolated doses. For the last month or so, I've been whittled down to at best 6 hours of interrupted sleep. It's generally closer to 5. Every day, this is what I get.
 
 That really starts to wear you down. It makes you irritable; it makes you dumb; it makes you lethargic. Unfortunately your baby doesn't give _a single shit_ about any of that, and that just adds to your exhaustion. It's a vicious cycle.
 
-Try and nap when your child naps. It's what I keep telling my wife, and she's been managing so far. I on the other hand am an idiot who cannot nap to save his life. This means that I get to be tired most of the time. 
+Try and nap when your child naps. It's what I keep telling my wife, and she's been managing so far. I on the other hand am an idiot who cannot nap to save his life. This means that I get to be tired most of the time.
 
 ## Invest in hearing protection
 
@@ -45,7 +45,7 @@ Chances are your hearing isn't as busted as mine is, and if that's the case: goo
 
 ## Babies are ungrateful little creatures
 
-Babies are assholes by design. It's true. They're ungrateful little tyrants that do nothing but make noise and work for their parents. If they didn't constantly demand your attention, you might fall asleep and then they'd die because you didn't feed them or whatever for 8 hours. 
+Babies are assholes by design. It's true. They're ungrateful little tyrants that do nothing but make noise and work for their parents. If they didn't constantly demand your attention, you might fall asleep and then they'd die because you didn't feed them or whatever for 8 hours.
 
 Babies do not give a _single shit_ about what you're doing, and that's frustrating as all hell. You need to go to the bathroom? That's the perfect time to start screaming at the top of their lungs. You want to eat something? Fuck that, you have to carry baby around for 40 minutes until they fall asleep. You wanted to go out somewhere? Good-goddamned-luck. Babies don't care about _your_ schedule.
 
@@ -63,9 +63,9 @@ As I was locking up my bike, a realization hit me: We can't do things anymore. M
 There is a comedian, Michael McIntyre, who has a skit regarding having children. It's very funny, and you should take a moment and [have a watch](https://www.youtube.com/watch?v=uFQfylQ2Jgg).
 
 > Persona 1: Shall we leave the house?
-> 
+>
 > Persona 2: Yes.
-> 
+>
 > \*mimes two people walking out the front door\*
 
 It's funny, but very true. My wife and I can only do things when they can be planned well in advance. Hell, this early on, there's basically nothing we can do. Our child requires feeding and changing too often, and the stares we would get from those without children when our daughter inevitably cries are simply too much to handle.
@@ -88,7 +88,7 @@ So there I am, pacing around trying to sooth my daughter, when from out of nowhe
 
 So that's exactly what I did. I placed my daughter in her crib, walked out of the room (headphones trailing behind me) and told me wife, and I quote: **"I'm done. I'm out. You've gotta go in there because I just can't right now. I can't."**
 
-Not my proudest moment, but I know I'm not alone in this. Thousands of other parents have had a similar experience, I know they have. It doesn't really make me feel less bad about it, but at least I know I'm not alone in my exasperation. There are a lot of parents who have had similar thoughts and unfortunately acted upon them. 
+Not my proudest moment, but I know I'm not alone in this. Thousands of other parents have had a similar experience, I know they have. It doesn't really make me feel less bad about it, but at least I know I'm not alone in my exasperation. There are a lot of parents who have had similar thoughts and unfortunately acted upon them.
 
 **To be clear:** I don't condone their actions in any way; to harm a baby or child under your care is deplorable. However having been in that moment myself, I can at least say that I _empathize_ with them. It's still a terrible thing to do, but _I get it._
 
@@ -96,7 +96,7 @@ See, what people don't tell you is that you're going to break at some point. It'
 
 ## So how are you doing, champ?
 
-After three weeks, I'm already way better at handling her evening scream. I've learned to accept my reality, which is kind of fucked up if you think about it. Regardless, I've been able to brace myself and accept the situation with a lot more calm since my little freakout. She's still loud, and it still sucks, but I'm handling it a lot better. 
+After three weeks, I'm already way better at handling her evening scream. I've learned to accept my reality, which is kind of fucked up if you think about it. Regardless, I've been able to brace myself and accept the situation with a lot more calm since my little freakout. She's still loud, and it still sucks, but I'm handling it a lot better.
 
 If I can power through it, you can as well. Trust me.
 
