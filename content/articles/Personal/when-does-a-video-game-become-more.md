@@ -1,8 +1,8 @@
 Title: When does a video game become more than a video game?
-Date: 2015-07-09 12:00
+Date: 2015-07-20 12:00
 Author: Corey Dutson
 Slug: when-does-a-video-game-become-more
-Tags: video games, Sega, 386 master race, Story-telling, 
+Tags: video games, Sega, 386 master race, Story-telling,
 Status: published
 
 You know, I've played many games in my time here on Earth. In my youth, my household had a [Sega Master System](https://en.wikipedia.org/wiki/Master_System) and a beast of a [386 computer](http://en.wikipedia.org/wiki/Intel_80386 "Wikipedia - 386 processors") that came with eight whole MB of RAM. I have been playing video games literally since before I could tie my shoes, see over counter tops, or stay up past 7 PM. When I got older, I purchased my first console — an original PlayStation — which I played until the day it stopped spinning discs. I invested my own time and money into getting more games into my grubby little hands. I got my first job as a direct result of this _hunger_.
@@ -15,13 +15,13 @@ I've played all sorts, from RPGs to sports; from puzzles to card; from strategy 
 
 ## The difference between good and great
 
-I'll start by saying that not all games are created equally; that's a no-brainer, but it's as easy a launching point as any. There are a lot of bad games out there: bad writing, bad scripting, bad technology, buggy handling, complete lack of understanding of a control scheme. You name it, and there are games that are nigh unplayable as a result. This is not a unique opinion. 
+I'll start by saying that not all games are created equally; that's a no-brainer, but it's as easy a launching point as any. There are a lot of bad games out there: bad writing, bad scripting, bad technology, buggy handling, complete lack of understanding of a control scheme. You name it, and there are games that are nigh unplayable as a result. This is not a unique opinion.
 
 There are also many games that are simply "fine." They set out to do what they wanted, and while they may have lacked grace or elegance, by god they got there. This is also not a unique opinion. A lot of people can list off bad and mediocre games; what's more is that there's always a large overlap. People tend to agree when games are bad or just ok.
 
 Good games — and more so great games — are much harder to pin down. There are some that people can agree on (I'm told the first Assassin's Creed falls into this category), but when it comes to good and great games, opinions differ, and conversations get heated. A lot of hyperbole is thrown around. Phrases like "How can you like X? X is literally the worst game ever made." This is said directly from that person's ass, as they are talking out of it.
 
-So I like to try and take games from a blank slate angle. I find out of something has been generally liked, but that's more or less where my use of public opinion ends. This has lead me to play some really great games, a couple good games, and a lot of mediocre to bad games. 
+So I like to try and take games from a blank slate angle. I find out of something has been generally liked, but that's more or less where my use of public opinion ends. This has lead me to play some really great games, a couple good games, and a lot of mediocre to bad games.
 
 I define good games as ones that I play and enjoy, but once I've beaten/finished/whatever them, I put them down and never think of them again. Games like [Syndicate](http://www.ea.com/syndicate), [Deus Ex: Human Revolution](https://www.deusex.com/game/dx-hr), [Fire Emblem](http://fireemblem.nintendo.com/), [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)) (The new one, not the old polygon riddled ones), [Scott Pilgrim](https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game), [Dishonored](http://www.dishonored.com/#/dishonored), [The Katamari series](https://en.wikipedia.org/wiki/Katamari_Damacy), [Brothers: A Tale of Two Sons](http://www.brothersthegame.com/), the list goes on. A lot of these games were really enjoyable to play, and I can't really find fault in them. The problem is once I finished playing them I don't want to tell people about my experience playing it, other than some basic discussion. I'll never have deep, rich discourse over the merits of their writing or how they made me feel.
 
@@ -107,7 +107,7 @@ The ability to re-play this game in various ways (a trait lost on the later game
 
 [![FEZ]({filename}../../images/when-does-a-video-game-become-more/Fez.png){: class=aligncenter }]({filename}../../images/when-does-a-video-game-become-more/Fez.png)
 
-Putting aside the fact that the games' creator, Phil Fish, is an asshole, FEZ is a fucking phenomenal game. Mechanically, FEZ is a very simple game: It's a 2D platformer with a 3-dimensional twist (that's a joke for anyone who's actually played FEZ). 
+Putting aside the fact that the games' creator, Phil Fish, is an asshole, FEZ is a fucking phenomenal game. Mechanically, FEZ is a very simple game: It's a 2D platformer with a 3-dimensional twist (that's a joke for anyone who's actually played FEZ).
 
 FEZ has almost on dialogue, and the story is almost entirely passive: you have to collect some cubes to fix the world you live in from glitching out. You need to collect x amount to "beat" the game. That's the most straight-forward way to play the game, and also the worst.
 
@@ -119,9 +119,9 @@ What's more about FEZ is that it takes at least 3 play-throughs to get most of t
 
 [![Bioshock]({filename}../../images/when-does-a-video-game-become-more/bioshock.jpg){: class=aligncenter }]({filename}../../images/when-does-a-video-game-become-more/bioshock.jpg)
 
-You want world-building? You want well-written characters? You want to have the poop scared out of you on a semi-regular basis? Bioshock is the game you are looking for. 
+You want world-building? You want well-written characters? You want to have the poop scared out of you on a semi-regular basis? Bioshock is the game you are looking for.
 
-There's so much I've already said about [Bioshock]({filename}bioshock.md "Wall of Scribbles - Bioshock"), so I'm not going to wax poetic about it here. Bioshock is a great game in almost every way. It's beautiful game with some fantastic writing; it hooks you early and drags you down to the bottom of the ocean. You cannot help but invested in the characters in this game. Hell, regardless of whether you play as a 'good' or 'bad' character, the writing really works to support you either way. 
+There's so much I've already said about [Bioshock]({filename}bioshock.md "Wall of Scribbles - Bioshock"), so I'm not going to wax poetic about it here. Bioshock is a great game in almost every way. It's beautiful game with some fantastic writing; it hooks you early and drags you down to the bottom of the ocean. You cannot help but invested in the characters in this game. Hell, regardless of whether you play as a 'good' or 'bad' character, the writing really works to support you either way.
 
 The game itself is pretty solid as well. Other than more back-tracking than is strictly neccessary, the technical mechanics of Bioshock are pretty swell. It plays like a great game, and it feels like a lot of work went into making the experience the best it could be.
 
