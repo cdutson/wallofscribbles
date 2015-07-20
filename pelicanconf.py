@@ -21,6 +21,9 @@ PORTFOLIO_CATEGORY = 'portfolio'
 TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = u'en'
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
 CURRENT_DATE = datetime.datetime.now()
 
 PATH_METADATA = '\A(?P<date>\d{4}/\d{2}/)-(?P<slug>.*)(.md|.rst)'
