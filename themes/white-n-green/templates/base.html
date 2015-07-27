@@ -10,6 +10,28 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <link type="text/plain" rel="author" href="{{ SITEURL }}/theme/humans.txt" />
 
+        <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/favicon/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="/favicon/manifest.json">
+        <link rel="shortcut icon" href="/favicon/favicon.ico">
+        <meta name="apple-mobile-web-app-title" content="Wallofscribbles">
+        <meta name="application-name" content="Wallofscribbles">
+        <meta name="msapplication-TileColor" content="#00b25c">
+        <meta name="msapplication-TileImage" content="/favicon/mstile-144x144.png">
+        <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
         {% if FEED_ALL_ATOM %}
             <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
@@ -42,11 +64,11 @@
         {% assets filters="jsmin", output="js/head.min.js", "js/modernizr-min.js" %}
             <script type='text/javascript' src='{{ SITEURL }}/{{ ASSET_URL }}'></script>
         {% endassets %}
-    
+
         {% assets filters="cssmin", output="css/style.min.css", "css/pygment.css" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
-        
+
         {% assets filters="sass, cssmin", output="css/themes.min.css", "css/styles.sass" %}
             <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
@@ -82,11 +104,11 @@
     <script>
         $(document).ready(function() {
             WOS.UI.init();
-            {% block extra_doc_js %}    
+            {% block extra_doc_js %}
             {% endblock %}
         });
     </script>
-    {% block extra_js %}    
+    {% block extra_js %}
     {% endblock %}
 </body>
 </html>
