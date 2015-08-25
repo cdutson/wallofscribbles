@@ -16,7 +16,7 @@ This is an ode to my shoes: They started as the former, and ended life as the la
 
 <!-- PELICAN_END_SUMMARY -->
 
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/right-tongue.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/right-tongue.jpg)
+[![They held their bright colours shockingly well]({filename}../../images/an-ode-to-my-shoes/right-tongue.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/right-tongue.jpg)
 
 ## Before we start
 
@@ -38,7 +38,7 @@ Anywho, I bought them for a reasonable price, and then they sat in my home for m
 
 As it turns out, they weren't actually all that comfortable. In fact they really kind of sucked to wear for any long period of time. I tried them out a couple times, and all I got for my effort was blisters. So I threw 'em in the closet and the followed me from home to home until I eventually returned to Canada.
 
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/left-heel.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/left-heel.jpg)
+[![I'm always interested by shoe erosion from a persons gait]({filename}../../images/an-ode-to-my-shoes/left-heel.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/left-heel.jpg)
 
 ## Shoes in Canada
 
@@ -50,7 +50,7 @@ Oh, and I had a [daughter]({filename}../Personal/parenting-is-hard.md). That tot
 
 So I did what anyone in my position would do: I wore every other pair of shoes that I owned until they were ready to be tossed. I was eventually left with no other option than to wear these hurting bastards, and wore them I did.
 
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/right-base.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/right-base.jpg)
+[![The laces were far newer than the shoes, the previous ones were eaten by my bike gears]({filename}../../images/an-ode-to-my-shoes/right-base.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/right-base.jpg)
 
 ## The beginning of the end
 
@@ -72,14 +72,13 @@ I bought some new shoes (no where near as comfortable or pretty) after my co-wor
 
 So I did what anyone would probably not do: I took a bunch of photos of them to write a blog post. We all handle loss differently, I guess. So anyways, here's some more photos of my hobo-level shoes for what it's worth.
 
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/left-close-up.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/left-close-up.jpg)
+[![One of the many holes in these things. I could stick my pinky toe from out of this one]({filename}../../images/an-ode-to-my-shoes/left-close-up.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/left-close-up.jpg)
 
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/soles.jpg){: class=alignleft }]({filename}../../images/an-ode-to-my-shoes/soles.jpg)
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/right-heel.jpg){: class=alignright }]({filename}../../images/an-ode-to-my-shoes/right-heel.jpg)
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/right-close-up.jpg){: class=alignleft }]({filename}../../images/an-ode-to-my-shoes/right-close-up.jpg)
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/right-stripes.jpg){: class=alignright }]({filename}../../images/an-ode-to-my-shoes/right-stripes.jpg)
-
-[![My beaten to hell shoes]({filename}../../images/an-ode-to-my-shoes/top-down.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/top-down.jpg)
+[![The soles of the shoes held up amazingly well; far better than I would have expected]({filename}../../images/an-ode-to-my-shoes/soles.jpg){: class=alignleft }]({filename}../../images/an-ode-to-my-shoes/soles.jpg)
+[![Lost the adidas emblem on the right shoe]({filename}../../images/an-ode-to-my-shoes/right-heel.jpg){: class=alignright }]({filename}../../images/an-ode-to-my-shoes/right-heel.jpg)
+[![These shoes used to be soft, I promise]({filename}../../images/an-ode-to-my-shoes/right-close-up.jpg){: class=alignleft }]({filename}../../images/an-ode-to-my-shoes/right-close-up.jpg)
+[![The 'leather' held up really well, look how bright this is]({filename}../../images/an-ode-to-my-shoes/right-stripes.jpg){: class=alignright }]({filename}../../images/an-ode-to-my-shoes/right-stripes.jpg)
+[![Those hairs n' such were ground right into the cushion, as they were caught under my orthodics]({filename}../../images/an-ode-to-my-shoes/top-down.jpg){: class=aligncenter }]({filename}../../images/an-ode-to-my-shoes/top-down.jpg)
 
 Good night, sweet shoes. You did good. 
 
