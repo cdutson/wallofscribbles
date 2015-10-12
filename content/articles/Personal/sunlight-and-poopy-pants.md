@@ -2,7 +2,7 @@ Title: Sunlight and Poopy Pants
 Date: 2015-10-12 12:00
 Author: Corey Dutson
 Tags: sunlight, poop, babies, cleaning, diapers, nappies, cloth diapers, rumparooz, bumGenius, dadlife
-Status: draft
+Status: published
 
 So hey, you know babies? Turns out that they poop. Like a lot. Like multiple times a day. Babies poop like they've eaten nothing but curry paste and ex-lax. Babies poop like they're in some kind of hotdog-eating competition, but in this case the hotdogs are poop, and the eating is pooping. Baby's poop like they don't give a fuck. You know why? Because they're babies and they don't even have a concept of giving a fuck.
 
