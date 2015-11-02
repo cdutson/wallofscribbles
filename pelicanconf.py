@@ -31,6 +31,7 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 STATIC_PATHS = ['images', 'wp-content', 'downloads', 'gallery']
 USE_FOLDER_AS_CATEGORY = True
+SASS_PATH=.
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -21,12 +21,3 @@ content
 
 <!-- align image left -->
 [![alt-text](url/to/image.jpg){: class=alignleft }](url/to/image.jpg)
-
-<!-- align image left -->
-[![alt-text](url/to/image.jpg){: class=alignleft }](url/to/image.jpg)
-
-<!-- align image center -->
-[![alt-text](url/to/image.jpg){: class=aligncenter }](url/to/image.jpg)
-
-<!-- align image none -->
-[![alt-text](url/to/image.jpg){: class=alignnone }](url/to/image.jpg)
