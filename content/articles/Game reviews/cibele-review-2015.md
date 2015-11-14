@@ -1,7 +1,7 @@
 Title: Cibele - Star Maid Games (2015)
-Date: 2015-11-13 12:00
+Date: 2015-11-13 23:55
 Author: Corey Dutson
-Tags: Cibele, games, Reviews, Computer, Steam, 7/10, Star Maid Games
+Tags: Cibele, Games, Reviews, Computer, Steam, 7/10, Star Maid Games
 Status: published 
 
 I asked for a game recommendation to play on the plane while I was flying to/from a recent business trip. People suggested Cibele, and so I grabbed it. Within about 5 minutes of playing I realized: _"Nope, I cannot play this on a plane with people around me."_ People don't seem to understand that NSFW also applies to **Planes full of families and children.**
