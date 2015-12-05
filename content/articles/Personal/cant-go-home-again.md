@@ -1,14 +1,14 @@
 Title: You Can't Go Home Again
 Date: 2015-12-04 12:00
 Author: Corey Dutson
-Tags: tags, go, here
-Status: draft
+Tags: London, emotions, full frontal, friends, hangover
+Status: published
 
 So recently I got the opportunity to attend a conference in the UK. [FullFrontal](http://fullfrontal.org/) is a fantastic conference for front-end developers, but honestly I'd recommend it to anyone who's at least kind of interested in technology. It's a fantastic day of talks that range from inspiring to insightful to straight-up entertaining.
 
 The conference itself was only one day, but it was cheapest for me to be in the UK for a week. How I persuaded my wife to allow this is something I will never understand. I know sure as all get out that it won't happen a second time.
 
-I was excited by the prospect of visiting the UK since I lived there for years. I expected it to be a whirlwind tour of friends and places, food and drink, and good feelings all around. And it was! I got to see friends, eat foods, and also suffer one of the worst hangovers I've had in years. What I didn't have were the good feelings.
+I was excited by the prospect of visiting the UK since I lived there for years. I expected it to be a whirlwind tour of friends and places, food and drink, and good feelings all around. And it was! I got to see friends, eat foods, and also suffer one of the worst hangovers I've had in years. What I didn't have was the good feelings.
 
 <!-- PELICAN_END_SUMMARY -->
 
